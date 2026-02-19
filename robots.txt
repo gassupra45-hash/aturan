@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tangereapp.com/sitemap.xml
+Sitemap: https://tangereapp.com/category/senate/sitemap.xml
