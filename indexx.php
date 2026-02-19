@@ -1,63 +1,57 @@
 
-<!doctype html >
-<html lang="en-US" prefix="og: https://ogp.me/ns#">
-<head>
-    <meta charset="UTF-8" />
-    <title>NIMS - NIIMS, National Integrated Identity Management System - Nims</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="pingback" href="https://nims.co.ke/xmlrpc.php" />
-        <style>
-        #wpadminbar #wp-admin-bar-p404_free_top_button .ab-icon:before {
-            content: "\f103";
-            color:red;
-            top: 2px;
-        }
-    </style>
-    <link rel="icon" type="image/png" href="https://nims.co.ke/wp-content/uploads/2021/06/Nims-Favicon.png">
-<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<meta name="description" content="Nims provides Kenya&#039;s National Integrated Identity Management System - NIIMS, Huduma Number, Huduma Card, and the niims website portal- http://niims.co.ke/"/>
-<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-<link rel="canonical" href="https://nims.co.ke/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="NIMS - NIIMS, National Integrated Identity Management System - Nims" />
-<meta property="og:description" content="Nims provides Kenya&#039;s National Integrated Identity Management System - NIIMS, Huduma Number, Huduma Card, and the niims website portal- http://niims.co.ke/" />
-<meta property="og:url" content="https://nims.co.ke/" />
-<meta property="og:site_name" content="Nims" />
-<meta property="og:updated_time" content="2021-06-08T10:11:31+03:00" />
-<meta property="og:image" content="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png" />
-<meta property="og:image:secure_url" content="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png" />
-<meta property="og:image:width" content="363" />
-<meta property="og:image:height" content="330" />
-<meta property="og:image:alt" content="niims" />
-<meta property="og:image:type" content="image/png" />
-<meta property="article:published_time" content="2021-06-06T21:45:25+03:00" />
-<meta property="article:modified_time" content="2021-06-08T10:11:31+03:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="NIMS - NIIMS, National Integrated Identity Management System - Nims" />
-<meta name="twitter:description" content="Nims provides Kenya&#039;s National Integrated Identity Management System - NIIMS, Huduma Number, Huduma Card, and the niims website portal- http://niims.co.ke/" />
-<meta name="twitter:image" content="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png" />
-<meta name="twitter:label1" content="Written by" />
-<meta name="twitter:data1" content="Nims" />
-<meta name="twitter:label2" content="Time to read" />
-<meta name="twitter:data2" content="14 minutes" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://nims.co.ke/#organization","name":"NIMS - NIIMS information","url":"https://nims.co.ke","logo":{"@type":"ImageObject","@id":"https://nims.co.ke/#logo","url":"https://nims.co.ke/wp-content/uploads/2021/05/logo.png","contentUrl":"https://nims.co.ke/wp-content/uploads/2021/05/logo.png","caption":"NIMS - NIIMS information","inLanguage":"en-US","width":"363","height":"330"}},{"@type":"WebSite","@id":"https://nims.co.ke/#website","url":"https://nims.co.ke","name":"NIMS - NIIMS information","publisher":{"@id":"https://nims.co.ke/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://nims.co.ke/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png?fit=363%2C330&amp;ssl=1","url":"https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png?fit=363%2C330&amp;ssl=1","width":"363","height":"330","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://nims.co.ke/#webpage","url":"https://nims.co.ke/","name":"NIMS - NIIMS, National Integrated Identity Management System - Nims","datePublished":"2021-06-06T21:45:25+03:00","dateModified":"2021-06-08T10:11:31+03:00","about":{"@id":"https://nims.co.ke/#organization"},"isPartOf":{"@id":"https://nims.co.ke/#website"},"primaryImageOfPage":{"@id":"https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png?fit=363%2C330&amp;ssl=1"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://nims.co.ke/author/Nims/","name":"Nims","url":"https://nims.co.ke/author/Nims/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/2109445f94af46caed4a97823b76b2d38d25a9b306f889314b722b2cd5e06ac6?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/2109445f94af46caed4a97823b76b2d38d25a9b306f889314b722b2cd5e06ac6?s=96&amp;d=mm&amp;r=g","caption":"Nims","inLanguage":"en-US"},"sameAs":["https://nims.co.ke"],"worksFor":{"@id":"https://nims.co.ke/#organization"}},{"@type":"Article","headline":"NIMS - NIIMS, National Integrated Identity Management System - Nims","keywords":"niims,nims,nims website,niims website,niims portal","datePublished":"2021-06-06T21:45:25+03:00","dateModified":"2021-06-08T10:11:31+03:00","author":{"@id":"https://nims.co.ke/author/Nims/","name":"Nims"},"publisher":{"@id":"https://nims.co.ke/#organization"},"description":"Nims provides Kenya&#039;s National Integrated Identity Management System - NIIMS, Huduma Number, Huduma Card, and the niims website portal- http://niims.co.ke/","name":"NIMS - NIIMS, National Integrated Identity Management System - Nims","@id":"https://nims.co.ke/#richSnippet","isPartOf":{"@id":"https://nims.co.ke/#webpage"},"image":{"@id":"https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/logo.png?fit=363%2C330&amp;ssl=1"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://nims.co.ke/#webpage"}}]}</script>
-<!-- /Rank Math WordPress SEO plugin -->
 
-<link rel='dns-prefetch' href='//stats.wp.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//i0.wp.com' />
-<link rel='dns-prefetch' href='//c0.wp.com' />
-<link rel="alternate" type="application/rss+xml" title="Nims &raquo; Feed" href="https://nims.co.ke/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Nims &raquo; Comments Feed" href="https://nims.co.ke/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Nims &raquo; NIMS &#8211; NIIMS, National Integrated Identity Management System Comments Feed" href="https://nims.co.ke/home-2/feed/" />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://nims.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnims.co.ke%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://nims.co.ke/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnims.co.ke%2F&#038;format=xml" />
-<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US" prefix="og: https://ogp.me/ns#">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Market Research Philippines | Consumer Insights by Tangere</title>
+
+    <!-- All in One SEO 4.9.4.1 - aioseo.com -->
+  <meta name="description" content="Real-time consumer insights from 1M+ respondents in the Philippines. Tangere offers fast, data-driven market research for your business. Partner with us today." />
+  <meta name="robots" content="max-image-preview:large" />
+  <meta name="google-site-verification" content="bIr4P_I5_BO6hgJDbdVoxbW5R2XY-Lyr_Y1Rxyt5p38" />
+  <link rel="canonical" href="https://tangereapp.com/" />
+  <meta name="generator" content="All in One SEO (AIOSEO) 4.9.4.1" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:site_name" content="Tangere -" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="Market Research Philippines | Consumer Insights by Tangere" />
+    <meta property="og:description" content="Real-time consumer insights from 1M+ respondents in the Philippines. Tangere offers fast, data-driven market research for your business. Partner with us today." />
+    <meta property="og:url" content="https://tangereapp.com/" />
+    <meta property="og:image" content="https://tangereapp.com/wp-content/uploads/2024/12/1.jpg" />
+    <meta property="og:image:secure_url" content="https://tangereapp.com/wp-content/uploads/2024/12/1.jpg" />
+    <meta property="og:image:width" content="1759" />
+    <meta property="og:image:height" content="800" />
+    <meta property="article:published_time" content="2024-12-04T04:32:06+00:00" />
+    <meta property="article:modified_time" content="2026-02-13T08:25:11+00:00" />
+    <meta property="article:publisher" content="https://www.facebook.com/TangereApp" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Market Research Philippines | Consumer Insights by Tangere" />
+    <meta name="twitter:description" content="Real-time consumer insights from 1M+ respondents in the Philippines. Tangere offers fast, data-driven market research for your business. Partner with us today." />
+    <meta name="twitter:image" content="https://tangereapp.com/wp-content/uploads/2025/12/Tangere-Logo-1.png" />
+    <script type="application/ld+json" class="aioseo-schema">
+      {"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/tangereapp.com\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/tangereapp.com#listItem","position":1,"name":"Home"}]},{"@type":"Organization","@id":"https:\/\/tangereapp.com\/#organization","name":"Tangere Tangere","description":"Tangere is a leading market research and consumer insights company in the Philippines, leveraging a massive verified respondent base to provide businesses with real-time, data-driven solutions.","url":"https:\/\/tangereapp.com\/","email":"qual@tangereapp.com","telephone":"+639209590619","logo":{"@type":"ImageObject","url":"https:\/\/tangereapp.com\/wp-content\/uploads\/2025\/12\/Logo2.png","@id":"https:\/\/tangereapp.com\/#organizationLogo","width":1080,"height":1080},"image":{"@id":"https:\/\/tangereapp.com\/#organizationLogo"},"sameAs":["https:\/\/www.facebook.com\/TangereApp","https:\/\/www.tiktok.com\/@tangere","https:\/\/www.linkedin.com\/company\/tangereapp\/posts\/?feedView=all"]},{"@type":"WebPage","@id":"https:\/\/tangereapp.com\/#webpage","url":"https:\/\/tangereapp.com\/","name":"Market Research Philippines | Consumer Insights by Tangere","description":"Real-time consumer insights from 1M+ respondents in the Philippines. Tangere offers fast, data-driven market research for your business. Partner with us today.","inLanguage":"en-US","isPartOf":{"@id":"https:\/\/tangereapp.com\/#website"},"breadcrumb":{"@id":"https:\/\/tangereapp.com\/#breadcrumblist"},"datePublished":"2024-12-04T04:32:06+00:00","dateModified":"2026-02-13T08:25:11+00:00"},{"@type":"WebSite","@id":"https:\/\/tangereapp.com\/#website","url":"https:\/\/tangereapp.com\/","name":"Tangere Tangere","inLanguage":"en-US","publisher":{"@id":"https:\/\/tangereapp.com\/#organization"}}]}
+    </script>
+    <!-- All in One SEO -->
+
+<link rel="alternate" type="application/rss+xml" title="Tangere &raquo; Feed" href="https://tangereapp.com/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tangereapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftangereapp.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tangereapp.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftangereapp.com%2F&#038;format=xml" />
+    <!-- This site uses the Google Analytics by MonsterInsights plugin v10.0.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+    <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
+          <!-- No tracking code set -->
+        <!-- / Google Analytics by MonsterInsights -->
+    <style id='wp-img-auto-sizes-contain-inline-css'>
 img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 /*# sourceURL=wp-img-auto-sizes-contain-inline-css */
 </style>
-<style id='wp-emoji-styles-inline-css' type='text/css'>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='elementor-post-735-css' href='https://tangereapp.com/wp-content/uploads/elementor/css/post-735.css?ver=1771408264' media='all' />
+<link rel='stylesheet' id='elementor-post-764-css' href='https://tangereapp.com/wp-content/uploads/elementor/css/post-764.css?ver=1771408264' media='all' />
+<style id='wp-emoji-styles-inline-css'>
 
   img.wp-smiley, img.emoji {
     display: inline !important;
@@ -72,2693 +66,1850 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
   }
 /*# sourceURL=wp-emoji-styles-inline-css */
 </style>
-<style id='classic-theme-styles-inline-css' type='text/css'>
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-/*# sourceURL=/wp-includes/css/classic-themes.min.css */
-</style>
-<link rel='stylesheet' id='toc-screen-css' href='https://nims.co.ke/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2408' type='text/css' media='all' />
-<link rel='stylesheet' id='td-plugin-multi-purpose-css' href='https://nims.co.ke/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=72f925014dc5642945728092f057897e' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C300%7CRoboto%3A400%2C600%2C700%2C300&#038;display=swap&#038;ver=12.6.6' type='text/css' media='all' />
-<link rel='stylesheet' id='td-theme-css' href='https://nims.co.ke/wp-content/themes/Newspaper/style.css?ver=12.6.6' type='text/css' media='all' />
-<style id='td-theme-inline-css' type='text/css'>@media (max-width:767px){.td-header-desktop-wrap{display:none}}@media (min-width:767px){.td-header-mobile-wrap{display:none}}</style>
-<link rel='stylesheet' id='td-legacy-framework-front-style-css' href='https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=72f925014dc5642945728092f057897e' type='text/css' media='all' />
-<link rel='stylesheet' id='tdb_style_cloud_templates_front-css' href='https://nims.co.ke/wp-content/plugins/td-cloud-library/assets/css/tdb_main.css?ver=b379c96c54343541fd8742379a419361' type='text/css' media='all' />
-<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/13.8.2/css/jetpack.css' type='text/css' media='all' />
-<script type="text/javascript" src="https://c0.wp.com/c/6.9/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://c0.wp.com/c/6.9/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-<link rel="https://api.w.org/" href="https://nims.co.ke/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://nims.co.ke/wp-json/wp/v2/pages/490" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nims.co.ke/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.9" />
-<link rel='shortlink' href='https://nims.co.ke/' />
-
-<style type="text/css">
-
-:root {
-    }
-
-body {
-    }
-
-</style>
-
-  <style>img#wpstats{display:none}</style>
-        <script>
-        window.tdb_global_vars = {"wpRestUrl":"https:\/\/nims.co.ke\/wp-json\/","permalinkStructure":"\/%postname%\/"};
-        window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false,"autoloadScrollPercent":20};
-    </script>
-    
-    <style id="tdb-global-colors">:root{--accent-color:#fff}</style>
-
-    
-  <script type="text/javascript" id="google_gtagjs" src="https://www.googletagmanager.com/gtag/js?id=UA-52949509-12" async="async"></script>
-<script type="text/javascript" id="google_gtagjs-inline">
-/* <![CDATA[ */
-window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-52949509-12', {} );
-/* ]]> */
-</script>
-
-<!-- JS generated by theme -->
-
-<script type="text/javascript" id="td-generated-header-js">
-    
-    
-
-      var tdBlocksArray = []; //here we store all the items for the current page
-
-      // td_block class - each ajax block uses a object of this class for requests
-      function tdBlock() {
-        this.id = '';
-        this.block_type = 1; //block type id (1-234 etc)
-        this.atts = '';
-        this.td_column_number = '';
-        this.td_current_page = 1; //
-        this.post_count = 0; //from wp
-        this.found_posts = 0; //from wp
-        this.max_num_pages = 0; //from wp
-        this.td_filter_value = ''; //current live filter value
-        this.is_ajax_running = false;
-        this.td_user_action = ''; // load more or infinite loader (used by the animation)
-        this.header_color = '';
-        this.ajax_pagination_infinite_stop = ''; //show load more at page x
-      }
-
-        // td_js_generator - mini detector
-        ( function () {
-            var htmlTag = document.getElementsByTagName("html")[0];
-
-          if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
-                htmlTag.className += ' ie10';
-            }
-
-            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
-                htmlTag.className += ' ie11';
-            }
-
-          if ( navigator.userAgent.indexOf("Edge") > -1 ) {
-                htmlTag.className += ' ieEdge';
-            }
-
-            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
-                htmlTag.className += ' td-md-is-ios';
-            }
-
-            var user_agent = navigator.userAgent.toLowerCase();
-            if ( user_agent.indexOf("android") > -1 ) {
-                htmlTag.className += ' td-md-is-android';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
-                htmlTag.className += ' td-md-is-os-x';
-            }
-
-            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
-               htmlTag.className += ' td-md-is-chrome';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
-                htmlTag.className += ' td-md-is-firefox';
-            }
-
-            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
-                htmlTag.className += ' td-md-is-safari';
-            }
-
-            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
-                htmlTag.className += ' td-md-is-iemobile';
-            }
-
-        })();
-
-        var tdLocalCache = {};
-
-        ( function () {
-            "use strict";
-
-            tdLocalCache = {
-                data: {},
-                remove: function (resource_id) {
-                    delete tdLocalCache.data[resource_id];
-                },
-                exist: function (resource_id) {
-                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
-                },
-                get: function (resource_id) {
-                    return tdLocalCache.data[resource_id];
-                },
-                set: function (resource_id, cachedData) {
-                    tdLocalCache.remove(resource_id);
-                    tdLocalCache.data[resource_id] = cachedData;
-                }
-            };
-        })();
-
-    
-    
-var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
-var td_animation_stack_effect="type0";
-var tds_animation_stack=true;
-var td_animation_stack_specific_selectors=".entry-thumb, img, .td-lazy-img";
-var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img, .td-animation-stack .td-lazy-img";
-var tds_general_modal_image="yes";
-var tdc_is_installed="yes";
-var td_ajax_url="https:\/\/nims.co.ke\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=12.6.6";
-var td_get_template_directory_uri="https:\/\/nims.co.ke\/wp-content\/plugins\/td-composer\/legacy\/common";
-var tds_snap_menu="";
-var tds_logo_on_sticky="";
-var tds_header_style="2";
-var td_please_wait="Please wait...";
-var td_email_user_pass_incorrect="User or password incorrect!";
-var td_email_user_incorrect="Email or username incorrect!";
-var td_email_incorrect="Email incorrect!";
-var td_user_incorrect="Username incorrect!";
-var td_email_user_empty="Email or username empty!";
-var td_pass_empty="Pass empty!";
-var td_pass_pattern_incorrect="Invalid Pass Pattern!";
-var td_retype_pass_incorrect="Retyped Pass incorrect!";
-var tds_more_articles_on_post_enable="";
-var tds_more_articles_on_post_time_to_wait="";
-var tds_more_articles_on_post_pages_distance_from_top=0;
-var tds_captcha="";
-var tds_theme_color_site_wide="#4db2ec";
-var tds_smart_sidebar="";
-var tdThemeName="Newspaper";
-var tdThemeNameWl="Newspaper";
-var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
-var td_magnific_popup_translation_tNext="Next (Right arrow key)";
-var td_magnific_popup_translation_tCounter="%curr% of %total%";
-var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
-var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
-var tdBlockNonce="25efdfa0f2";
-var tdMobileMenu="enabled";
-var tdMobileSearch="enabled";
-var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
-var tdb_modal_confirm="Save";
-var tdb_modal_cancel="Cancel";
-var tdb_modal_confirm_alt="Yes";
-var tdb_modal_cancel_alt="No";
-var td_deploy_mode="deploy";
-var td_ad_background_click_link="";
-var td_ad_background_click_target="";
-</script>
-
-
-<!-- Header style compiled by theme -->
-
-<style>.td-menu-background:before,.td-search-background:before{background:rgba(0,0,0,0.5);background:-moz-linear-gradient(top,rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.6) 100%);background:-webkit-gradient(left top,left bottom,color-stop(0%,rgba(0,0,0,0.5)),color-stop(100%,rgba(0,0,0,0.6)));background:-webkit-linear-gradient(top,rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.6) 100%);background:-o-linear-gradient(top,rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.6) 100%);background:-ms-linear-gradient(top,rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.6) 100%);background:linear-gradient(to bottom,rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.6) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='rgba(0,0,0,0.5)',endColorstr='rgba(0,0,0,0.6)',GradientType=0)}</style>
-
-
-<!-- Button style compiled by theme -->
-
-<style></style>
-
-  <style id="tdw-css-placeholder"></style><style id='global-styles-inline-css' type='text/css'>
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+<link rel='stylesheet' id='aioseo/css/src/vue/standalone/blocks/table-of-contents/global.scss-css' href='https://tangereapp.com/wp-content/plugins/all-in-one-seo-pack/dist/Lite/assets/css/table-of-contents/global.e90f6d47.css?ver=4.9.4.1' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 24px; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 24px;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 24px;}:root :where(.is-layout-grid){gap: 24px;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
 /*# sourceURL=global-styles-inline-css */
 </style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://tangereapp.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.6' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.6' media='all' />
+<link rel='stylesheet' id='hello-elementor-header-footer-css' href='https://tangereapp.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.6' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='https://tangereapp.com/wp-content/uploads/elementor/css/post-5.css?ver=1771408266' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='e-popup-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/conditionals/popup.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='e-animation-grow-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInUp-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-nested-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-nested-carousel.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='e-animation-fadeIn-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-image-box-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInLeft-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='e-animation-fadeInDown-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-loop-common-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-common.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='widget-loop-carousel-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-loop-carousel.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='widget-nested-accordion-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-nested-accordion.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-form-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='elementor-post-10-css' href='https://tangereapp.com/wp-content/uploads/elementor/css/post-10.css?ver=1771408459' media='all' />
+<link rel='stylesheet' id='elementor-post-2905-css' href='https://tangereapp.com/wp-content/uploads/elementor/css/post-2905.css?ver=1771408266' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.9' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.9' media='all' />
+<link rel='stylesheet' id='elementor-gf-opensans-css' href='https://fonts.googleapis.com/css?family=Open+Sans:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<link rel='stylesheet' id='elementor-gf-inter-css' href='https://fonts.googleapis.com/css?family=Inter:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap' media='all' />
+<!--n2css--><!--n2js--><script src="https://tangereapp.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://tangereapp.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://tangereapp.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://tangereapp.com/wp-json/wp/v2/pages/10" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tangereapp.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+<link rel='shortlink' href='https://tangereapp.com/' />
+<meta name="generator" content="Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3W0ENVWF9S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3W0ENVWF9S');
+</script>
+      <style>
+        .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+        .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+          background-image: none !important;
+        }
+        @media screen and (max-height: 1024px) {
+          .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+          .e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+            background-image: none !important;
+          }
+        }
+        @media screen and (max-height: 640px) {
+          .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+          .e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+            background-image: none !important;
+          }
+        }
+      </style>
+      <link rel="icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tangereapp.com/wp-content/uploads/2024/12/cropped-tangere-favicon-270x270.png" />
 </head>
 
-<body class="home wp-singular page-template-default page page-id-490 wp-theme-Newspaper home-2 global-block-template-1 tdb-template td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="home wp-singular page-template page-template-elementor_header_footer page page-id-10 wp-embed-responsive wp-theme-hello-elementor hello-elementor-default elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-10">
 
-    <div class="td-scroll-up" data-style="style1"><i class="td-icon-menu-up"></i></div>
-    <div class="td-menu-background" style="visibility:hidden"></div>
-<div id="td-mobile-nav" style="visibility:hidden">
-    <div class="td-mobile-container">
-        <!-- mobile menu top section -->
-        <div class="td-menu-socials-wrap">
-            <!-- socials -->
-            <div class="td-menu-socials">
-                            </div>
-            <!-- close button -->
-            <div class="td-mobile-close">
-                <span><i class="td-icon-close-mobile"></i></span>
+  
+      <a class="skip-link screen-reader-text" href="#content">
+      Skip to content   </a>
+  
+  
+  <div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
+        <div data-elementor-type="wp-post" data-elementor-id="735" class="elementor elementor-735" data-elementor-post-type="elementskit_template">
+        <div class="elementor-element elementor-element-32d83a1 e-flex e-con-boxed e-con e-parent" data-id="32d83a1" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-6776fa8 e-con-full e-flex e-con e-child" data-id="6776fa8" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-b2fdd2f elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="b2fdd2f" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-icon-list-items">
+              <li class="elementor-icon-list-item">
+                      <a href="mailto:support@tangereapp.com">
+
+                      <span class="elementor-icon-list-text">support@tangereapp.com</span>
+                      </a>
+                  </li>
+            </ul>
             </div>
         </div>
-
-        <!-- login section -->
-        
-        <!-- menu section -->
-        <div class="td-mobile-content">
-            <div class="menu-primary-header-menu-container"><ul id="menu-primary-header-menu" class="td-mobile-main-menu"><li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-490 current_page_item menu-item-first menu-item-545"><a href="https://nims.co.ke/">Home</a></li>
-<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://nims.co.ke/niims-national-integrated-identity-management-system/">NIIMS &#8211; Information</a></li>
-<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://nims.co.ke/about/">About</a></li>
-<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="https://nims.co.ke/blog/">Blog</a></li>
-<li id="menu-item-383" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-383"><a href="https://nims.co.ke/category/investment-posts/">Investment posts</a></li>
-<li id="menu-item-382" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-382"><a href="https://nims.co.ke/category/corruption-scandals/">Corruption Scandals</a></li>
-<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://nims.co.ke/contact/">Contact</a></li>
-<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://nims.co.ke/kenya-2022-election-results-live/">Elections 2022</a></li>
-</ul></div>        </div>
-    </div>
-
-    <!-- register/login section -->
-    </div><div class="td-search-background" style="visibility:hidden"></div>
-<div class="td-search-wrap-mob" style="visibility:hidden">
-  <div class="td-drop-down-search">
-    <form method="get" class="td-search-form" action="https://nims.co.ke/">
-      <!-- close button -->
-      <div class="td-search-close">
-        <span><i class="td-icon-close-mobile"></i></span>
+        </div>
+    <div class="elementor-element elementor-element-26544aa e-con-full e-flex e-con e-child" data-id="26544aa" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-0c2bb7a elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-image" data-id="0c2bb7a" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                                <a href="https://apps.apple.com/us/app/tangere-pinoy-survey-w-prizes/id1448653326">
+              <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/iAppstore.png" class="attachment-large size-large wp-image-1834" alt="" />                </a>
+                              </div>
+        </div>
+        <div class="elementor-element elementor-element-3b46ba3 elementor-widget elementor-widget-image" data-id="3b46ba3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                                <a href="https://play.google.com/store/apps/details?id=mx.github.martin.tangere&#038;hl=en&#038;gl=US&#038;pli=1">
+              <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/GooglePlay.png" class="attachment-large size-large wp-image-1832" alt="" />               </a>
+                              </div>
+        </div>
+        <div class="elementor-element elementor-element-0ad60ef elementor-widget elementor-widget-image" data-id="0ad60ef" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                                <a href="https://appgallery.huawei.com/app/C107877981">
+              <img width="106" height="34" src="https://tangereapp.com/wp-content/uploads/2024/12/HAppgallery.png" class="attachment-large size-large wp-image-1833" alt="" />                </a>
+                              </div>
+        </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-8790a46 e-flex e-con-boxed e-con e-parent" data-id="8790a46" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-da11cfe e-con-full e-flex e-con e-child" data-id="da11cfe" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-6a06922 elementor-widget elementor-widget-image" data-id="6a06922" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                                <a href="https://tangereapp.com">
+              <img loading="lazy" width="181" height="58" src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" class="attachment-large size-large wp-image-741" alt="" />               </a>
+                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-51db761 e-con-full e-flex e-con e-child" data-id="51db761" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-574b73f elementor-hidden-mobile elementor-widget elementor-widget-ekit-nav-menu" data-id="574b73f" data-element_type="widget" data-e-type="widget" data-widget_type="ekit-nav-menu.default">
+        <div class="elementor-widget-container">
+              <nav class="ekit-wid-con ekit_menu_responsive_tablet" 
+      data-hamburger-icon="" 
+      data-hamburger-icon-type="icon" 
+      data-responsive-breakpoint="1024">
+                  <button class="elementskit-menu-hamburger elementskit-menu-toggler"  type="button" aria-label="hamburger-icon">
+                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
+                            </button>
+            <div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover"><ul id="menu-menu" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon"><li id="menu-item-2429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2429 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/about/" class="ekit-menu-nav-link">ABOUT US</a></li>
+<li id="menu-item-4201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4201 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/quantitative-study/" class="ekit-menu-nav-link">SERVICES</a></li>
+<li id="menu-item-746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-746 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/about/#testimonial" class="ekit-menu-nav-link">TESTIMONIALS</a></li>
+<li id="menu-item-2430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2430 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/news/" class="ekit-menu-nav-link">NEWS</a></li>
+<li id="menu-item-748" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-748 nav-item elementskit-mobile-builder-content active" data-vertical-menu=750px><a href="/#contact" class="ekit-menu-nav-link active">CONTACT</a></li>
+</ul><div class="elementskit-nav-identity-panel"><a class="elementskit-nav-logo" href="https://tangereapp.com" target="" rel=""><img src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" title="LOGO (1)" alt="LOGO (1)" decoding="async" /></a><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button></div></div>     
+      <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>        </nav>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-c89b048 elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-ekit-nav-menu" data-id="c89b048" data-element_type="widget" data-e-type="widget" data-widget_type="ekit-nav-menu.default">
+        <div class="elementor-widget-container">
+              <nav class="ekit-wid-con ekit_menu_responsive_tablet" 
+      data-hamburger-icon="" 
+      data-hamburger-icon-type="icon" 
+      data-responsive-breakpoint="1024">
+                  <button class="elementskit-menu-hamburger elementskit-menu-toggler"  type="button" aria-label="hamburger-icon">
+                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
+                            </button>
+            <div id="ekit-megamenu-menu-mobile" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default ekit-nav-menu-one-page-no ekit-nav-dropdown-hover"><ul id="menu-menu-mobile" class="elementskit-navbar-nav elementskit-menu-po-left submenu-click-on-icon"><li id="menu-item-3773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3773 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/about/" class="ekit-menu-nav-link">ABOUT</a></li>
+<li id="menu-item-4200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4200 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/quantitative-study/" class="ekit-menu-nav-link">SERVICES</a></li>
+<li id="menu-item-3776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3776 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/about/#testimonial" class="ekit-menu-nav-link">TESTIMONIALS</a></li>
+<li id="menu-item-3774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3774 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/news/" class="ekit-menu-nav-link">NEWS</a></li>
+<li id="menu-item-3772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3772 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="https://tangereapp.com/case-studies/" class="ekit-menu-nav-link">CASE STUDIES</a></li>
+<li id="menu-item-3777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3777 nav-item elementskit-mobile-builder-content" data-vertical-menu=750px><a href="/home/#contact" class="ekit-menu-nav-link">CONTACT</a></li>
+</ul><div class="elementskit-nav-identity-panel"><a class="elementskit-nav-logo" href="https://tangereapp.com" target="" rel=""><img src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" title="LOGO (1)" alt="LOGO (1)" decoding="async" /></a><button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button></div></div>     
+      <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>        </nav>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-1a98c89 elementor-hidden-mobile elementor-widget elementor-widget-button" data-id="1a98c89" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="https://tangereapp.com/case-studies/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">Case Studies</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+          </div>
+        </div>
+        </div>
       </div>
-      <div role="search" class="td-search-input">
-        <span>Search</span>
-        <input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+
+      <div data-elementor-type="wp-page" data-elementor-id="10" class="elementor elementor-10" data-elementor-post-type="page">
+        <div class="elementor-element elementor-element-cda9fae e-con-full e-flex e-con e-parent" data-id="cda9fae" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-362d70b   elementor-arrows-position-inside elementor-widget elementor-widget-n-carousel" data-id="362d70b" data-element_type="widget" data-e-type="widget" id="" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;1037b81&quot;},{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;da7dec9&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;a5fd4e4&quot;},{&quot;slide_title&quot;:&quot;Slide #4&quot;,&quot;_id&quot;:&quot;ddbac70&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;arrows&quot;:&quot;yes&quot;,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+        <div class="elementor-widget-container">
+              <div class="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+      <div class="swiper-wrapper" aria-live="off">
+                    <div class="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 of 4">
+              <div class="elementor-element elementor-element-5719764 e-flex e-con-boxed e-con e-child" data-id="5719764" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-0dec6bd e-flex e-con-boxed elementor-invisible e-con e-child" data-id="0dec6bd" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-238d9b3 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="238d9b3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h1 class="elementor-heading-title elementor-size-default">Instant Insights, <br>Timeless Impact</h1>       </div>
+        </div>
+        <div class="elementor-element elementor-element-d6cdaba elementor-widget elementor-widget-text-editor" data-id="d6cdaba" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Gain instant insights that deliver lasting and</p><p>impactful results for your business</p>               </div>
+        </div>
+    <div class="elementor-element elementor-element-cbfc366 e-con-full e-flex e-con e-child" data-id="cbfc366" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-c63ea2c elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="c63ea2c" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-471fab5 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="471fab5" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">GET STARTED</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 of 4">
+              <div class="elementor-element elementor-element-a606448 e-flex e-con-boxed e-con e-child" data-id="a606448" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-9308278 e-flex e-con-boxed elementor-invisible e-con e-child" data-id="9308278" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-63d20ae elementor-widget-mobile__width-initial e-transform elementor-widget elementor-widget-heading" data-id="63d20ae" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h1 class="elementor-heading-title elementor-size-default">Affordable, Accurate and Reliable Market Research</h1>       </div>
+        </div>
+        <div class="elementor-element elementor-element-0e9fb73 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="0e9fb73" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Gain valuable insights with our easy-to-use platform</p><p>for conducting accurate and reliable market research</p>                </div>
+        </div>
+    <div class="elementor-element elementor-element-1843296 e-con-full e-flex e-con e-child" data-id="1843296" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-aa76468 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="aa76468" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-282f2a8 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="282f2a8" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">GET STARTED</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 of 4">
+              <div class="elementor-element elementor-element-ea58da4 e-flex e-con-boxed e-con e-child" data-id="ea58da4" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-59d53fb e-flex e-con-boxed elementor-invisible e-con e-child" data-id="59d53fb" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b6f90ad elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="b6f90ad" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h1 class="elementor-heading-title elementor-size-default">Community<br>
+Driven</h1>       </div>
+        </div>
+        <div class="elementor-element elementor-element-14fd41d elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="14fd41d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Access unique and valuable insights generated by a passionate community.</p>               </div>
+        </div>
+    <div class="elementor-element elementor-element-cd575c8 e-con-full e-flex e-con e-child" data-id="cd575c8" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-c79763f elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="c79763f" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-438d962 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="438d962" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">GET STARTED</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 of 4">
+              <div class="elementor-element elementor-element-83e2585 e-flex e-con-boxed e-con e-child" data-id="83e2585" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-99d3517 e-con-full e-flex elementor-invisible e-con e-child" data-id="99d3517" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+        <div class="elementor-element elementor-element-62103b1 elementor-widget-mobile__width-initial e-transform elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="62103b1" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h1 class="elementor-heading-title elementor-size-default">Bayanihan Studies</h1>       </div>
+        </div>
+        <div class="elementor-element elementor-element-897c361 elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="897c361" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Empower your community with free access to</p><p>valuable insights through our Bayanihan Studies</p>               </div>
+        </div>
+    <div class="elementor-element elementor-element-aff5fc9 e-con-full e-flex e-con e-child" data-id="aff5fc9" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-7bdd3b2 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="7bdd3b2" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-58aea27 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="58aea27" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="#contact">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">GET STARTED</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                </div>
+    </div>
+          <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous">
+        <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>     </div>
+      <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next">
+        <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>      </div>
+            </div>
+        </div>
+    <div class="elementor-element elementor-element-d791ddb e-con-full elementor-hidden-mobile elementor-hidden-desktop elementor-hidden-tablet e-flex e-con e-child" data-id="d791ddb" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-51dcd4d elementor-widget elementor-widget-image-carousel" data-id="51dcd4d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;4&quot;,&quot;slides_to_show_tablet&quot;:&quot;4&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+      <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1.jpg" alt="1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/2.jpg" alt="2" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11.jpg" alt="Bayanihan Studies (1)(1)" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2025/05/haynako.png" alt="haynako" /></figure></div>      </div>
+              
+                  </div>
+            </div>
+        </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-fa8bfed e-flex e-con-boxed e-con e-parent" data-id="fa8bfed" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-26d73f5 e-con-full e-flex elementor-invisible e-con e-child" data-id="26d73f5" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+        <div class="elementor-element elementor-element-537f483 elementor-widget elementor-widget-image" data-id="537f483" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="1504" height="345" src="https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a.png" class="attachment-full size-full wp-image-4160" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a.png 1504w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-300x69.png 300w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-1024x235.png 1024w, https://tangereapp.com/wp-content/uploads/2025/03/0-02-06-7cefefd0953aee554e55c74904f2b97bf1b078dbb3b1b7707a062a31c83d7871_1c6dc026c3846a-768x176.png 768w" sizes="(max-width: 1504px) 100vw, 1504px" />                              </div>
+        </div>
+        <div class="elementor-element elementor-element-ede9647 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-heading" data-id="ede9647" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h2 class="elementor-heading-title elementor-size-default">Philippines Leading Mobile Market Research Platform</h2>       </div>
+        </div>
+        <div class="elementor-element elementor-element-b834a19 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-widget elementor-widget-text-editor" data-id="b834a19" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p data-pm-slice="1 1 []">Tangere is one of the Philippines top market research platforms, delivering accurate, real-time insights to help businesses make smarter decisions. With over 1 million panelists nationwide, we provide scalable, affordable, and community-driven research solutions.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-5ebda12 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="5ebda12" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-d6650a3 e-con-full e-flex e-con e-child" data-id="d6650a3" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-7b16b6d elementor-position-left elementor-vertical-align-middle elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="7b16b6d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Market-Research-1-r0brqifmfugskbxez9jvqe027kmhc7fmwth67p1hpk.png" title="Market Research" alt="Market Research" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Consumer and Market Understanding</h3><p class="elementor-image-box-description">Market &amp; UAI Studies, Dipstick, Baseline Study, Mystery Shopper Studies</p></div></div>        </div>
+        </div>
+        <div class="elementor-element elementor-element-d43e050 elementor-position-left elementor-vertical-align-middle elementor-position-left elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="d43e050" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Brand-Health-1-r0brqdqfhoacya48qpiqvx6r8n9n9pwz867qtb8gko.png" title="Brand Health" alt="Brand Health" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Brand Performance Monitoring</h3><p class="elementor-image-box-description">Brand Health Tracking, Public Opinion Poll Survey, Customer Satisfaction Survey, Net Promoter’s Score</p></div></div>        </div>
+        </div>
+        <div class="elementor-element elementor-element-c6ae09f elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="c6ae09f" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Product-Advertising-r0brqfm3vccxli1ifqc00wpoff0dp44fwfiprv5o88.png" title="Product &#038; Advertising" alt="Product &amp; Advertising" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Product and Campaign Effectiveness</h3><p class="elementor-image-box-description">Product, Concept, &amp; Ad Tests, Pre &amp; Post Launch Evaluation, Ad Standards Council Claim Substantiations</p></div></div>       </div>
+        </div>
+        <div class="elementor-element elementor-element-23afba3 elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-invisible elementor-widget elementor-widget-image-box" data-id="23afba3" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Advanced-Analytics-1-r0brqhhs90fi8pys4r595w8lm6r44ibwkotoqf2vvs.png" title="Advanced Analytics" alt="Advanced Analytics" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Strategic Insights and Analytics</h3><p class="elementor-image-box-description">Focus Group Discussion, In-Depth Interviews, Key Informant Interviews, Location Analytics</p></div></div>        </div>
+        </div>
+        <div class="elementor-element elementor-element-08d878a elementor-position-left elementor-position-left elementor-vertical-align-middle elementor-vertical-align-middle elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-invisible elementor-widget elementor-widget-image-box" data-id="08d878a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" src="https://tangereapp.com/wp-content/uploads/elementor/thumbs/Qualitative-Insights-1-r0brqjdgmoi2vxw1tryiavrisyhujwjd8y4noz03jc.png" title="Qualitative Insights" alt="Qualitative Insights" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Qualitative Insights</h3><p class="elementor-image-box-description">Location Analytics</p></div></div>       </div>
+        </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-f771334 e-flex e-con-boxed e-con e-parent" data-id="f771334" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-4f84137 e-con-full e-flex e-con e-child" data-id="4f84137" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13a769c elementor-widget elementor-widget-image" data-id="13a769c" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="575" height="816" src="https://tangereapp.com/wp-content/uploads/2024/12/Tangere-Martin-1.png" class="attachment-2048x2048 size-2048x2048 wp-image-67" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/Tangere-Martin-1.png 575w, https://tangereapp.com/wp-content/uploads/2024/12/Tangere-Martin-1-211x300.png 211w" sizes="(max-width: 575px) 100vw, 575px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-bf1f440 e-con-full e-flex e-con e-child" data-id="bf1f440" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-4cdff81 e-con-full e-flex e-con e-child" data-id="4cdff81" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-4ed48fa e-con-full e-flex elementor-invisible e-con e-child" data-id="4ed48fa" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:0}">
+        <div class="elementor-element elementor-element-0ef2f78 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0ef2f78" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="347" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789.png" class="attachment-full size-full wp-image-4549" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789.png 347w, https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-789-300x160.png 300w" sizes="(max-width: 347px) 100vw, 347px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-7c0ef73 elementor-widget elementor-widget-icon-box" data-id="7c0ef73" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-box-wrapper">
+
+      
+            <div class="elementor-icon-box-content">
+
+                  <h3 class="elementor-icon-box-title">
+            <span  >
+              Fast &amp; Reliable <br />Data            </span>
+          </h3>
+        
+                  <p class="elementor-icon-box-description">
+            Get survey results in <b> as little as 7 days  </B> —perfect for time-sensitive business decisions.         </p>
+        
+      </div>
+      
+    </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-ff27b90 e-con-full e-flex elementor-invisible e-con e-child" data-id="ff27b90" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:500}">
+        <div class="elementor-element elementor-element-6fcc0b0 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="6fcc0b0" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="202" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-34-138.png" class="attachment-full size-full wp-image-4550" alt="" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-0a2e1b0 elementor-widget elementor-widget-icon-box" data-id="0a2e1b0" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-box-wrapper">
+
+      
+            <div class="elementor-icon-box-content">
+
+                  <h3 class="elementor-icon-box-title">
+            <span  >
+              Massive<br />Reach            </span>
+          </h3>
+        
+                  <p class="elementor-icon-box-description">
+            Access hard-to-reach demographics through our nationwide mobile panel.
+
+          </p>
+        
+      </div>
+      
+    </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-39f2f75 e-con-full e-flex elementor-invisible e-con e-child" data-id="39f2f75" data-element_type="container" data-e-type="container" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;,&quot;animation_delay&quot;:1000}">
+        <div class="elementor-element elementor-element-0fb1dfc elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0fb1dfc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="190" height="185" src="https://tangereapp.com/wp-content/uploads/2025/12/viber_image_2025-12-16_15-10-33-611.png" class="attachment-full size-full wp-image-4551" alt="" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-a2856c3 elementor-widget elementor-widget-icon-box" data-id="a2856c3" data-element_type="widget" data-e-type="widget" data-widget_type="icon-box.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-box-wrapper">
+
+      
+            <div class="elementor-icon-box-content">
+
+                  <h3 class="elementor-icon-box-title">
+            <span  >
+              Affordable Research Platform            </span>
+          </h3>
+        
+                  <p class="elementor-icon-box-description">
+            Access comprehensive research tools at a flexible pricing that grows with your business.          </p>
+        
+      </div>
+      
+    </div>
+            </div>
+        </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-b19b965 e-con-full e-flex e-con e-child" data-id="b19b965" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-4a2093b elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="4a2093b" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-f8e6b20 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="f8e6b20" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-grow" href="/about/#testimonial">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">TESTIMONIALS</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-62a218b e-flex e-con-boxed e-con e-parent" data-id="62a218b" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-24866a0 e-con-full e-flex e-con e-child" data-id="24866a0" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-6117976 elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="6117976" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Big Clients Love Us</h2><p class="elementor-image-box-description">We've helped numerous clients achieve their goals, including increasing brand awareness, boosting sales, and optimizing marketing strategies.</p></div></div>        </div>
+        </div>
+    <div class="elementor-element elementor-element-517be40 e-con-full e-flex e-con e-child" data-id="517be40" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-dcc2c31 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="dcc2c31" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/#team">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW THE TEAM</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        <div class="elementor-element elementor-element-0779a60 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="0779a60" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="/about/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">KNOW MORE</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-c1bf640 e-con-full e-flex e-con e-child" data-id="c1bf640" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-57cbe77 elementor-widget elementor-widget-image-carousel" data-id="57cbe77" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;slides_to_show&quot;:&quot;6&quot;,&quot;autoplay_speed&quot;:2000,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+      <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Kenny_Rogers_Roasters_Logo-300x195-1.png" alt="Kenny_Rogers_Roasters_Logo-300x195 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/lg-megasardines-300x182-1.png" alt="lg-megasardines-300x182 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/mores-logo-300x161-1.png" alt="mores-logo-300x161 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/normal_1541724131-PHILIPPINE_SPRING_WATER_RESOURCES__INCORPORATED-300x148-1.png" alt="normal_1541724131-PHILIPPINE_SPRING_WATER_RESOURCES__INCORPORATED-300x148 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/R1-300x97-1.png" alt="R1-300x97 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/OIPS-300x300-1.png" alt="OIPS-300x300 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/NUTRIASIA-1024x967-300x283-1.png" alt="NUTRIASIA-1024x967-300x283 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/R3-300x166-1.png" alt="R3-300x166 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/R4-300x121-1.png" alt="R4-300x121 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/RFM_Corporation_logo-1.png" alt="RFM_Corporation_logo 1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 of 11"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/R5-300x300-1.png" alt="R5-300x300 1" /></figure></div>      </div>
+              
+                  </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-c09bd03 elementor-widget elementor-widget-image-carousel" data-id="c09bd03" data-element_type="widget" data-e-type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;10&quot;,&quot;navigation&quot;:&quot;none&quot;,&quot;slides_to_show_tablet&quot;:&quot;5&quot;,&quot;autoplay_speed&quot;:2000,&quot;slides_to_show_mobile&quot;:&quot;3&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
+      <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1AirAsia.jpg" alt="1AirAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1Belo.jpg" alt="1Belo" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1Mcdonalds.jpg" alt="1Mcdonalds" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1MegaGlobal.jpg" alt="1MegaGlobal" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/1NutriAsia.jpg" alt="1NutriAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Aboitiz.jpg" alt="Aboitiz" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/AHeaad.jpg" alt="AHeaad" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ARC.jpg" alt="ARC" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/BIG-E.jpg" alt="BIG E" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Brownies.jpg" alt="Brownies" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Buffalos.jpg" alt="Buffalos" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ConsumerCare.jpg" alt="ConsumerCare" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/CosmetiqueAsia.jpg" alt="CosmetiqueAsia" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/DavaoFamous.jpg" alt="DavaoFamous" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="15 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/DDD.jpg" alt="DDD" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="16 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Diamond-Food.jpg" alt="Diamond Food" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="17 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Digido.jpg" alt="Digido" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="18 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Diginspire.jpg" alt="Diginspire" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="19 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Dingdong.jpg" alt="Dingdong" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="20 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Dunkin-Donuts.jpg" alt="Dunkin Donuts" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="21 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/EON.jpg" alt="EON" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="22 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/FDEV.jpg" alt="FDEV" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="23 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Filinvest.jpg" alt="Filinvest" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="24 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/FuwaFuwa.jpg" alt="FuwaFuwa" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="25 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Gerrys-Grill.jpg" alt="Gerrys Grill" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="26 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Goldilocks.jpg" alt="Goldilocks" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="27 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Goldstar.jpg" alt="Goldstar" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="28 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/GreenCross.jpg" alt="GreenCross" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="29 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Holcim.jpg" alt="Holcim" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="30 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/IPI.jpg" alt="IPI" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="31 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/KennyRogers.jpg" alt="KennyRogers" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="32 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Lawson.jpg" alt="Lawson" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="33 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/LB.jpg" alt="LB" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="34 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Lex.jpg" alt="Lex" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="35 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/M.jpg" alt="M" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="36 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/MLM-FOODS.jpg" alt="MLM FOODS" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="37 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Monde-Nissin.jpg" alt="Monde Nissin" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="38 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Natural.jpg" alt="Natural" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="39 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Nature-Spring.jpg" alt="Nature Spring" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="40 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Origami.jpg" alt="Origami" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="41 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Palawan.jpg" alt="Palawan" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="42 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Pampangas-Best.jpg" alt="Pampangas Best" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="43 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/PCI.jpg" alt="PCI" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="44 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Perla.jpg" alt="Perla" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="45 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Pioneer.jpg" alt="Pioneer" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="46 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Rej.jpg" alt="Rej" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="47 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/RFM.jpg" alt="RFM" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="48 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Royal.jpg" alt="Royal" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="49 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Ship.jpg" alt="Ship" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="50 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/SMDC.jpg" alt="SMDC" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="51 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ToughMama.jpg" alt="ToughMama" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="52 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/TrueDigital.jpg" alt="TrueDigital" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="53 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/UnaCash.jpg" alt="UnaCash" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="54 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/UniGurantee.jpg" alt="UniGurantee" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="55 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Uratex.jpg" alt="Uratex" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="56 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/VictoryLiner.jpg" alt="VictoryLiner" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="57 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/Wellmade.jpg" alt="Wellmade" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="58 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/WhiteKing.jpg" alt="WhiteKing" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="59 of 59"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://tangereapp.com/wp-content/uploads/2024/12/ZenNutrients.jpg" alt="ZenNutrients" /></figure></div>      </div>
+              
+                  </div>
+            </div>
+        </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-509ffeb e-con-full e-flex e-con e-parent" data-id="509ffeb" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-915f93d e-con-full e-flex e-con e-child" data-id="915f93d" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-d570ae3 elementor-widget elementor-widget-image" data-id="d570ae3" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49.png" class="attachment-large size-large wp-image-81" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49.png 574w, https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-c98d8ee e-con-full e-flex e-con e-child" data-id="c98d8ee" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-1e9f637 elementor-widget elementor-widget-image" data-id="1e9f637" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50.png" class="attachment-large size-large wp-image-82" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50.png 574w, https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-83e5da8 e-con-full e-flex e-con e-child" data-id="83e5da8" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-5620aa5 elementor-invisible elementor-widget elementor-widget-heading" data-id="5620aa5" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInDown&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h3 class="elementor-heading-title elementor-size-default">What clients say about us</h3>       </div>
+        </div>
+    <div class="elementor-element elementor-element-a0f6288 e-con-full e-flex e-con e-child" data-id="a0f6288" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-6078852 elementor-view-default elementor-widget elementor-widget-icon" data-id="6078852" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-wrapper">
+      <div class="elementor-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="28" viewBox="0 0 20 28" fill="none"><path d="M1.04177 12.4616C2.55511 17.4218 7.80297 20.216 12.7632 18.7027C17.7234 17.1893 20.5176 11.9415 19.0043 6.98127C17.491 2.02105 12.2431 -0.773195 7.28289 0.740146C2.32268 2.25349 -0.47157 7.50134 1.04177 12.4616Z" fill="#D9D9D9"></path><path d="M7.44991 27.3361L1.17229 12.8892C1.17229 12.8892 17.04 17.3978 11.9079 18.9636C6.77567 20.5294 7.44991 27.3361 7.44991 27.3361Z" fill="#D9D9D9"></path></svg>     </div>
+    </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-a0cfb0c elementor-view-default elementor-widget elementor-widget-icon" data-id="a0cfb0c" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-wrapper">
+      <div class="elementor-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="28" viewBox="0 0 20 28" fill="none"><path d="M1.04177 12.4616C2.55511 17.4218 7.80297 20.216 12.7632 18.7027C17.7234 17.1893 20.5176 11.9415 19.0043 6.98127C17.491 2.02105 12.2431 -0.773195 7.28289 0.740146C2.32268 2.25349 -0.47157 7.50134 1.04177 12.4616Z" fill="#D9D9D9"></path><path d="M7.44991 27.3361L1.17229 12.8892C1.17229 12.8892 17.04 17.3978 11.9079 18.9636C6.77567 20.5294 7.44991 27.3361 7.44991 27.3361Z" fill="#D9D9D9"></path></svg>     </div>
+    </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-0e55459 elementor-view-default elementor-widget elementor-widget-icon" data-id="0e55459" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-wrapper">
+      <div class="elementor-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="28" viewBox="0 0 20 28" fill="none"><path d="M1.04177 12.4616C2.55511 17.4218 7.80297 20.216 12.7632 18.7027C17.7234 17.1893 20.5176 11.9415 19.0043 6.98127C17.491 2.02105 12.2431 -0.773195 7.28289 0.740146C2.32268 2.25349 -0.47157 7.50134 1.04177 12.4616Z" fill="#D9D9D9"></path><path d="M7.44991 27.3361L1.17229 12.8892C1.17229 12.8892 17.04 17.3978 11.9079 18.9636C6.77567 20.5294 7.44991 27.3361 7.44991 27.3361Z" fill="#D9D9D9"></path></svg>     </div>
+    </div>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-16a1e37 elementor-view-default elementor-widget elementor-widget-icon" data-id="16a1e37" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-icon-wrapper">
+      <div class="elementor-icon">
+      <svg xmlns="http://www.w3.org/2000/svg" width="20" height="28" viewBox="0 0 20 28" fill="none"><path d="M1.04177 12.4616C2.55511 17.4218 7.80297 20.216 12.7632 18.7027C17.7234 17.1893 20.5176 11.9415 19.0043 6.98127C17.491 2.02105 12.2431 -0.773195 7.28289 0.740146C2.32268 2.25349 -0.47157 7.50134 1.04177 12.4616Z" fill="#D9D9D9"></path><path d="M7.44991 27.3361L1.17229 12.8892C1.17229 12.8892 17.04 17.3978 11.9079 18.9636C6.77567 20.5294 7.44991 27.3361 7.44991 27.3361Z" fill="#D9D9D9"></path></svg>     </div>
+    </div>
+            </div>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-0ca4212 elementor-arrows-position-inside elementor-widget elementor-widget-n-carousel" data-id="0ca4212" data-element_type="widget" data-e-type="widget" data-settings="{&quot;carousel_items&quot;:[{&quot;slide_title&quot;:&quot;Slide #1&quot;,&quot;_id&quot;:&quot;ade4923&quot;},{&quot;slide_title&quot;:&quot;Slide #2&quot;,&quot;_id&quot;:&quot;35840fa&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;a71a047&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;e64e1eb&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;d7491a3&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;b68736f&quot;},{&quot;slide_title&quot;:&quot;Slide #3&quot;,&quot;_id&quot;:&quot;ea11f76&quot;}],&quot;slides_to_show&quot;:&quot;1&quot;,&quot;slides_to_show_tablet&quot;:&quot;1&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;arrows&quot;:&quot;yes&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="nested-carousel.default">
+        <div class="elementor-widget-container">
+              <div class="e-n-carousel swiper" role="region" aria-roledescription="carousel" aria-label="Carousel" dir="ltr">
+      <div class="swiper-wrapper" aria-live="off">
+                    <div class="swiper-slide" data-slide="1" role="group" aria-roledescription="slide" aria-label="1 of 7">
+              <div class="elementor-element elementor-element-9036ad4 e-flex e-con-boxed e-con e-child" data-id="9036ad4" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-b59b7fd elementor-widget elementor-widget-text-editor" data-id="b59b7fd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Tangere actually helped us introduce our services to a lot of people. Not just passengers of Victory Liner, but the other passengers of other bus line companies. With the resources that we&#8217;ve gathered, and the analysis that Tangere provided, it was a big help for Victory Liner increase the people reach and actually revenue.</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-5af6042 elementor-widget elementor-widget-text-editor" data-id="5af6042" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Marketing Manager</p><p>Victory Liner</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-84f9302 elementor-widget elementor-widget-heading" data-id="84f9302" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Mr. Raul Ecaldre</h4>        </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="2" role="group" aria-roledescription="slide" aria-label="2 of 7">
+              <div class="elementor-element elementor-element-fd3e18c e-flex e-con-boxed e-con e-child" data-id="fd3e18c" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-875cb0a elementor-widget elementor-widget-text-editor" data-id="875cb0a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>So are we going to recommend Tangere to other potential clients? Definitely, YES! Because overall they were able to meet our expectations and we value this partnership with them and we look forward to more collaboration in the future.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-b0e0c90 elementor-widget elementor-widget-text-editor" data-id="b0e0c90" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p><span style="white-space-collapse: preserve;">VP for brands</span></p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-cd1841a elementor-widget elementor-widget-heading" data-id="cd1841a" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">JOHN REY VILLORENTE</h4>       </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="3" role="group" aria-roledescription="slide" aria-label="3 of 7">
+              <div class="elementor-element elementor-element-4f25624 e-flex e-con-boxed e-con e-child" data-id="4f25624" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-475a5cd elementor-widget elementor-widget-text-editor" data-id="475a5cd" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-77e8c4b elementor-widget elementor-widget-text-editor" data-id="77e8c4b" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-531c0fd elementor-widget elementor-widget-heading" data-id="531c0fd" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>       </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="4" role="group" aria-roledescription="slide" aria-label="4 of 7">
+              <div class="elementor-element elementor-element-38462d0 e-flex e-con-boxed e-con e-child" data-id="38462d0" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-860fefc elementor-widget elementor-widget-text-editor" data-id="860fefc" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-2b6ecf2 elementor-widget elementor-widget-text-editor" data-id="2b6ecf2" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-533bf9f elementor-widget elementor-widget-heading" data-id="533bf9f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>       </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="5" role="group" aria-roledescription="slide" aria-label="5 of 7">
+              <div class="elementor-element elementor-element-72d80b8 e-flex e-con-boxed e-con e-child" data-id="72d80b8" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-ed0089f elementor-widget elementor-widget-text-editor" data-id="ed0089f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Tangere team is very helpful. They are professional and they are very friendly. Very open and approachable to our requests &#8211; very open to meet us halfway.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-254db57 elementor-widget elementor-widget-text-editor" data-id="254db57" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Assistant Brand Manager</p><p>Future Glow Philippines &#8211; Oxecure</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-d199fe3 elementor-widget elementor-widget-heading" data-id="d199fe3" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Ms. Ash Casas</h4>       </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="6" role="group" aria-roledescription="slide" aria-label="6 of 7">
+              <div class="elementor-element elementor-element-227b656 e-flex e-con-boxed e-con e-child" data-id="227b656" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-4755fa8 elementor-widget elementor-widget-text-editor" data-id="4755fa8" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Using Tangere for our data collection on the recall survey on nutrition messages has been instrumental in enhancing the<br />efficiency of gleaning insights for our nutrition projects. Over three survey cycles, Tangere has consistently provided<br />reliable and timely data, allowing us to effectively measure audience&#8217; recall of messages effectiveness.</p>               </div>
+        </div>
+        <div class="elementor-element elementor-element-ddda8d7 elementor-widget elementor-widget-text-editor" data-id="ddda8d7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Eon Group</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-36010d5 elementor-widget elementor-widget-heading" data-id="36010d5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Meinardo Teves</h4>        </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                      <div class="swiper-slide" data-slide="7" role="group" aria-roledescription="slide" aria-label="7 of 7">
+              <div class="elementor-element elementor-element-861bb66 e-flex e-con-boxed e-con e-child" data-id="861bb66" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-f8323e4 elementor-widget elementor-widget-text-editor" data-id="f8323e4" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>At Sumaya Food Manufacturing Inc., we value the significance of research in extracting insights from consumer data. Our research partner,<br />Tangere, has helped us cull these consumer insights via scientific, in-depth, and efficient methodologies. Tangere has been<br />instrumental in helping us be strategic in approaching our business planning and development.</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-47b64c7 elementor-widget elementor-widget-text-editor" data-id="47b64c7" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Head of Marketing, Samuya Food Manufacturing Inc.</p>                </div>
+        </div>
+        <div class="elementor-element elementor-element-e0855eb elementor-widget elementor-widget-heading" data-id="e0855eb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Mr. Eggie Pekson</h4>        </div>
+        </div>
+          </div>
+        </div>
+                </div>
+                </div>
+    </div>
+          <div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous">
+        <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>     </div>
+      <div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next">
+        <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>      </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-027730a e-con-full e-flex e-con e-child" data-id="027730a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-db48692 elementor-widget elementor-widget-spacer" data-id="db48692" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-spacer">
+      <div class="elementor-spacer-inner"></div>
+    </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-1e5833a e-con-full e-flex e-con e-child" data-id="1e5833a" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-8104dac elementor-widget elementor-widget-spacer" data-id="8104dac" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-spacer">
+      <div class="elementor-spacer-inner"></div>
+    </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-6c870ae e-con-full e-flex e-con e-child" data-id="6c870ae" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-5278443 elementor-widget elementor-widget-spacer" data-id="5278443" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-spacer">
+      <div class="elementor-spacer-inner"></div>
+    </div>
+            </div>
+        </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-6bfae7e e-flex e-con-boxed e-con e-parent" data-id="6bfae7e" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-390427a elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="390427a" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Latest News and Insights</h2><p class="elementor-image-box-description">Stay up-to-date with the latest trends, industry news, and company updates.</p></div></div>       </div>
+        </div>
+        <div class="elementor-element elementor-element-615bb84 elementor-mobile-align-justify elementor-align-center elementor-widget elementor-widget-button" data-id="615bb84" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="/news/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">VIEW ALL</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-4ee00ff elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="4ee00ff" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-e4d7d7b e-con-full e-flex e-con e-child" data-id="e4d7d7b" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-646781c e-con-full e-flex e-con e-child" data-id="646781c" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-b69806d elementor-widget__width-initial elementor-widget-tablet__width-inherit elementor-position-top elementor-invisible elementor-widget elementor-widget-image-box" data-id="b69806d" data-element_type="widget" data-e-type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Latest News and Insights</h2><p class="elementor-image-box-description">Stay up-to-date with the latest trends, industry news, and company updates.</p></div></div>       </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-9b0e125 e-con-full e-flex e-con e-child" data-id="9b0e125" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-131dd20 elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="131dd20" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+        <div class="elementor-widget-container">
+                  <div class="elementor-button-wrapper">
+          <a class="elementor-button elementor-button-link elementor-size-sm" href="/news/">
+            <span class="elementor-button-content-wrapper">
+                  <span class="elementor-button-text">VIEW ALL</span>
+          </span>
+          </a>
+        </div>
+                </div>
+        </div>
+        </div>
+        </div>
+          </div>
+        </div>
+    <div class="elementor-element elementor-element-c8452d0 e-con-full e-flex e-con e-parent" data-id="c8452d0" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-element elementor-element-cffef75 elementor-invisible elementor-widget elementor-widget-loop-carousel" data-id="cffef75" data-element_type="widget" data-e-type="widget" data-settings="{&quot;template_id&quot;:&quot;2831&quot;,&quot;slides_to_show&quot;:&quot;4&quot;,&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:300,&quot;_skin&quot;:&quot;post&quot;,&quot;slides_to_show_tablet&quot;:&quot;2&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;.elementor-loop-container&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;offset_sides&quot;:&quot;none&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="loop-carousel.post">
+        <div class="elementor-widget-container">
+              <div class="swiper elementor-loop-container elementor-grid" role="list" dir="ltr">
+        <div class="swiper-wrapper" aria-live="off">
+    <style id="loop-2831">.elementor-2831 .elementor-element.elementor-element-8785770{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--overflow:hidden;--overlay-opacity:0.05;--border-radius:20px 20px 20px 20px;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-8785770::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-video-container::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .e-con-inner > .elementor-background-slideshow::before, .elementor-2831 .elementor-element.elementor-element-8785770 > .elementor-motion-effects-container > .elementor-motion-effects-layer::before{background-color:var( --e-global-color-text );--background-overlay:'';}.elementor-2831 .elementor-element.elementor-element-b7391a2{--display:flex;--overflow:hidden;--padding-top:0px;--padding-bottom:0px;--padding-left:0px;--padding-right:0px;}.elementor-2831 .elementor-element.elementor-element-13600db img{width:100%;height:200px;object-fit:cover;object-position:center center;}.elementor-2831 .elementor-element.elementor-element-8b99c42{--display:flex;--gap:10px 10px;--row-gap:10px;--column-gap:10px;--padding-top:2em;--padding-bottom:2em;--padding-left:2em;--padding-right:2em;}.elementor-2831 .elementor-element.elementor-element-e0a620e .elementor-heading-title{color:var( --e-global-color-f1ad742 );}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child){padding-bottom:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child){margin-top:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:calc(8px/2);margin-left:calc(8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items{margin-right:calc(-8px/2);margin-left:calc(-8px/2);}body.rtl .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{left:calc(-8px/2);}body:not(.rtl) .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{right:calc(-8px/2);}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon{width:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon i{font-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-icon svg{--e-icon-list-icon-size:14px;}.elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text, .elementor-2831 .elementor-element.elementor-element-f2742c0 .elementor-icon-list-text a{color:var( --e-global-color-primary );}.elementor-2831 .elementor-element.elementor-element-900a870 .elementor-widget-container{color:var( --e-global-color-primary );}/* Start custom CSS for container, class: .elementor-element-8785770 */.elementor-2831 .elementor-element.elementor-element-8785770:hover #thumbnail-img{
+    transform: scale(1.2);
+    transition: transform ease .3s;
+}
+
+.elementor-2831 .elementor-element.elementor-element-8785770 #thumbnail-img{
+    transform: scale(1);
+    transition: transform ease .3s;
+}/* End custom CSS */</style>   <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2778 post-2778 post type-post status-publish format-standard has-post-thumbnail hentry category-tangere-mr-martin-penaflor" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/rappler-talk-tangeres-martin-penaflor-on-using-mobile-phone-surveys-for-elections/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="450" src="https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-1024x576.jpg" class="attachment-large size-large wp-image-2781" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-1024x576.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-300x169.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault-768x432.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/maxresdefault.jpg 1280w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Rappler Talk: Tangere’s Martin Peñaflor on using mobile phone surveys for elections</h4>       </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>Rappler reporter Pia Ranada asks Martin Peñaflor about how Tangere&#8217;s mobile phone surveys offer another way of measuring sentiment about...        </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2773 post-2773 post type-post status-publish format-standard has-post-thumbnail hentry category-tangere-mr-martin-penaflor" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/amplifying-the-voice-of-the-filipino/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="650" height="444" src="https://tangereapp.com/wp-content/uploads/2024/12/covertangere.jpg" class="attachment-large size-large wp-image-2774" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/covertangere.jpg 650w, https://tangereapp.com/wp-content/uploads/2024/12/covertangere-300x205.jpg 300w" sizes="(max-width: 650px) 100vw, 650px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Amplifying the voice of the Filipino</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>These days, he is more popularly known as Boss Martin to the half a million followers of the Tangere Pinoy...        </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2770 post-2770 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/majority-of-filipinos-still-support-proposed-economic-cha-cha-survey/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="748" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-1024x957.jpeg" class="attachment-large size-large wp-image-2771" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-1024x957.jpeg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-300x280.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88-768x718.jpeg 768w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4125_6818583b88.jpeg 1408w" sizes="(max-width: 800px) 100vw, 800px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Majority of Filipinos still support proposed economic Cha-cha — survey</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>A survey conducted by market research company Tangere revealed that three out of five Filipinos remain supportive of proposals to...       </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2767 post-2767 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/60-of-filipinos-back-proposed-economic-charter-change-survey/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="432" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58.jpeg" class="attachment-large size-large wp-image-2768" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58.jpeg 868w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58-300x162.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_3909_1e7405fa58-768x415.jpeg 768w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">60% of Filipinos back proposed economic Charter change — survey</h4>       </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>A public opinion poll conducted by Tangere in June revealed that 60 percent of Filipinos support the proposed amendment to...        </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2764 post-2764 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/slightly-more-filipinos-back-cha-cha-survey-shows/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="500" height="261" src="https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha.jpeg" class="attachment-large size-large wp-image-2783" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha.jpeg 500w, https://tangereapp.com/wp-content/uploads/2024/12/more-Filipinos-back-Cha-cha-300x157.jpeg 300w" sizes="(max-width: 500px) 100vw, 500px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Slightly more Filipinos back Cha-cha, survey shows</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>Tangere&#8217;s April 2024 survey results revealed that 54 percent of Filipinos support Charter change (Cha-cha), up from 52 percent in...       </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2762 post-2762 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/6-out-of-10-filipinos-support-proposed-economic-cha-cha-survey/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="463" src="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-1024x593.jpeg" class="attachment-large size-large wp-image-2763" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-1024x593.jpeg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-300x174.jpeg 300w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770-768x444.jpeg 768w, https://tangereapp.com/wp-content/uploads/2024/12/IMG_4303_e8e4900770.jpeg 1080w" sizes="(max-width: 800px) 100vw, 800px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">6 out of 10 Filipinos support proposed economic Cha-cha — survey</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>Market research company Tangere revealed that six out of 10 Filipinos remain supportive of proposals to amend the economic provisions...       </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2760 post-2760 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/tangere-survey-over-half-of-filipinos-maintain-support-for-constitutional-amendments-to-economic-provisions/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="450" src="https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-1024x576.png" class="attachment-large size-large wp-image-2743" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-1024x576.png 1024w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-300x169.png 300w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1-768x432.png 768w, https://tangereapp.com/wp-content/uploads/2024/12/House-Plenary-Hall-charter-change-1.png 1280w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Tangere survey: Over half of Filipinos maintain support for constitutional amendments to economic provisions</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>Fifty-seven percent of Filipinos expressed their support for the proposed amendments to the Constitution&#8217;s economic provisions, marking a slight increase...       </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        <div data-elementor-type="loop-item" data-elementor-id="2831" class="elementor elementor-2831 swiper-slide e-loop-item e-loop-item-2757 post-2757 post type-post status-publish format-standard has-post-thumbnail hentry category-economic-cha-cha" data-elementor-post-type="elementor_library" role="group" aria-roledescription="slide" data-custom-edit-handle="1">
+      <a class="elementor-element elementor-element-8785770 e-flex e-con-boxed e-con e-parent" data-id="8785770" data-element_type="container" data-e-type="container" href="https://tangereapp.com/escudero-should-take-a-cue-from-tangere-poll-results-on-cha-cha-house-leaders/">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-b7391a2 e-con-full e-flex e-con e-child" data-id="b7391a2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-13600db elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="13600db" data-element_type="widget" data-e-type="widget" id="thumbnail-img" data-widget_type="theme-post-featured-image.default">
+        <div class="elementor-widget-container">
+                              <img loading="lazy" decoding="async" width="800" height="533" src="https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1024x682.jpg" class="attachment-large size-large wp-image-2758" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1024x682.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-300x200.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-768x512.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f-1536x1023.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/chizee_f5a20ef34f.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                              </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8b99c42 e-con-full e-flex e-con e-child" data-id="8b99c42" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-e0a620e elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="e0a620e" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-title.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">Escudero should take a cue from Tangere poll results on Cha-cha&#8211;House leaders </h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-f2742c0 elementor-widget elementor-widget-post-info" data-id="f2742c0" data-element_type="widget" data-e-type="widget" data-widget_type="post-info.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                <li class="elementor-icon-list-item elementor-repeater-item-861786a elementor-inline-item" itemprop="datePublished">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date">
+                    <time>December 16, 2024</time>          </span>
+                </li>
+        <li class="elementor-icon-list-item elementor-repeater-item-5cee25d elementor-inline-item" itemprop="author">
+                          <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author">
+              <span class="elementor-post-info__item-prefix">by</span>
+                    Tangere         </span>
+                </li>
+        </ul>
+            </div>
+        </div>
+        <div class="elementor-element elementor-element-900a870 elementor-widget elementor-widget-theme-post-excerpt" data-id="900a870" data-element_type="widget" data-e-type="widget" data-widget_type="theme-post-excerpt.default">
+        <div class="elementor-widget-container">
+          <p>At a glance Filipinos&#8217; majority support for economic Charter Change (Cha-cha) should be reason enough for the Senate under Senate...       </div>
+        </div>
+        </div>
+          </div>
+        </a>
+        </div>
+        </div>
+    </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-8c7728a e-flex e-con-boxed e-con e-parent" data-id="8c7728a" data-element_type="container" data-e-type="container" id="contact">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-220c0b6 e-con-full e-flex e-con e-child" data-id="220c0b6" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-f381c39 e-con-full e-flex e-con e-child" data-id="f381c39" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-d46d3a9 elementor-position-top elementor-widget elementor-widget-image-box" data-id="d46d3a9" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Frequently Asked Questions</h2></div></div>       </div>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-be10faf elementor-invisible elementor-widget elementor-widget-n-accordion" data-id="be10faf" data-element_type="widget" data-e-type="widget" data-settings="{&quot;n_accordion_animation_duration&quot;:{&quot;unit&quot;:&quot;ms&quot;,&quot;size&quot;:350,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;default_state&quot;:&quot;all_collapsed&quot;,&quot;max_items_expended&quot;:&quot;one&quot;}" data-widget_type="nested-accordion.default">
+        <div class="elementor-widget-container">
+              <div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
+            <details id="e-n-accordion-item-1990" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="false" aria-controls="e-n-accordion-item-1990" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What is market research? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1990" class="elementor-element elementor-element-8bc6e9d e-con-full e-flex e-con e-child" data-id="8bc6e9d" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-5bface0 elementor-widget elementor-widget-text-editor" data-id="5bface0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Market research is the process of collecting and analyzing data to understand the market for a particular product or service. This includes gathering information about customer needs, preferences, behaviors, competitor activity, and industry trends.</p>                </div>
+        </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1991" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1991" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Why is market research important? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1991" class="elementor-element elementor-element-7b8df89 e-con-full e-flex e-con e-child" data-id="7b8df89" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-738a98c elementor-widget elementor-widget-text-editor" data-id="738a98c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Market research provides businesses with valuable insights that can help them make informed decisions about product development, pricing, promotion, and distribution. It can also help businesses identify new opportunities, evaluate the potential success of a new product or service, and stay ahead of competitors.</p>                </div>
+        </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1992" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="3" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1992" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How do you conduct market research? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1992" class="elementor-element elementor-element-3341798 e-con-full e-flex e-con e-child" data-id="3341798" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-50d8243 elementor-widget elementor-widget-text-editor" data-id="50d8243" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>The market research process varies depending on the type of research being conducted. For primary research, methods can include surveys, interviews, focus groups, and experiments. Our market research experts can review existing data sources and analyze the information for secondary research to gain insights.</p>                </div>
+        </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1993" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1993" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How much does market research cost? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1993" class="elementor-element elementor-element-abbbd49 e-flex e-con-boxed e-con e-child" data-id="abbbd49" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-6e214d9 elementor-widget elementor-widget-text-editor" data-id="6e214d9" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>The cost of market research can vary depending on the scope of the project and the methods used. However, Tangere promotes flexible term agreements that could fit all business sizes, be it small to medium and large enterprises.</p>                </div>
+        </div>
+          </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1994" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="5" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1994" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How can market research be used in marketing? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1994" class="elementor-element elementor-element-ef3129d e-flex e-con-boxed e-con e-child" data-id="ef3129d" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-eb5629a elementor-widget elementor-widget-text-editor" data-id="eb5629a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Market research can be used to inform marketing decisions by providing actionable insights into customer needs, preferences, and behaviors. This information can be used to develop targeted marketing campaigns, design effective messaging, and optimize product features and pricing.</p>               </div>
+        </div>
+          </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1995" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="6" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1995" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text">  How often should businesses conduct market research? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1995" class="elementor-element elementor-element-3607c36 e-flex e-con-boxed e-con e-child" data-id="3607c36" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div role="region" aria-labelledby="e-n-accordion-item-1995" class="elementor-element elementor-element-6f13d15 e-con-full e-flex e-con e-child" data-id="6f13d15" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-5311c86 elementor-widget elementor-widget-text-editor" data-id="5311c86" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>The frequency of market research depends on the business and industry. Some businesses may conduct market research on an ongoing basis to stay up-to-date on industry trends and consumer preferences. Others may conduct research less frequently, such as when launching a new product or entering a new market.</p>               </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1996" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="7" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1996" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> What are some examples of market research? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1996" class="elementor-element elementor-element-0bf7165 e-flex e-con-boxed e-con e-child" data-id="0bf7165" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div role="region" aria-labelledby="e-n-accordion-item-1996" class="elementor-element elementor-element-31af9e2 e-con-full e-flex e-con e-child" data-id="31af9e2" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-7427229 elementor-widget elementor-widget-text-editor" data-id="7427229" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>Examples of market research include conducting customer surveys to gather feedback on a new product, analyzing competitor pricing and positioning, and reviewing industry reports to identify emerging trends.</p>               </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </details>
+            <details id="e-n-accordion-item-1997" class="e-n-accordion-item" >
+        <summary class="e-n-accordion-item-title" data-accordion-index="8" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1997" >
+          <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Where can I download the App? </div></span>
+              <span class='e-n-accordion-item-title-icon'>
+      <span class='e-opened' ><svg aria-hidden="true" class="e-font-icon-svg e-fas-minus" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M416 208H32c-17.67 0-32 14.33-32 32v32c0 17.67 14.33 32 32 32h384c17.67 0 32-14.33 32-32v-32c0-17.67-14.33-32-32-32z"></path></svg></span>
+      <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="11" viewBox="0 0 24 11" fill="none"><path d="M12 11L0.741672 0.5L23.2583 0.499998L12 11Z" fill="#D83C40"></path></svg></span>
+    </span>
+
+            </summary>
+        <div role="region" aria-labelledby="e-n-accordion-item-1997" class="elementor-element elementor-element-d914d86 e-flex e-con-boxed e-con e-child" data-id="d914d86" data-element_type="container" data-e-type="container">
+          <div class="e-con-inner">
+    <div role="region" aria-labelledby="e-n-accordion-item-1997" class="elementor-element elementor-element-f3aa1af e-con-full e-flex e-con e-child" data-id="f3aa1af" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-3062aa3 elementor-widget elementor-widget-text-editor" data-id="3062aa3" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>The Tangere Mobile application is available for Android and Apple smartphone users. The app is downloadable on both google play and apple store.</p>               </div>
+        </div>
+        </div>
+          </div>
+        </div>
+          </details>
+          </div>
+            </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-c761b8f e-con-full e-flex e-con e-child" data-id="c761b8f" data-element_type="container" data-e-type="container">
+    <div class="elementor-element elementor-element-af81513 e-con-full e-flex e-con e-child" data-id="af81513" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-6961cdd elementor-position-top elementor-widget elementor-widget-image-box" data-id="6961cdd" data-element_type="widget" data-e-type="widget" data-widget_type="image-box.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img loading="lazy" decoding="async" width="35" height="80" src="https://tangereapp.com/wp-content/uploads/2024/12/tangere-icon-1-e1733306821256.png" class="attachment-full size-full wp-image-37" alt="" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Get In Touch​</h2><p class="elementor-image-box-description">Have a project in mind that you think we’d be a great fit for it? We’d love to know what you’re thinking</p></div></div>       </div>
+        </div>
+        </div>
+    <div class="elementor-element elementor-element-a613816 e-con-full e-flex elementor-invisible e-con e-child" data-id="a613816" data-element_type="container" data-e-type="container" id="contact" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
+        <div class="elementor-element elementor-element-5762c00 elementor-absolute elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="5762c00" data-element_type="widget" data-e-type="widget" data-settings="{&quot;button_width&quot;:&quot;30&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+        <div class="elementor-widget-container">
+              <form class="elementor-form" method="post" name="Get In Touch" aria-label="Get In Touch">
+      <input type="hidden" name="post_id" value="10"/>
+      <input type="hidden" name="form_id" value="5762c00"/>
+      <input type="hidden" name="referer_title" value="Market Research Philippines | Consumer Insights by Tangere" />
+
+              <input type="hidden" name="queried_id" value="10"/>
+      
+      <div class="elementor-form-fields-wrapper elementor-labels-above">
+                <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-50">
+                        <label for="form-field-name" class="elementor-field-label">
+                Name              </label>
+                            <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Name">
+                      </div>
+                <div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-50 elementor-field-required">
+                        <label for="form-field-email" class="elementor-field-label">
+                Email Address             </label>
+                            <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Email" required="required">
+                      </div>
+                <div class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-field_9d285b8 elementor-col-100">
+                        <label for="form-field-field_9d285b8" class="elementor-field-label">
+                Subject             </label>
+            <div class="elementor-field-subgroup  elementor-subgroup-inline"><span class="elementor-field-option"><input type="radio" value="Services" id="form-field-field_9d285b8-0" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-0">Services</label></span><span class="elementor-field-option"><input type="radio" value="Information" id="form-field-field_9d285b8-1" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-1">Information</label></span><span class="elementor-field-option"><input type="radio" value="Others" id="form-field-field_9d285b8-2" name="form_fields[field_9d285b8]"> <label for="form-field-field_9d285b8-2">Others</label></span></div>       </div>
+                <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+                        <label for="form-field-message" class="elementor-field-label">
+                Message             </label>
+            <textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[message]" id="form-field-message" rows="8" placeholder="Message"></textarea>       </div>
+                <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons">
+          <button class="elementor-button elementor-size-sm" type="submit">
+            <span class="elementor-button-content-wrapper">
+                                            <span class="elementor-button-text">SUBMIT</span>
+                          </span>
+          </button>
+        </div>
       </div>
     </form>
-    <div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
-  </div>
-</div>
-    <div id="td-outer-wrap" class="td-theme-wrap">
-
-        
-            <style>.td-header-menu-social{float:right;margin-right:5px;line-height:48px}.td-header-menu-social .td-social-icon-wrap a{color:#000}.td-header-menu-social .td-social-icon-wrap i{min-width:16px;font-size:12px;line-height:24px;vertical-align:middle}@media (min-width:768px) and (max-width:1018px){.td-header-menu-social .td-social-icon-wrap i{font-size:12px!important}}@media (max-width:1140px){.td-header-menu-social{display:none}}.td-affix .td-header-menu-social{line-height:48px!important}.td-header-menu-no-search .td-header-menu-social{margin-right:0!important}.td_stretch_content .td-header-menu-social{margin-right:44px}.td-mega-menu{position:static!important}.td-mega-menu ul.sub-menu{position:absolute;width:1114px!important;height:auto;left:50%!important;transform:translateX(-50%);-webkit-transform:translateX(-50%);display:none;border:1px solid #eaeaea;box-shadow:0 2px 6px rgba(0,0,0,.1)}@media (min-width:1019px) and (max-width:1140px){.td-mega-menu ul.sub-menu{width:1024px!important}}@media (min-width:768px) and (max-width:1018px){.td-mega-menu ul.sub-menu{width:786px!important}}.td-mega-menu .td_block_mega_menu .td-next-prev-wrap{margin:0 0 22px 22px}.td-mega-menu-page .td-mega-grid{padding:22px}@media (min-width:1019px) and (max-width:1140px){.td-mega-menu-page .td-mega-grid{padding:21px}}@media (min-width:768px) and (max-width:1018px){.td-mega-menu-page .td-mega-grid{padding:22px}}.td-mega-menu-page .td-mega-grid .td_block_wrap{padding-bottom:26px}.td-mega-menu-page .wpb_content_element{clear:both}.td-mega-menu-page .wpb_content_element .td_block_wrap .td-pulldown-filter-display-option{display:none}.td-mega-menu-page .wpb_content_element .widgettitle:after{width:1200px}.td-mega-menu-page .wpb_content_element ul{display:inline-block!important;position:relative!important;width:100%!important;border:none!important;left:0!important;top:0!important;margin-left:0!important;webkit-box-shadow:none!important;-moz-box-shadow:none!important;box-shadow:none!important}.td-mega-menu-page .wpb_content_element ul li{webkit-box-shadow:none!important;-moz-box-shadow:none!important;box-shadow:none!important;float:none!important;width:auto!important;line-height:30px!important;margin-left:0;padding:0!important;list-style-type:disc!important;list-style-position:inside}.td-mega-menu-page .wpb_content_element ul li ul{opacity:1!important;margin-top:4px!important;margin-left:21px!important;padding-bottom:0!important}.td-mega-menu-page .wpb_content_element ul li ul li:last-child{border-bottom:0!important;padding-bottom:0!important}.td-mega-menu-page .wpb_content_element ul li a{background-color:transparent!important;line-height:26px!important;padding:0!important;margin:0!important;color:#222222!important}.td-mega-menu-page .wpb_content_element ul li a i{display:none}.td-mega-menu-page .wpb_content_element ul li a:hover{background-color:transparent!important;color:#4db2ec!important}.td-mega-menu-page .vc_wp_custommenu ul li{padding:5px 0!important;border-top:1px dashed #EDEDED;list-style-type:none!important}.td-mega-menu-page .vc_wp_custommenu ul li:first-child{border:none}.td-mega-menu-page .vc_wp_custommenu ul li:last-child{border-bottom:1px dashed #EDEDED}.td-mega-menu-page .vc_wp_custommenu ul li li{border-top:1px dashed #EDEDED!important}.td_block_mega_menu{display:table;width:100%;margin-bottom:0!important}.td_mega_menu_sub_cats{width:218px;max-width:218px;text-align:right;display:table-cell;height:100%;vertical-align:top;padding-top:22px;background-color:#fafafa;position:relative}@media (min-width:1019px) and (max-width:1140px){.td_mega_menu_sub_cats{width:200px;max-width:200px}}@media (min-width:768px) and (max-width:1018px){.td_mega_menu_sub_cats{width:152px;max-width:152px}}.td_mega_menu_sub_cats:after{content:"";width:1px;height:100%;position:absolute;top:0;right:0;background-color:#eaeaea}.td_mega_menu_sub_cats a{display:block;font-size:13px;font-weight:600;color:#333;padding:5px 22px;position:relative;vertical-align:middle;border-top:1px solid transparent;border-bottom:1px solid transparent}@media (min-width:1019px) and (max-width:1140px){.td_mega_menu_sub_cats a{padding:4px 22px}}@media (min-width:768px) and (max-width:1018px){.td_mega_menu_sub_cats a{font-size:11px;padding:3px 22px}}.td_mega_menu_sub_cats .cur-sub-cat{background-color:#fff;color:#4db2ec;border-top:1px solid #eaeaea;border-bottom:1px solid #eaeaea}.td_mega_menu_sub_cats .cur-sub-cat:before{content:'';width:1px;height:100%;position:absolute;top:0;right:0;background-color:#fff;z-index:1}.block-mega-child-cats{overflow-x:hidden;overflow-y:auto;max-height:252px;-webkit-overflow-scrolling:touch}@media (min-width:1019px) and (max-width:1140px){.block-mega-child-cats{max-height:238px}}@media (min-width:768px) and (max-width:1018px){.block-mega-child-cats{max-height:224px}}.td-mega-row{display:table-cell;padding:22px 0 10px 0}@media (min-width:768px) and (max-width:1018px){.td-mega-row{padding-bottom:6px}}.td-mega-span{width:196px;min-height:202px;float:left;margin-left:22px}@media (min-width:1019px) and (max-width:1140px){.td-mega-span{width:178px;min-height:189px}}@media (min-width:768px) and (max-width:1018px){.td-mega-span{width:130px;min-height:176px}}.td-mega-span .td-module-thumb{position:relative;margin-bottom:0}.td-mega-span .entry-thumb{min-height:135px}@media (min-width:1019px) and (max-width:1140px){.td-mega-span .entry-thumb{min-height:122px}}@media (min-width:768px) and (max-width:1018px){.td-mega-span .entry-thumb{min-height:89px}}.td-mega-span h3{font-family:'Roboto',sans-serif;font-weight:500;font-size:13px;margin:7px 0 0;line-height:18px}@media (min-width:768px) and (max-width:1018px){.td-mega-span h3{font-size:12px;line-height:16px}}.td-mega-span h3 a{color:#333;display:block;-webkit-transition:color 0.4s;transition:color 0.4s}.td-mega-span h3 a:hover{color:#4db2ec}.td_mod_mega_menu:hover .entry-title a{color:#4db2ec}</style>
-
-            <div class="tdc-header-wrap ">
-                <div class="td-header-wrap td-header-style-1">
-                    <div class="td-banner-wrap-full td-logo-wrap-full td-container-wrap">
-                        <div class="td-header-sp-logo">
-                            
-                            <div class="td-logo-text-wrap">
-                                <div class="td-logo-text-container">
-                                                                        <a class="td-logo-wrap" href="https://nims.co.ke/">
-                                        <span class="td-logo-text">Nims</span>
-                                    </a>
-                                                                        <span class="td-tagline-text">National Integrated Identity Management System</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="td-header-menu-wrap-full td-container-wrap">
-                        <div class="td-header-menu-wrap td-header-gradient">
-                            <div class="td-container td-header-row td-header-main-menu">
-                                <div id="td-header-menu" role="navigation">
-                                                                            <div id="td-top-mobile-toggle"><a href="#" aria-label="mobile-toggle"><i class="td-icon-font td-icon-mobile"></i></a></div>
-                                                                        <div class="menu-primary-header-menu-container"><ul id="menu-primary-header-menu-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-490 current_page_item menu-item-first td-menu-item td-normal-menu menu-item-545"><a href="https://nims.co.ke/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-37"><a href="https://nims.co.ke/niims-national-integrated-identity-management-system/">NIIMS &#8211; Information</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-36"><a href="https://nims.co.ke/about/">About</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-35"><a href="https://nims.co.ke/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-383"><a href="https://nims.co.ke/category/investment-posts/">Investment posts</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-382"><a href="https://nims.co.ke/category/corruption-scandals/">Corruption Scandals</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-38"><a href="https://nims.co.ke/contact/">Contact</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-682"><a href="https://nims.co.ke/kenya-2022-election-results-live/">Elections 2022</a></li>
-</ul></div>                                </div>
-
-                                <div class="header-search-wrap">
-                                    <div class="td-search-btns-wrap">
-                                        <a id="td-header-search-button" href="#" aria-label="Search" role="button"><i class="td-icon-search"></i></a>
-                                                                                    <a id="td-header-search-button-mob" href="#" role="button" aria-label="Search"><i class="td-icon-search"></i></a>
-                                                                            </div>
-
-                                    <div class="td-drop-down-search">
-                                        <form method="get" class="td-search-form" action="https://nims.co.ke/">
-                                            <div role="search" class="td-head-form-search-wrap">
-                                                <input id="td-header-search" type="text" value="" name="s" autocomplete="off" />
-                                                <input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-                    
-            <div class="td-main-content-wrap td-main-page-wrap td-container-wrap">
-                <div class="tdc-content-wrap">
-                    <div id="tdi_1" class="tdc-zone"><div class="tdc_zone tdi_2  wpb_row td-pb-row"  >
-<style scoped>.tdi_2{min-height:0}</style><div id="tdi_3" class="tdc-row"><div class="vc_row tdi_4  wpb_row td-pb-row" >
-<style scoped>.tdi_4,.tdi_4 .tdc-columns{min-height:0}.tdi_4,.tdi_4 .tdc-columns{display:block}.tdi_4 .tdc-columns{width:100%}.tdi_4:before,.tdi_4:after{display:table}</style><div class="vc_column tdi_6  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>.tdi_6{vertical-align:baseline}.tdi_6>.wpb_wrapper,.tdi_6>.wpb_wrapper>.tdc-elements{display:block}.tdi_6>.wpb_wrapper>.tdc-elements{width:100%}.tdi_6>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_6>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_trending_now tdi_7 td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_7" >
-<style>.tdi_7{margin-top:24px!important;margin-bottom:24px!important}@media (min-width:768px) and (max-width:1018px){.tdi_7{margin-top:16px!important;margin-bottom:16px!important}}@media (max-width:767px){.tdi_7{margin-top:12px!important;margin-bottom:12px!important}}</style>
-<style>.td_block_trending_now{padding:0 18px}.td-trending-now-wrapper{display:flex;align-items:center;position:relative;-webkit-transform:translate3d(0px,0px,0px);transform:translate3d(0px,0px,0px);overflow:hidden}.td-trending-now-wrapper .td-next-prev-wrap{margin:0 0 0 auto;z-index:1}.td-trending-now-wrapper:hover .td-trending-now-title{background-color:var(--td_theme_color,#4db2ec)}.td-trending-now-wrapper .td-trending-now-nav-right{padding-left:2px}.td-trending-now-title{background-color:#222;font-family:var(--td_default_google_font_2,'Roboto',sans-serif);font-size:12px;text-transform:uppercase;color:#fff;padding:2px 10px 1px;display:inline-block;line-height:22px;-webkit-transition:background-color 0.3s;transition:background-color 0.3s;cursor:default;-webkit-user-select:none;user-select:none}@-moz-document url-prefix(){.td-trending-now-title{line-height:21px}}.td-trending-now-display-area{display:flex;align-items:center;vertical-align:top;padding:0 0 0 15px}.td-trending-now-display-area .entry-title{font-size:15px;line-height:25px;margin:0}.td-trending-now-post{opacity:0;position:absolute;top:0;padding-right:119px;overflow:hidden}.td-trending-now-post:first-child{opacity:1;z-index:1;opacity:1}.td-next-prev-wrap .td-trending-now-nav-right{margin-right:0}.td_block_trending_now.td-trending-style2{border:1px solid #eaeaea;padding-top:20px;padding-bottom:20px}@media (min-width:768px) and (max-width:1018px){.td_block_trending_now{padding:0 6px}}@media (min-width:768px) and (max-width:1018px){.td-trending-now-post{padding-right:107px}}@media (max-width:767px){.td_block_trending_now{padding:0}.td-trending-now-wrapper{flex-direction:column;text-align:center}.td-trending-now-wrapper .td-next-prev-wrap{display:none}.td-trending-now-title{padding:2px 10px 1px}.td-trending-now-display-area{width:100%;padding:0;display:block;height:26px;position:relative;top:10px}.td-trending-now-display-area .td_module_trending_now .entry-title{font-size:14px;line-height:16px}.td-trending-now-post{width:100%;padding-right:0}}@media (min-width:768px) and (max-width:1018px){.tdi_7 .entry-title a{font-size:13px!important}}</style><script>var block_tdi_7 = new tdBlock();
-block_tdi_7.id = "tdi_7";
-block_tdi_7.atts = '{"mt_title_tag":"h2","navigation":"manual","tdc_css":"eyJhbGwiOnsibWFyZ2luLXRvcCI6IjI0IiwibWFyZ2luLWJvdHRvbSI6IjI0IiwiZGlzcGxheSI6IiJ9LCJwb3J0cmFpdCI6eyJtYXJnaW4tdG9wIjoiMTYiLCJtYXJnaW4tYm90dG9tIjoiMTYiLCJkaXNwbGF5IjoiIn0sInBvcnRyYWl0X21heF93aWR0aCI6MTAxOCwicG9ydHJhaXRfbWluX3dpZHRoIjo3NjgsInBob25lIjp7Im1hcmdpbi10b3AiOiIxMiIsIm1hcmdpbi1ib3R0b20iOiIxMiIsImRpc3BsYXkiOiIifSwicGhvbmVfbWF4X3dpZHRoIjo3Njd9","f_article_font_size":"eyJwb3J0cmFpdCI6IjEzIn0=","limit":"3","sort":"random_posts","category_id":"1","block_type":"td_block_trending_now","custom_title":"","title_padding":"","timer":3,"style":"","separator":"","mt_tl":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","review_source":"","el_class":"","header_text_color":"","header_color":"","articles_color":"","next_prev_color":"","next_prev_border_color":"","next_prev_hover_color":"","f_title_font_header":"","f_title_font_title":"Block title","f_title_font_settings":"","f_title_font_family":"","f_title_font_size":"","f_title_font_line_height":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_article_font_title":"Articles title","f_article_font_settings":"","f_article_font_family":"","f_article_font_line_height":"","f_article_font_style":"","f_article_font_weight":"","f_article_font_transform":"","f_article_font_spacing":"","f_article_":"","css":"","block_template_id":"","td_column_number":3,"ajax_pagination_infinite_stop":"","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","border_top":"","class":"tdi_7","tdc_css_class":"tdi_7","tdc_css_class_style":"tdi_7_rand_style"}';
-block_tdi_7.td_column_number = "3";
-block_tdi_7.block_type = "td_block_trending_now";
-block_tdi_7.post_count = "3";
-block_tdi_7.found_posts = "95";
-block_tdi_7.header_color = "";
-block_tdi_7.ajax_pagination_infinite_stop = "";
-block_tdi_7.max_num_pages = "32";
-tdBlocksArray.push(block_tdi_7);
-</script><div class="td_block_inner"><div class="td-trending-now-wrapper" id="tdi_7" data-start="manual" data-timer=""><div class="td-trending-now-title">Trending Now</div><div class="td-trending-now-display-area">
-        <div class="td_module_trending_now td-trending-now-post-0 td-trending-now-post td-cpt-post">
-
-            <h2 class="entry-title td-module-title"><a href="https://nims.co.ke/jak-se-zaregistrovat-a-zact-hrt-v-nv-casino-online/"  rel="bookmark" title="Jak Se Zaregistrovat a Zač&iacute;t Hr&aacute;t v Nv Casino Online">Jak Se Zaregistrovat a Zač&iacute;t Hr&aacute;t v Nv Casino Online</a></h2>
-        </div>
-
-        
-        <div class="td_module_trending_now td-trending-now-post-1 td-trending-now-post td-cpt-post">
-
-            <h2 class="entry-title td-module-title"><a href="https://nims.co.ke/comment-maximiser-votre-exprience-sur-fatboss-casino/"  rel="bookmark" title="Comment Maximiser Votre Exp&eacute;rience sur Fatboss Casino">Comment Maximiser Votre Exp&eacute;rience sur Fatboss Casino</a></h2>
-        </div>
-
-        
-        <div class="td_module_trending_now td-trending-now-post-2 td-trending-now-post td-cpt-post">
-
-            <h2 class="entry-title td-module-title"><a href="https://nims.co.ke/comment-maximiser-vos-gains-avec-nv-casino-guide-complet/"  rel="bookmark" title="Comment Maximiser Vos Gains avec NV Casino: Guide Complet">Comment Maximiser Vos Gains avec NV Casino: Guide Complet</a></h2>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#"
-                                  class="td_ajax-prev-pagex td-trending-now-nav-left" 
-                                  aria-label="prev" 
-                                  data-block-id="tdi_7"
-                                  data-moving="left"
-                                  data-control-start="manual"><i class="td-icon-menu-left"></i></a><a href="#"
-                                  class="td_ajax-next-pagex td-trending-now-nav-right" 
-                                  aria-label="next"
-                                  data-block-id="tdi_7"
-                                  data-moving="right"
-                                  data-control-start="manual"><i class="td-icon-menu-right"></i></a></div></div></div></div><div class="td-big-grid-flex td-big-grid-flex-scroll td_block_wrap td_block_big_grid_flex_5 tdi_8 td-pb-border-top td_block_template_1 td-big-grid-flex-posts" data-td-block-uid="tdi_8" >
-<style>@media (min-width:1019px) and (max-width:1140px){.tdi_8{margin-right:-22px!important;margin-left:-22px!important;width:auto!important;display:block!important}}@media (min-width:768px) and (max-width:1018px){.tdi_8{margin-right:-14px!important;margin-left:-14px!important;width:auto!important;display:block!important}}</style>
-<style>.td-big-grid-flex{width:100%;padding-bottom:0}.td-big-grid-flex .td_block_inner:after,.td-big-grid-flex .td_block_inner .td-big-grid-flex-post:after{content:'';display:table;clear:both}.td-big-grid-flex .td-big-grid-flex-post{position:relative;float:left;padding-bottom:0}.td-big-grid-flex .td-image-container{position:relative;flex:0 0 100%;width:100%;height:100%}.td-big-grid-flex .td-image-wrap{position:relative;display:block;overflow:hidden}.td-big-grid-flex .td-image-wrap:before{position:absolute;bottom:0;left:0;width:100%;height:100%;-webkit-transition:background-color 0.3s ease;transition:background-color 0.3s ease;z-index:1}.td-big-grid-flex .td-module-thumb{position:relative;margin-bottom:0}.td-big-grid-flex .td-module-thumb:after{position:absolute;top:0;left:0;width:100%;height:100%}.td-big-grid-flex .td-thumb-css{width:100%;height:100%;position:absolute;background-size:cover;background-position:center center}.td-big-grid-flex .td-module-thumb .td-thumb-css{transition:opacity 0.3s,transform 0.3s;-webkit-transition:opacity 0.3s,transform 0.3s}.td-big-grid-flex .td-post-category{transition:background-color 0.2s ease;-webkit-transition:background-color 0.2s ease;padding:3px 7px;background-color:rgba(0,0,0,0.7);font-family:var(--td_default_google_font_2,'Roboto',sans-serif);line-height:13px;font-weight:500;text-transform:uppercase;pointer-events:auto}.td-big-grid-flex .td-module-meta-info{position:absolute;left:0;margin-bottom:0;width:100%;pointer-events:none;z-index:1}.td-big-grid-flex .td-module-title a,.td-big-grid-flex .td-post-author-name span,.td-big-grid-flex .td-module-container:hover .entry-title a,.td-big-grid-flex .td-post-author-name a,.td-big-grid-flex .td-post-date{color:#fff}.td-big-grid-flex .td-module-title{margin:0}.td-big-grid-flex .td-module-title a{text-shadow:1px 1px 3px rgba(0,0,0,0.2)}.td-big-grid-flex .td-editor-date{display:inline-block}.td-big-grid-flex .td-post-author-name a,.td-big-grid-flex .td-post-author-name span,.td-big-grid-flex .td-post-date{text-shadow:1px 1px 1px rgba(0,0,0,0.3)}.td-big-grid-flex .td-big-grid-flex-post-empty .td-image-wrap{background-color:#e5e5e5}.td-big-grid-flex .td-big-grid-flex-post-empty .td-image-wrap:before{display:none}.td_block_big_grid_flex_5 .td_module_flex_6,.td_block_big_grid_flex_5 .td_module_flex_7{width:50%}.td_block_big_grid_flex_5 .td_module_flex_6 .td-image-wrap{padding-bottom:450px}.td_block_big_grid_flex_5 .td_module_flex_6 .td-module-meta-info{padding:22px 20px}.td_block_big_grid_flex_5 .td_module_flex_6 .entry-title{font-size:27px;font-weight:500;line-height:34px}.td_block_big_grid_flex_5 .td_module_flex_7 .td-image-wrap{padding-bottom:254px}.td_block_big_grid_flex_5 .td_module_flex_7 .td-module-meta-info{padding:14px 19px}.td_block_big_grid_flex_5 .td_module_flex_7 .entry-title{margin:0;font-size:24px;line-height:30px;font-weight:500}.td_block_big_grid_flex_5 .td_module_flex_8{width:25%}.td_block_big_grid_flex_5 .td_module_flex_8 .td-image-wrap{padding-bottom:192px}.td_block_big_grid_flex_5 .td_module_flex_8 .td-module-meta-info{padding:11px 15px}.td_block_big_grid_flex_5 .td_module_flex_8 .entry-title{margin:0;font-size:16px;line-height:21px;font-weight:500}body .tdi_8 .td-module-meta-info{bottom:0}body .tdi_8 .td_module_flex_6 .entry-thumb{background-position:center 50%}body .tdi_8 .td_module_flex_7 .entry-thumb{background-position:center 50%}body .tdi_8 .td_module_flex_8 .entry-thumb{background-position:center 50%}body .tdi_8 .td_module_flex_8 .td-video-play-ico{width:30px;height:30px;font-size:30px;top:50%;left:50%;transform:translate(-50%,-50%)}body .tdi_8 .td_module_flex_6 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}body .tdi_8 .td_module_flex_7 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}body .tdi_8 .td_module_flex_6 .td-module-meta-info{width:90%}body .tdi_8 .td_module_flex_7 .td-module-meta-info{width:85%}body .tdi_8 .td_module_flex_6 .tdb-module-title-wrap{margin:0 0 12px}body .tdi_8 .td_module_flex_6 .td-post-category{margin:0 0 5px}body .tdi_8 .td_module_flex_7 .td-post-category{margin:0 0 5px}body .tdi_8 .td_module_flex_8 .td-post-category{margin:0 0 7px}body .tdi_8 .td_module_flex_6 .td-post-category:not(.td-post-extra-category){display:inline-block}body .tdi_8 .td_module_flex_7 .td-post-category:not(.td-post-extra-category){display:inline-block}body .tdi_8 .td_module_flex_8 .td-post-category:not(.td-post-extra-category){display:inline-block}body .tdi_8 .td_module_flex_6 .td-editor-date{display:inline-block}body .tdi_8 .td_module_flex_7 .td-editor-date{display:inline-block}body .tdi_8 .td_module_flex_8 .td-editor-date{display:inline-block}body .tdi_8 .td_module_flex_6 .td-post-author-name{display:inline-block}body .tdi_8 .td_module_flex_7 .td-post-author-name{display:none}body .tdi_8 .td_module_flex_8 .td-post-author-name{display:none}body .tdi_8 .td_module_flex_6 .td-post-date,body .tdi_8 .td_module_flex_6 .td-post-author-name span{display:inline-block}body .tdi_8 .td_module_flex_7 .td-post-date,body .tdi_8 .td_module_flex_7 .td-post-author-name span{display:none}body .tdi_8 .td_module_flex_8 .td-post-date,body .tdi_8 .td_module_flex_8 .td-post-author-name span{display:none}body .tdi_8 .td_module_flex_6 .entry-review-stars{display:inline-block}body .tdi_8 .td_module_flex_6 .td-icon-star,body .tdi_8 .td_module_flex_6 .td-icon-star-empty,body .tdi_8 .td_module_flex_6 .td-icon-star-half{font-size:15px}body .tdi_8 .td_module_flex_7 .entry-review-stars{display:inline-block}body .tdi_8 .td_module_flex_7 .td-icon-star,body .tdi_8 .td_module_flex_7 .td-icon-star-empty,body .tdi_8 .td_module_flex_7 .td-icon-star-half{font-size:15px}body .tdi_8 .td_module_flex_8 .entry-review-stars{display:inline-block}body .tdi_8 .td_module_flex_8 .td-icon-star,body .tdi_8 .td_module_flex_8 .td-icon-star-empty,body .tdi_8 .td_module_flex_8 .td-icon-star-half{font-size:15px}body .tdi_8 .td-image-wrap:before{content:'';background:-webkit-linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0) 60%,rgba(0,0,0,0));background:linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0) 60%,rgba(0,0,0,0))}body .tdi_8 .td-module-container:hover .td-post-category{background-color:#4db2ec}body .tdi_8 .entry-review-stars{color:#fff}html:not([class*='ie']) body .tdi_8 .td-module-container:hover .entry-thumb:before{opacity:0}@media (max-width:767px){.td-big-grid-flex .td_block_inner{margin-left:-20px;margin-right:-20px}}@media (min-width:767px){.td-big-grid-flex-lightsky .td-image-wrap:after{content:'';position:absolute;top:0;left:0;width:160%;height:100%;background:rgba(255,255,255,0.2);transform:scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,-120%,0);-webkit-transform:scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,-120%,0);transition:transform 0.7s ease 0s;-webkit-transition:transform 0.7s ease 0s;z-index:1}.td-big-grid-flex-lightsky .td-module-container:hover .td-image-wrap:after{transform:scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,146%,0);-webkit-transform:scale3d(1.9,1.4,1) rotate3d(0,0,1,45deg) translate3d(0,146%,0)}}@media (max-width:767px){div.td-big-grid-flex-scroll .td-big-grid-flex-post{float:none}div.td-big-grid-flex-scroll .td-big-grid-flex-scroll-holder{overflow-x:auto;overflow-y:hidden;white-space:nowrap;font-size:0;-webkit-overflow-scrolling:touch}div.td-big-grid-flex-scroll .td-big-grid-flex-scroll-holder .td-big-grid-flex-post{display:inline-block;vertical-align:top}div.td-big-grid-flex-scroll .td-module-title a{white-space:normal}}@media (min-width:1019px) and (max-width:1140px){.td_block_big_grid_flex_5 .td_module_flex_6 .entry-title{font-size:21px;line-height:28px}}@media (min-width:768px) and (max-width:1018px){.td_block_big_grid_flex_5 .td_module_flex_6 .entry-title{font-size:16px;line-height:21px}}@media (max-width:767px){.td_block_big_grid_flex_5 .td_module_flex_6 .entry-title{font-size:22px;line-height:28px}}@media (min-width:1019px) and (max-width:1140px){.td_block_big_grid_flex_5 .td_module_flex_7 .entry-title{font-size:20px;line-height:26px}}@media (min-width:768px) and (max-width:1018px){.td_block_big_grid_flex_5 .td_module_flex_7 .entry-title{font-size:15px;line-height:20px}}@media (max-width:767px){.td_block_big_grid_flex_5 .td_module_flex_7 .entry-title{font-size:16px;line-height:21px}}@media (min-width:1019px) and (max-width:1140px){.td_block_big_grid_flex_5 .td_module_flex_8 .entry-title{font-size:14px;line-height:20px}}@media (min-width:768px) and (max-width:1018px){.td_block_big_grid_flex_5 .td_module_flex_8 .entry-title{font-size:13px;line-height:18px}}@media (min-width:767px){body .tdi_8 .td-big-grid-flex-post{border-width:0 2px;border-style:solid;border-color:transparent}body .tdi_8 .td_block_inner{margin-left:-2px;margin-right:-2px}}@media (min-width:767px){body .tdi_8 .td-big-grid-flex-post-1{margin-bottom:4px}}@media (max-width:767px){body .tdi_8 .td-big-grid-flex-post-0{margin-bottom:4px}body .tdi_8 .td-big-grid-flex-scroll-holder .td-big-grid-flex-post{margin-right:4px}body .tdi_8 .td-big-grid-flex-scroll-holder .td-big-grid-flex-post:last-child{margin-right:0}}@media (min-width:767px){body .tdi_8 .td-module-container:hover .td-thumb-css{transform:scale3d(1.1,1.1,1);-webkit-transform:scale3d(1.1,1.1,1)}}@media (min-width:1019px) and (max-width:1140px){body .tdi_8 .td_module_flex_6 .td-image-wrap{padding-bottom:414px}body .tdi_8 .td_module_flex_7 .td-image-wrap{padding-bottom:234px}body .tdi_8 .td_module_flex_8 .td-image-wrap{padding-bottom:176px}body .tdi_8 .td_module_flex_6 .td-module-meta-info{padding:22px}}@media (min-width:768px) and (max-width:1018px){body .tdi_8 .td_module_flex_6 .td-image-wrap{padding-bottom:312px}body .tdi_8 .td_module_flex_7 .td-image-wrap{padding-bottom:176px}body .tdi_8 .td_module_flex_8 .td-image-wrap{padding-bottom:132px}body .tdi_8 .td_module_flex_6 .td-module-meta-info{padding:15px}body .tdi_8 .td_module_flex_7 .td-module-meta-info{padding:19px 18px 14px}body .tdi_8 .td_module_flex_6 .tdb-module-title-wrap{margin:0px 0px 6px 0px}body .tdi_8 .td_module_flex_6 .td-post-category{margin:0px 0px 7px 0px}body .tdi_8 .td_module_flex_7 .td-post-category{margin:0px 0px 4px 0px}}@media (max-width:767px){body .tdi_8 .td_module_flex_6 .td-image-wrap{padding-bottom:320px}body .tdi_8 .td_module_flex_7 .td-image-wrap{padding-bottom:180px}body .tdi_8 .td_module_flex_8 .td-image-wrap{padding-bottom:180px}body .tdi_8 .td_module_flex_6{width:100%}body .tdi_8 .td_module_flex_7{width:80%}body .tdi_8 .td_module_flex_8{width:80%}body .tdi_8 .td_module_flex_6 .td-module-meta-info{width:100%;padding:15px 10px 20px 20px}body .tdi_8 .td_module_flex_7 .td-module-meta-info{width:100%;padding:0 20px 14px}body .tdi_8 .td_module_flex_8 .td-module-meta-info{padding:0 20px 14px}body .tdi_8 .td_module_flex_6 .tdb-module-title-wrap{margin:0 0 6px 0}@media (min-width:767px){body .tdi_8 .td-big-grid-flex-post{border-width:0 1.5px;border-style:solid;border-color:transparent}body .tdi_8 .td_block_inner{margin-left:-1.5px;margin-right:-1.5px}}@media (min-width:767px){body .tdi_8 .td-big-grid-flex-post-1{margin-bottom:3px}}@media (max-width:767px){body .tdi_8 .td-big-grid-flex-post-0{margin-bottom:3px}body .tdi_8 .td-big-grid-flex-scroll-holder .td-big-grid-flex-post{margin-right:3px}body .tdi_8 .td-big-grid-flex-scroll-holder .td-big-grid-flex-post:last-child{margin-right:0}}}</style><div id=tdi_8 class="td_block_inner">
-        <div class="td_module_flex_6 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-0 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/comment-maximiser-votre-exprience-sur-fatboss-casino/"  rel="bookmark" class="td-image-wrap " title="Comment Maximiser Votre Exp&eacute;rience sur Fatboss Casino" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_696x0.png"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/comment-maximiser-votre-exprience-sur-fatboss-casino/"  rel="bookmark" title="Comment Maximiser Votre Exp&eacute;rience sur Fatboss Casino">Comment Maximiser Votre Exp&eacute;rience sur Fatboss Casino</a></h3>                    </div>
-
-                                        
-                                            <div class="td-editor-date">
-                            <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-02-07T00:00:00+03:00" >February 7, 2018</time></span>                                                    </div>
-                                    </div>
             </div>
         </div>
-
-        <div class="td-big-grid-flex-scroll-holder">
-        <div class="td_module_flex_7 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-1 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/the-anglo-leasing-scandal/"  rel="bookmark" class="td-image-wrap " title="The Anglo Leasing Scandal" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/DNCourtScandal0503c.JPG.jpg?resize=600%2C400&ssl=1"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-anglo-leasing-scandal/"  rel="bookmark" title="The Anglo Leasing Scandal">The Anglo Leasing Scandal</a></h3>                    </div>
-
-                                        
-                                    </div>
+        <div class="elementor-element elementor-element-6f67f4b elementor-hidden-desktop elementor-hidden-tablet elementor-widget elementor-widget-spacer" data-id="6f67f4b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-spacer">
+      <div class="elementor-spacer-inner"></div>
+    </div>
             </div>
         </div>
-
-        
-        <div class="td_module_flex_8 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-2 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/the-ncpb-maize-scandal/"  rel="bookmark" class="td-image-wrap " title="The NCPB maize scandal" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/The-NCPB-maize-scandal.jpg?resize=696%2C459&ssl=1"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-ncpb-maize-scandal/"  rel="bookmark" title="The NCPB maize scandal">The NCPB maize scandal</a></h3>                    </div>
-
-                                        
-                                    </div>
+        </div>
+        </div>
+          </div>
+        </div>
+        </div>
+    <div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
+    <div data-elementor-type="wp-post" data-elementor-id="764" class="elementor elementor-764" data-elementor-post-type="elementskit_template">
+        <div class="elementor-element elementor-element-5df3904 e-flex e-con-boxed e-con e-parent" data-id="5df3904" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+    <div class="elementor-element elementor-element-43a9fef e-con-full e-flex e-con e-child" data-id="43a9fef" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-030fdad elementor-widget elementor-widget-heading" data-id="030fdad" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">REACH US</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-12c6a4a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="12c6a4a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-icon-list-items">
+              <li class="elementor-icon-list-item">
+                    <span class="elementor-icon-list-text">support@tangereapp.com</span>
+                  </li>
+                <li class="elementor-icon-list-item">
+                    <span class="elementor-icon-list-text">qual@tangereapp.com</span>
+                  </li>
+                <li class="elementor-icon-list-item">
+                    <span class="elementor-icon-list-text">+63920 959 0619</span>
+                  </li>
+            </ul>
             </div>
         </div>
+        </div>
+    <div class="elementor-element elementor-element-afdeb24 e-con-full e-flex e-con e-child" data-id="afdeb24" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-61dc684 elementor-widget elementor-widget-heading" data-id="61dc684" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">QUICK LINKS</h4>       </div>
+        </div>
+        <div class="elementor-element elementor-element-bf48cae elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="bf48cae" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-icon-list-items">
+              <li class="elementor-icon-list-item">
+                      <a href="/about/">
 
-        
-        <div class="td_module_flex_8 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-3 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/foreign-affairs-ministry-scandle/"  rel="bookmark" class="td-image-wrap " title="Foreign Affairs ministry Scandle" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/Foreign-Affairs-ministry-Scandle.jpg?resize=630%2C350&ssl=1"  ></span></a></div>                </div>
+                      <span class="elementor-icon-list-text">About</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="/home/#contact">
 
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/foreign-affairs-ministry-scandle/"  rel="bookmark" title="Foreign Affairs ministry Scandle">Foreign Affairs ministry Scandle</a></h3>                    </div>
+                      <span class="elementor-icon-list-text">Contact</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="https://tangereapp.com/case-studies/">
 
-                                        
-                                    </div>
+                      <span class="elementor-icon-list-text">Case Studies</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                    <span class="elementor-icon-list-text">Company Profile</span>
+                  </li>
+            </ul>
             </div>
         </div>
+        </div>
+    <div class="elementor-element elementor-element-107b017 e-con-full e-flex e-con e-child" data-id="107b017" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-9b75538 elementor-widget elementor-widget-heading" data-id="9b75538" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h4 class="elementor-heading-title elementor-size-default">OUR SERVICES</h4>        </div>
+        </div>
+        <div class="elementor-element elementor-element-c070169 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="c070169" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-icon-list-items">
+              <li class="elementor-icon-list-item">
+                      <a href="/quantitative-methodologies/">
 
-        </div></div></div></div></div></div></div><div id="tdi_9" class="tdc-row"><div class="vc_row tdi_10  wpb_row td-pb-row" >
-<style scoped>.tdi_10,.tdi_10 .tdc-columns{min-height:0}.tdi_10,.tdi_10 .tdc-columns{display:block}.tdi_10 .tdc-columns{width:100%}.tdi_10:before,.tdi_10:after{display:table}</style><div class="vc_column tdi_12  wpb_column vc_column_container tdc-column td-pb-span7">
-<style scoped>.tdi_12{vertical-align:baseline}.tdi_12>.wpb_wrapper,.tdi_12>.wpb_wrapper>.tdc-elements{display:block}.tdi_12>.wpb_wrapper>.tdc-elements{width:100%}.tdi_12>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_12>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_text_with_title tdi_13 tagdiv-type td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_13" >
-<style>.td_block_text_with_title{margin-bottom:44px;-webkit-transform:translateZ(0);transform:translateZ(0)}.td_block_text_with_title p:last-child{margin-bottom:0}</style><div class="td-block-title-wrap"></div><div class="td_mod_wrap td-fix-index"><h1>NIMS &#8211; NIIMS information</h1>
-<h2>National Integrated Identity Management System</h2>
-<p>Kenya&#8217; National Integrated Identity Management System (NIIMS), is a system intended to create and operate a national population register. All registrants will have a service number &#8216;Huduma Number&#8217;, and hold a Huduma Card or the Huduma Number Card. &#8211; http://niims.co.ke/</p>
-</div></div></div></div><div class="vc_column tdi_15  wpb_column vc_column_container tdc-column td-pb-span5">
-<style scoped>.tdi_15{vertical-align:baseline}.tdi_15>.wpb_wrapper,.tdi_15>.wpb_wrapper>.tdc-elements{display:block}.tdi_15>.wpb_wrapper>.tdc-elements{width:100%}.tdi_15>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_15>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
+                      <span class="elementor-icon-list-text">Quantitative Methodologies</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="/qualitative-methodologies/">
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 tdi_16 td_block_template_1 ">
+                      <span class="elementor-icon-list-text">Qualitative Methodologies</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="/premium-services/">
 
-<style>.tdi_16.td-a-rec{text-align:center}.tdi_16.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_16 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div></div></div><div id="tdi_17" class="tdc-row"><div class="vc_row tdi_18  wpb_row td-pb-row" >
-<style scoped>.tdi_18,.tdi_18 .tdc-columns{min-height:0}.tdi_18,.tdi_18 .tdc-columns{display:block}.tdi_18 .tdc-columns{width:100%}.tdi_18:before,.tdi_18:after{display:table}</style><div class="vc_column tdi_20  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_20{vertical-align:baseline}.tdi_20>.wpb_wrapper,.tdi_20>.wpb_wrapper>.tdc-elements{display:block}.tdi_20>.wpb_wrapper>.tdc-elements{width:100%}.tdi_20>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_20>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 tdi_21 td_block_template_1 ">
-
-<style>.tdi_21.td-a-rec{text-align:center}.tdi_21.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_21 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div><div class="vc_column tdi_23  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_23{vertical-align:baseline}.tdi_23>.wpb_wrapper,.tdi_23>.wpb_wrapper>.tdc-elements{display:block}.tdi_23>.wpb_wrapper>.tdc-elements{width:100%}.tdi_23>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_23>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_text_with_title tdi_24 tagdiv-type td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_24" ><div class="td-block-title-wrap"></div><div class="td_mod_wrap td-fix-index"><h3>What is NIIMS?</h3>
-<p>The National Integrated Identity Management System (NIIMS) is a system intended to create and operate a national population register as a single source of information about Kenyan citizens and foreigners resident in the country.</p><!-- Super Cache v3 -->
-</div></div></div></div><div class="vc_column tdi_26  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_26{vertical-align:baseline}.tdi_26>.wpb_wrapper,.tdi_26>.wpb_wrapper>.tdc-elements{display:block}.tdi_26>.wpb_wrapper>.tdc-elements{width:100%}.tdi_26>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_26>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 tdi_27 td_block_template_1 ">
-
-<style>.tdi_27.td-a-rec{text-align:center}.tdi_27.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_27 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div></div></div><div id="tdi_28" class="tdc-row"><div class="vc_row tdi_29  wpb_row td-pb-row" >
-<style scoped>.tdi_29,.tdi_29 .tdc-columns{min-height:0}.tdi_29,.tdi_29 .tdc-columns{display:block}.tdi_29 .tdc-columns{width:100%}.tdi_29:before,.tdi_29:after{display:table}</style><div class="vc_column tdi_31  wpb_column vc_column_container tdc-column td-pb-span8">
-<style scoped>.tdi_31{vertical-align:baseline}.tdi_31>.wpb_wrapper,.tdi_31>.wpb_wrapper>.tdc-elements{display:block}.tdi_31>.wpb_wrapper>.tdc-elements{width:100%}.tdi_31>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_31>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_3 tdi_32 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_32" >
-<style>
-.td-theme-wrap .tdi_32 .td-pulldown-filter-link:hover,
-            .td-theme-wrap .tdi_32 .td-subcat-item a:hover,
-            .td-theme-wrap .tdi_32 .td-subcat-item .td-cur-simple-item {
-                color: #f9c100;
-            }
-
-            .td-theme-wrap .tdi_32 .block-title > *,
-            .td-theme-wrap .tdi_32 .td-subcat-dropdown:hover .td-subcat-more {
-                background-color: #f9c100;
-            }
-            .td-theme-wrap .td-footer-wrapper .tdi_32 .block-title > * {
-                padding: 6px 7px 5px;
-                line-height: 1;
-            }
-
-            .td-theme-wrap .tdi_32 .block-title {
-                border-color: #f9c100;
-            }
-
-            
-            .td-theme-wrap .tdi_32 .block-title > * {
-                color: #000000;
-            }
-            
-            
-            
-            .td-theme-wrap .tdi_32 .td_module_wrap:hover .entry-title a,
-            .td-theme-wrap .tdi_32 .td_quote_on_blocks,
-            .td-theme-wrap .tdi_32 .td-opacity-cat .td-post-category:hover,
-            .td-theme-wrap .tdi_32 .td-opacity-read .td-read-more a:hover,
-            .td-theme-wrap .tdi_32 .td-opacity-author .td-post-author-name a:hover,
-            .td-theme-wrap .tdi_32 .td-instagram-user a {
-                color: #f9c100;
-            }
-
-            .td-theme-wrap .tdi_32 .td-next-prev-wrap a:hover,
-            .td-theme-wrap .tdi_32 .td-load-more-wrap a:hover {
-                background-color: #f9c100;
-                border-color: #f9c100;
-            }
-
-            .td-theme-wrap .tdi_32 .td-read-more a,
-            .td-theme-wrap .tdi_32 .td-weather-information:before,
-            .td-theme-wrap .tdi_32 .td-weather-week:before,
-            .td-theme-wrap .tdi_32 .td-exchange-header:before,
-            .td-theme-wrap .td-footer-wrapper .tdi_32 .td-post-category,
-            .td-theme-wrap .tdi_32 .td-post-category:hover {
-                background-color: #f9c100;
-            }
-</style>
-<style>.tdi_32 .td_module_flex_1{width:50%;float:left;padding-bottom:0px;margin-bottom:0px}.rtl .tdi_32 .td_module_flex_1{float:right}.tdi_32 .td_module_column{width:50%;float:left}.tdi_32 .td_module_flex_3{width:100%;float:left;padding-bottom:13px;margin-bottom:13px}.tdi_32 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_32 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_32 .td_module_flex_1 .td-module-container:before{bottom:-0px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_32 .td_module_flex_3 .td-module-container:before{bottom:-13px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_32 .td_module_column:last-child .td_module_flex_3:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_32 .td_module_flex_3:last-child .td-module-container:before{display:none}.tdi_32 .td_module_flex_3:nth-last-child(2){margin-bottom:13px!important;padding-bottom:13px!important}.tdi_32 .td_module_flex_3:nth-last-child(2) .td-module-container:before{display:block}.tdi_32 .td_module_flex_1 .td-module-container{border-color:#eaeaea;flex-direction:column}.tdi_32 .td_module_flex_3 .td-module-container{border-color:#eaeaea;align-items:initial}.tdi_32 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_32 .td_module_flex_3 .entry-thumb{background-position:center 50%}.tdi_32 .td_module_flex_3 .td-image-container{flex:0 0 30%;width:30%}.tdi_32 .td_module_flex_3 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_32 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_32 .td_module_flex_3 .td-post-vid-time{display:block}.tdi_32 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_32 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_32 .td_module_flex_3 .td-audio-player{font-size:12px;opacity:0;visibility:hidden;height:0}.tdi_32 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_32 .td_module_flex_3 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_32 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_32 .td_module_flex_3 .td-post-category:not(.td-post-extra-category){display:none}.tdi_32 .td_module_flex_1 .td-excerpt{display:block}.tdi_32 .td_module_flex_1 .td-author-date{display:inline}.tdi_32 .td_module_flex_3 .td-author-date{display:inline}.tdi_32 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_32 .td_module_flex_3 .td-post-author-name{display:none}.tdi_32 .td_module_flex_1 .td-post-date,.tdi_32 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_32 .td_module_flex_3 .td-post-date,.tdi_32 .td_module_flex_3 .td-post-author-name span{display:inline-block}.tdi_32 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_32 .td_module_flex_1 .td-icon-star,.tdi_32 .td_module_flex_1 .td-icon-star-empty,.tdi_32 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_32 .td_module_flex_3 .entry-review-stars{display:none}.tdi_32 .td_module_flex_3 .td-icon-star,.tdi_32 .td_module_flex_3 .td-icon-star-empty,.tdi_32 .td_module_flex_3 .td-icon-star-half{font-size:15px}.tdi_32 .td_module_flex_1 .td-module-comments{display:block}.tdi_32 .td_module_flex_3 .td-module-comments{display:none}body .tdi_32 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_32 .td_module_flex_3 .td-favorite{font-size:36px}.tdi_32 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_32 .td_module_flex_3 .td-favorite{box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_32 .td-block-title a,.tdi_32 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_32 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_32 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_32 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_32 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_32 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_32 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_32 .td_module_wrap{padding-left:10px;padding-right:10px}.tdi_32 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_32 .td_module_flex_3{padding-bottom:10px;margin-bottom:10px}.tdi_32 .td_module_flex_3 .td-module-container:before{bottom:-10px}.tdi_32 .td_module_column:last-child .td_module_flex_3:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_32 .td_module_flex_3:last-child .td-module-container:before{display:none}.tdi_32 .td_module_flex_3:nth-last-child(2){margin-bottom:10px!important;padding-bottom:10px!important}.tdi_32 .td_module_flex_3:nth-last-child(2) .td-module-container:before{display:block}.tdi_32 .td_module_flex_3 .td-image-container{flex:0 0 35%;width:35%}.tdi_32 .td_module_flex_3 .td-module-meta-info{padding:0 0 0 13px}.tdi_32 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_32 .td_module_flex_1 .td-excerpt{font-size:11px!important;line-height:1.6!important}@media (min-width:768px){.tdi_32 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_32 .td_module_flex_1{width:100%;float:left;padding-bottom:10.5px;margin-bottom:10.5px}.rtl .tdi_32 .td_module_flex_1{float:right}.tdi_32 .td_module_column{width:100%;float:left}.tdi_32 .td_module_flex_1 .td-module-container:before{bottom:-10.5px}.tdi_32 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_32 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_32 = new tdBlock();
-block_tdi_32.id = "tdi_32";
-block_tdi_32.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"eyJhbGwiOiI1MCUiLCJwaG9uZSI6IjEwMCUifQ==","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjAifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1In0=","custom_title":"Don\u0027t Miss","header_color":"#f9c100","header_text_color":"#000000","td_ajax_filter_type":"","ajax_pagination":"next_prev","sort":"random_posts","image_size2":"","f_header_font_transform":"uppercase","category_id":"","td_ajax_filter_ids":"","show_review2":"none","show_audio2":"none","f_ex1_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex1_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","modules_space2":"eyJhbGwiOiIyNiIsInBvcnRyYWl0IjoiMjAifQ==","modules_space1":"eyJhbGwiOiIwIiwicGhvbmUiOiIyMSJ9","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","image_size":"td_485x360","block_type":"td_flex_block_3","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc3_tl":"","mc3_title_tag":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","limit":"5","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider1":"","modules_divider_color1":"#eaeaea","image_alignment1":"50","image_height1":"","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align1":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_padding1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","show_cat1":"inline-block","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_com1":"block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","show_excerpt1":"block","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","modules_divider_color2":"#eaeaea","image_alignment2":"50","image_height2":"","image_radius2":"","hide_image2":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup2":"yes","video_rec2":"","video_rec_title2":"","video_rec_color2":"","autoplay_vid2":"yes","show_vid_t2":"block","vid_t_margin2":"","vid_t_padding2":"","meta_info_align2":"initial","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category2":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo2":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","hide_audio2":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_size":"","f_title1_font_line_height":"","f_title1_font_style":"","f_title1_font_weight":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_size":"","f_title2_font_line_height":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","title_txt":"","title_txt_hover":"","all_underline_height1":"","all_underline_height2":"","all_underline_color":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"color_preset":"","border_top":"","class":"tdi_32","tdc_css_class":"tdi_32","tdc_css_class_style":"tdi_32_rand_style"}';
-block_tdi_32.td_column_number = "2";
-block_tdi_32.block_type = "td_flex_block_3";
-block_tdi_32.post_count = "5";
-block_tdi_32.found_posts = "117";
-block_tdi_32.header_color = "#f9c100";
-block_tdi_32.ajax_pagination_infinite_stop = "";
-block_tdi_32.max_num_pages = "24";
-tdBlocksArray.push(block_tdi_32);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Don&#039;t Miss</span></h4></div><div id=tdi_32 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/how-to-play-reactoonz-online-free-play-options-and-strategies/"  rel="bookmark" class="td-image-wrap " title="How to Play Reactoonz Online: Free Play Options and Strategies" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/how-to-play-reactoonz-online-free-play-options-and-strategies/"  rel="bookmark" title="How to Play Reactoonz Online: Free Play Options and Strategies">How to Play Reactoonz Online: Free Play Options and Strategies</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-08-08T00:00:00+03:00" >August 8, 2018</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/how-to-play-reactoonz-online-free-play-options-and-strategies/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">In the bustling world of online slots, few games capture the imagination quite like Reactoonz. Known for its vibrant graphics and dynamic gameplay, this...</div>
-                    
-                                    </div>
+                      <span class="elementor-icon-list-text">Premium Services</span>
+                      </a>
+                  </li>
+            </ul>
             </div>
         </div>
+        <div class="elementor-element elementor-element-4bc9efa elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4bc9efa" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+        <div class="elementor-widget-container">
+              <ul class="elementor-icon-list-items">
+              <li class="elementor-icon-list-item">
+                      <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
 
-        <div class="td_module_column">
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/hogyan-vlasszuk-ki-a-legjobb-szerencsejtk-oldalakat-online/"  rel="bookmark" class="td-image-wrap " title="Hogyan V&aacute;lasszuk Ki a Legjobb Szerencsej&aacute;t&eacute;k Oldalakat Online?" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/hogyan-vlasszuk-ki-a-legjobb-szerencsejtk-oldalakat-online/"  rel="bookmark" title="Hogyan V&aacute;lasszuk Ki a Legjobb Szerencsej&aacute;t&eacute;k Oldalakat Online?">Hogyan V&aacute;lasszuk Ki a Legjobb Szerencsej&aacute;t&eacute;k Oldalakat Online?</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2017-11-04T00:00:00+03:00" >November 4, 2017</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
+                      <span class="elementor-icon-list-text">Market Research</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                      <span class="elementor-icon-list-text">Brand Health</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                      <span class="elementor-icon-list-text">Product and Advertising</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                      <span class="elementor-icon-list-text">Qualitative Insights</span>
+                      </a>
+                  </li>
+                <li class="elementor-icon-list-item">
+                      <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjI5MDUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+
+                      <span class="elementor-icon-list-text">Advanced Analytics</span>
+                      </a>
+                  </li>
+            </ul>
             </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/the-two-armenian-businessmen/"  rel="bookmark" class="td-image-wrap " title="The Two Armenian businessmen" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/masked-gunmen-carrying-AK-47s-raided-multiple-editorial-offices-of-The-Standard.gif?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-two-armenian-businessmen/"  rel="bookmark" title="The Two Armenian businessmen">The Two Armenian businessmen</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-03-09T22:36:19+03:00" >March 9, 2020</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
+        </div>
+    <div class="elementor-element elementor-element-5eb3083 e-con-full e-grid e-con e-child" data-id="5eb3083" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-f9e4f8b elementor-widget elementor-widget-image" data-id="f9e4f8b" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2024/12/1-1024x466.jpg" class="attachment-large size-large wp-image-3112" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/1-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/1-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/1-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/1-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/1.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-68d17f8 elementor-widget elementor-widget-image" data-id="68d17f8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2024/12/2-1024x466.jpg" class="attachment-large size-large wp-image-3113" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/2-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2024/12/2-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2024/12/2-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2024/12/2-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2024/12/2.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-e08c7aa elementor-widget elementor-widget-image" data-id="e08c7aa" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1024x466.jpg" class="attachment-large size-large wp-image-3251" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/Instant-Insights-Timeless-Impact-1.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-714d2ac elementor-widget elementor-widget-image" data-id="714d2ac" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="364" src="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1024x466.jpg" class="attachment-large size-large wp-image-3256" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1024x466.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-300x136.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-768x349.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11-1536x699.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/Bayanihan-Studies-11.jpg 1759w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-8de77a8 elementor-widget elementor-widget-image" data-id="8de77a8" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1024x768.jpg" class="attachment-large size-large wp-image-3180" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1024x768.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-300x225.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-768x576.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951-1536x1152.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/viber_image_2024-11-28_18-38-31-9951.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                              </div>
+        </div>
+        <div class="elementor-element elementor-element-57872d7 elementor-widget elementor-widget-image" data-id="57872d7" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49.png" class="attachment-large size-large wp-image-81" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49.png 574w, https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-49-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                              </div>
+        </div>
+        <div class="elementor-element elementor-element-6846604 elementor-widget elementor-widget-image" data-id="6846604" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="574" height="459" src="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50.png" class="attachment-large size-large wp-image-82" alt="" srcset="https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50.png 574w, https://tangereapp.com/wp-content/uploads/2024/12/Rectangle-50-300x240.png 300w" sizes="(max-width: 574px) 100vw, 574px" />                              </div>
+        </div>
+        <div class="elementor-element elementor-element-b27752f elementor-widget elementor-widget-image" data-id="b27752f" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-scaled.jpg" class="attachment-large size-large wp-image-3178" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-scaled.jpg 2560w, https://tangereapp.com/wp-content/uploads/2025/01/IMG_4994-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />                             </div>
+        </div>
+        <div class="elementor-element elementor-element-39a23cc elementor-widget elementor-widget-image" data-id="39a23cc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="800" height="600" src="https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1024x768.jpg" class="attachment-large size-large wp-image-3177" alt="" srcset="https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1024x768.jpg 1024w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-300x225.jpg 300w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-768x576.jpg 768w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106-1536x1152.jpg 1536w, https://tangereapp.com/wp-content/uploads/2025/01/1734422526106.jpg 1600w" sizes="(max-width: 800px) 100vw, 800px" />                              </div>
+        </div>
+        </div>
+        <div class="elementor-element elementor-element-00f289a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="00f289a" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+        <div class="elementor-widget-container">
+              <div class="elementor-divider">
+      <span class="elementor-divider-separator">
+            </span>
+    </div>
             </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/cmo-acceder-a-betfair-gua-completa-para-betfair-login/"  rel="bookmark" class="td-image-wrap " title="C&oacute;mo Acceder a Betfair: Gu&iacute;a Completa para Betfair Login" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/cmo-acceder-a-betfair-gua-completa-para-betfair-login/"  rel="bookmark" title="C&oacute;mo Acceder a Betfair: Gu&iacute;a Completa para Betfair Login">C&oacute;mo Acceder a Betfair: Gu&iacute;a Completa para Betfair Login</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-03-21T00:00:00+03:00" >March 21, 2018</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
+    <div class="elementor-element elementor-element-6f29d04 e-con-full e-flex e-con e-child" data-id="6f29d04" data-element_type="container" data-e-type="container">
+        <div class="elementor-element elementor-element-deb847c elementor-widget elementor-widget-heading" data-id="deb847c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <p class="elementor-heading-title elementor-size-default"><a href="https://tangereapp.com/data-processing-addendum/">Data Processing Addeddum</a></p>       </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/choosing-a-broker-and-the-broker-customer-relationships/"  rel="bookmark" class="td-image-wrap " title="Choosing a Broker and the Broker Customer Relationships" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/choosing-a-broker-and-the-broker-customer-relationships_119.jpg?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/choosing-a-broker-and-the-broker-customer-relationships/"  rel="bookmark" title="Choosing a Broker and the Broker Customer Relationships">Choosing a Broker and the Broker Customer Relationships</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-07-11T19:34:57+03:00" >July 11, 2016</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
+        <div class="elementor-element elementor-element-49064e2 elementor-widget elementor-widget-heading" data-id="49064e2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <p class="elementor-heading-title elementor-size-default"><a href="https://tangereapp.com/privacy-policy/"> Privacy Policy</a></p>        </div>
         </div>
-
-        </div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_32" data-td_block_id="tdi_32"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_32" data-td_block_id="tdi_32"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div><div class="td_block_wrap td_flex_block_4 tdi_33 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_33" >
-<style>
-.td-theme-wrap .tdi_33 .td-pulldown-filter-link:hover,
-            .td-theme-wrap .tdi_33 .td-subcat-item a:hover,
-            .td-theme-wrap .tdi_33 .td-subcat-item .td-cur-simple-item {
-                color: #3a863d;
-            }
-
-            .td-theme-wrap .tdi_33 .block-title > *,
-            .td-theme-wrap .tdi_33 .td-subcat-dropdown:hover .td-subcat-more {
-                background-color: #3a863d;
-            }
-            .td-theme-wrap .td-footer-wrapper .tdi_33 .block-title > * {
-                padding: 6px 7px 5px;
-                line-height: 1;
-            }
-
-            .td-theme-wrap .tdi_33 .block-title {
-                border-color: #3a863d;
-            }
-
-            
-            .td-theme-wrap .tdi_33 .td_module_wrap:hover .entry-title a,
-            .td-theme-wrap .tdi_33 .td_quote_on_blocks,
-            .td-theme-wrap .tdi_33 .td-opacity-cat .td-post-category:hover,
-            .td-theme-wrap .tdi_33 .td-opacity-read .td-read-more a:hover,
-            .td-theme-wrap .tdi_33 .td-opacity-author .td-post-author-name a:hover,
-            .td-theme-wrap .tdi_33 .td-instagram-user a {
-                color: #3a863d;
-            }
-
-            .td-theme-wrap .tdi_33 .td-next-prev-wrap a:hover,
-            .td-theme-wrap .tdi_33 .td-load-more-wrap a:hover {
-                background-color: #3a863d;
-                border-color: #3a863d;
-            }
-
-            .td-theme-wrap .tdi_33 .td-read-more a,
-            .td-theme-wrap .tdi_33 .td-weather-information:before,
-            .td-theme-wrap .tdi_33 .td-weather-week:before,
-            .td-theme-wrap .tdi_33 .td-exchange-header:before,
-            .td-theme-wrap .td-footer-wrapper .tdi_33 .td-post-category,
-            .td-theme-wrap .tdi_33 .td-post-category:hover {
-                background-color: #3a863d;
-            }
-</style>
-<style>.tdi_33 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_33 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_33 .td_module_flex_1{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_33 .td_module_flex_1 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_33 .td_module_flex_4{padding-bottom:13px;margin-bottom:13px}.tdi_33 .td_module_flex_4 .td-module-container:before{bottom:-13px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_33 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_33 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_33 .td_module_flex_1 .td-module-container{border-color:#eaeaea;flex-direction:column}.tdi_33 .td_module_flex_4 .td-module-container{border-color:#eaeaea}.tdi_33 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_33 .td_module_flex_4 .entry-thumb{background-position:center 50%}.tdi_33 .td_module_flex_4 .td-image-container{flex:0 0 30%;width:30%;display:block;order:0}.ie10 .tdi_33 .td_module_flex_4 .td-module-meta-info,.ie11 .tdi_33 .td_module_flex_4 .td-module-meta-info{flex:1}body .tdi_33 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_33 .td_module_flex_4 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_33 .td_module_flex_4 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_33 .td_module_flex_1 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}.tdi_33 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_33 .td_module_flex_4 .td-post-vid-time{display:block}.tdi_33 .td_module_flex_1 .td-module-meta-info{position:relative}.tdi_33 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_33 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_33 .td_module_flex_4 .td-audio-player{font-size:12px;opacity:1;visibility:visible;height:auto}.tdi_33 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_33 .td_module_flex_4 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_33 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_33 .td_module_flex_4 .td-post-category:not(.td-post-extra-category){display:none}.tdi_33 .td_module_flex_4 .td-excerpt{display:none}.tdi_33 .td_module_flex_1 .td-author-date{display:inline}.tdi_33 .td_module_flex_4 .td-author-date{display:inline}.tdi_33 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_33 .td_module_flex_4 .td-post-author-name{display:none}.tdi_33 .td_module_flex_1 .td-post-date,.tdi_33 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_33 .td_module_flex_4 .td-post-date,.tdi_33 .td_module_flex_4 .td-post-author-name span{display:inline-block}.tdi_33 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_33 .td_module_flex_1 .td-icon-star,.tdi_33 .td_module_flex_1 .td-icon-star-empty,.tdi_33 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_33 .td_module_flex_4 .entry-review-stars{display:inline-block}.tdi_33 .td_module_flex_4 .td-icon-star,.tdi_33 .td_module_flex_4 .td-icon-star-empty,.tdi_33 .td_module_flex_4 .td-icon-star-half{font-size:15px}.tdi_33 .td_module_flex_1 .td-module-comments{display:block}.tdi_33 .td_module_flex_4 .td-module-comments{display:none}.tdi_33 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td-block-title a,.tdi_33 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_33 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:767px){.tdi_33 .td_module_wrap{width:50%;float:left}.rtl .tdi_33 .td_module_wrap{float:right}}@media (min-width:767px){.tdi_33 .td_module_wrap:nth-child(2n+1){clear:both}}@media (min-width:767px){.tdi_33 .td_module_wrap:nth-last-child(2){margin-bottom:0!important;padding-bottom:0!important}.tdi_33 .td_module_wrap:nth-last-child(2) .td-module-container:before{display:none}}@media (min-width:1019px) and (max-width:1140px){.tdi_33 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_33 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_33 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (min-width:768px) and (max-width:1018px){.tdi_33 .td_module_wrap{padding-left:10px;padding-right:10px}.tdi_33 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_33 .td_module_flex_4{padding-bottom:10px;margin-bottom:10px}.tdi_33 .td_module_flex_4 .td-module-container:before{bottom:-10px}.tdi_33 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_33 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_33 .td_module_flex_4 .td-image-container{flex:0 0 35%;width:35%}.tdi_33 .td_module_flex_4 .td-module-meta-info{padding:0 0 0 13px}.tdi_33 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td_module_flex_1 .td-excerpt{font-size:11px!important;line-height:1.6!important}}@media (max-width:767px){.tdi_33 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_33 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}</style><script>var block_tdi_33 = new tdBlock();
-block_tdi_33.id = "tdi_33";
-block_tdi_33.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"50%","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjAifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1In0=","modules_space1":"eyJwaG9uZSI6IjIxIiwiYWxsIjoiMjEifQ==","limit":"6","show_excerpt1":"","show_excerpt2":"none","custom_title":"Corruption scandals","header_color":"#3a863d","td_ajax_filter_type":"","ajax_pagination":"next_prev","modules_divider1":"","category_id":"1","image_size3":"","f_header_font_transform":"uppercase","td_ajax_filter_ids":"","sort":"random_posts","category_ids":"","f_ex1_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex1_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","modules_space2":"eyJhbGwiOiIyNiIsInBvcnRyYWl0IjoiMjAifQ==","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","image_size":"td_485x360","block_type":"td_flex_block_4","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc4_tl":"","mc4_title_tag":"","mc4_el":"","post_ids":"","taxonomies":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider_color1":"#eaeaea","image_alignment1":"50","image_height1":"","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_icon_pos1":"center","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align1":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_padding1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","show_cat1":"inline-block","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_com1":"block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","m_padding2":"","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","modules_divider_color2":"#eaeaea","image_alignment2":"50","image_height2":"","image_floated2":"float_left","image_radius2":"","hide_image3":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup3":"yes","video_rec3":"","video_rec_title3":"","video_rec_color3":"","autoplay_vid3":"yes","show_vid_t3":"block","vid_t_margin3":"","vid_t_padding3":"","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category3":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo3":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","show_review2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","art_excerpt2":"","excerpt_middle3":"","show_audio2":"block","hide_audio3":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_size":"","f_title1_font_line_height":"","f_title1_font_style":"","f_title1_font_weight":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_size":"","f_title2_font_line_height":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","f_ex2_font_title":"Article excerpt 2","f_ex2_font_settings":"","f_ex2_font_family":"","f_ex2_font_size":"","f_ex2_font_line_height":"","f_ex2_font_style":"","f_ex2_font_weight":"","f_ex2_font_transform":"","f_ex2_font_spacing":"","f_ex2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","color_overlay":"","meta_bg":"","title_txt":"","title_txt_hover":"","all_underline_height1":"","all_underline_color1":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border1":"","cat_border_hover1":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","meta_bg2":"","title_txt2":"","title_txt_hover2":"","all_underline_height2":"","all_underline_color2":"#000","cat_bg2":"","cat_bg_hover2":"","cat_txt2":"","cat_txt_hover2":"","cat_border2":"","cat_border_hover2":"","author_txt2":"","author_txt_hover2":"","date_txt2":"","ex_txt2":"","com_bg2":"","com_txt2":"","rev_txt2":"","audio_btn_color2":"","audio_time_color2":"","audio_bar_color2":"","audio_bar_curr_color2":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"color_preset":"","border_top":"","class":"tdi_33","tdc_css_class":"tdi_33","tdc_css_class_style":"tdi_33_rand_style"}';
-block_tdi_33.td_column_number = "2";
-block_tdi_33.block_type = "td_flex_block_4";
-block_tdi_33.post_count = "6";
-block_tdi_33.found_posts = "95";
-block_tdi_33.header_color = "#3a863d";
-block_tdi_33.ajax_pagination_infinite_stop = "";
-block_tdi_33.max_num_pages = "16";
-tdBlocksArray.push(block_tdi_33);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Corruption scandals</span></h4></div><div id=tdi_33 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/the-supply-of-mahindra-jeeps/"  rel="bookmark" class="td-image-wrap " title="The supply of Mahindra Jeeps" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url=""  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-supply-of-mahindra-jeeps/"  rel="bookmark" title="The supply of Mahindra Jeeps">The supply of Mahindra Jeeps</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/Nims/">Nims</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-03-07T17:23:28+03:00" >March 7, 2020</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/the-supply-of-mahindra-jeeps/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">
-
-
-
-
-Chamanlal Kamani One behind the Anglo Leasing Scandal had been given a contract to supply Mahindra Jeeps under the company name Kamsons Motors. Kamsons Motors was...</div>
-                    
-                                    </div>
-            </div>
+        <div class="elementor-element elementor-element-2c17529 elementor-widget elementor-widget-heading" data-id="2c17529" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <p class="elementor-heading-title elementor-size-default"><a href="https://www.tangereapp.com/terms-of-service/">Terms of Service  </a></p>       </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/todo-lo-que-necesitas-saber-sobre-el-inicio-de-sesin-en-betfair/"  rel="bookmark" class="td-image-wrap " title="Todo lo que Necesitas Saber sobre el Inicio de Sesi&oacute;n en Betfair" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/todo-lo-que-necesitas-saber-sobre-el-inicio-de-sesin-en-betfair/"  rel="bookmark" title="Todo lo que Necesitas Saber sobre el Inicio de Sesi&oacute;n en Betfair">Todo lo que Necesitas Saber sobre el Inicio de Sesi&oacute;n en Betfair</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-01-20T00:00:00+03:00" >January 20, 2018</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/todo-lo-que-necesitas-saber-sobre-el-inicio-de-sesin-en-betfair/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">Betfair es una de las plataformas de apuestas y casino más reconocidas a nivel mundial. Ofrece una amplia gama de servicios, desde apuestas deportivas...</div>
-                    
-                                    </div>
-            </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/the-nhif-corruption-scandal/"  rel="bookmark" class="td-image-wrap " title="The NHIF Corruption Scandal" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/NHIF-Corruption-Scandal.jpg?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-nhif-corruption-scandal/"  rel="bookmark" title="The NHIF Corruption Scandal">The NHIF Corruption Scandal</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-03-16T18:44:02+03:00" >March 16, 2020</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
+          </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/comment-maximiser-votre-exprience-avec-space-fortuna-casino-en-ligne/"  rel="bookmark" class="td-image-wrap " title="Comment Maximiser Votre Exp&eacute;rience avec Space Fortuna Casino en Ligne" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/comment-maximiser-votre-exprience-avec-space-fortuna-casino-en-ligne/"  rel="bookmark" title="Comment Maximiser Votre Exp&eacute;rience avec Space Fortuna Casino en Ligne">Comment Maximiser Votre Exp&eacute;rience avec Space Fortuna Casino en Ligne</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-11-08T00:00:00+03:00" >November 8, 2018</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
         </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/bill-restricting-investigations-in-kenya/"  rel="bookmark" class="td-image-wrap " title="Bill Restricting Investigations in Kenya" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/Bill-Restricting-Investigations-in-Kenya.jpg?resize=203%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/bill-restricting-investigations-in-kenya/"  rel="bookmark" title="Bill Restricting Investigations in Kenya">Bill Restricting Investigations in Kenya</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-03-10T17:28:37+03:00" >March 10, 2020</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_33" data-td_block_id="tdi_33"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_33" data-td_block_id="tdi_33"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div><div class="td_block_wrap td_flex_block_3 tdi_34 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_34" >
-<style>
-.td-theme-wrap .tdi_34 .td-pulldown-filter-link:hover,
-            .td-theme-wrap .tdi_34 .td-subcat-item a:hover,
-            .td-theme-wrap .tdi_34 .td-subcat-item .td-cur-simple-item {
-                color: #e42719;
-            }
-
-            .td-theme-wrap .tdi_34 .block-title > *,
-            .td-theme-wrap .tdi_34 .td-subcat-dropdown:hover .td-subcat-more {
-                background-color: #e42719;
-            }
-            .td-theme-wrap .td-footer-wrapper .tdi_34 .block-title > * {
-                padding: 6px 7px 5px;
-                line-height: 1;
-            }
-
-            .td-theme-wrap .tdi_34 .block-title {
-                border-color: #e42719;
-            }
-
-            
-            .td-theme-wrap .tdi_34 .td_module_wrap:hover .entry-title a,
-            .td-theme-wrap .tdi_34 .td_quote_on_blocks,
-            .td-theme-wrap .tdi_34 .td-opacity-cat .td-post-category:hover,
-            .td-theme-wrap .tdi_34 .td-opacity-read .td-read-more a:hover,
-            .td-theme-wrap .tdi_34 .td-opacity-author .td-post-author-name a:hover,
-            .td-theme-wrap .tdi_34 .td-instagram-user a {
-                color: #e42719;
-            }
-
-            .td-theme-wrap .tdi_34 .td-next-prev-wrap a:hover,
-            .td-theme-wrap .tdi_34 .td-load-more-wrap a:hover {
-                background-color: #e42719;
-                border-color: #e42719;
-            }
-
-            .td-theme-wrap .tdi_34 .td-read-more a,
-            .td-theme-wrap .tdi_34 .td-weather-information:before,
-            .td-theme-wrap .tdi_34 .td-weather-week:before,
-            .td-theme-wrap .tdi_34 .td-exchange-header:before,
-            .td-theme-wrap .td-footer-wrapper .tdi_34 .td-post-category,
-            .td-theme-wrap .tdi_34 .td-post-category:hover {
-                background-color: #e42719;
-            }
-</style>
-<style>.tdi_34 .td_module_flex_1{width:50%;float:left;padding-bottom:0px;margin-bottom:0px}.rtl .tdi_34 .td_module_flex_1{float:right}.tdi_34 .td_module_column{width:50%;float:left}.tdi_34 .td_module_flex_3{width:100%;float:left;padding-bottom:13px;margin-bottom:13px}.tdi_34 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_34 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_34 .td_module_flex_1 .td-module-container:before{bottom:-0px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_34 .td_module_flex_3 .td-module-container:before{bottom:-13px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_34 .td_module_column:last-child .td_module_flex_3:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_34 .td_module_flex_3:last-child .td-module-container:before{display:none}.tdi_34 .td_module_flex_3:nth-last-child(2){margin-bottom:13px!important;padding-bottom:13px!important}.tdi_34 .td_module_flex_3:nth-last-child(2) .td-module-container:before{display:block}.tdi_34 .td_module_flex_1 .td-module-container{border-color:#eaeaea;flex-direction:column}.tdi_34 .td_module_flex_3 .td-module-container{border-color:#eaeaea;align-items:initial}.tdi_34 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_34 .td_module_flex_3 .entry-thumb{background-position:center 6%}.tdi_34 .td_module_flex_3 .td-image-container{flex:0 0 30%;width:30%}.tdi_34 .td_module_flex_3 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_34 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_34 .td_module_flex_3 .td-post-vid-time{display:block}.tdi_34 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_34 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_34 .td_module_flex_3 .td-audio-player{font-size:12px;opacity:1;visibility:visible;height:auto}.tdi_34 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_34 .td_module_flex_3 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_34 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_34 .td_module_flex_3 .td-post-category:not(.td-post-extra-category){display:none}.tdi_34 .td_module_flex_1 .td-excerpt{display:block}.tdi_34 .td_module_flex_1 .td-author-date{display:inline}.tdi_34 .td_module_flex_3 .td-author-date{display:inline}.tdi_34 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_34 .td_module_flex_3 .td-post-author-name{display:none}.tdi_34 .td_module_flex_1 .td-post-date,.tdi_34 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_34 .td_module_flex_3 .td-post-date,.tdi_34 .td_module_flex_3 .td-post-author-name span{display:inline-block}.tdi_34 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_34 .td_module_flex_1 .td-icon-star,.tdi_34 .td_module_flex_1 .td-icon-star-empty,.tdi_34 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_34 .td_module_flex_3 .entry-review-stars{display:inline-block}.tdi_34 .td_module_flex_3 .td-icon-star,.tdi_34 .td_module_flex_3 .td-icon-star-empty,.tdi_34 .td_module_flex_3 .td-icon-star-half{font-size:15px}.tdi_34 .td_module_flex_1 .td-module-comments{display:block}.tdi_34 .td_module_flex_3 .td-module-comments{display:none}body .tdi_34 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_34 .td_module_flex_3 .td-favorite{font-size:36px}.tdi_34 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_34 .td_module_flex_3 .td-favorite{box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_34 .td-block-title a,.tdi_34 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_34 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_34 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_34 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_34 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_34 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_34 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_34 .td_module_wrap{padding-left:10px;padding-right:10px}.tdi_34 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_34 .td_module_flex_3{padding-bottom:10px;margin-bottom:10px}.tdi_34 .td_module_flex_3 .td-module-container:before{bottom:-10px}.tdi_34 .td_module_column:last-child .td_module_flex_3:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_34 .td_module_flex_3:last-child .td-module-container:before{display:none}.tdi_34 .td_module_flex_3:nth-last-child(2){margin-bottom:10px!important;padding-bottom:10px!important}.tdi_34 .td_module_flex_3:nth-last-child(2) .td-module-container:before{display:block}.tdi_34 .td_module_flex_3 .td-image-container{flex:0 0 35%;width:35%}.tdi_34 .td_module_flex_3 .td-module-meta-info{padding:0 0 0 13px}.tdi_34 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_34 .td_module_flex_1 .td-excerpt{font-size:11px!important;line-height:1.6!important}@media (min-width:768px){.tdi_34 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_34 .td_module_flex_1{width:100%;float:left;padding-bottom:10.5px;margin-bottom:10.5px}.rtl .tdi_34 .td_module_flex_1{float:right}.tdi_34 .td_module_column{width:100%;float:left}.tdi_34 .td_module_flex_1 .td-module-container:before{bottom:-10.5px}.tdi_34 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_34 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_34 = new tdBlock();
-block_tdi_34.id = "tdi_34";
-block_tdi_34.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"eyJhbGwiOiI1MCUiLCJwaG9uZSI6IjEwMCUifQ==","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjAifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1In0=","modules_space1":"eyJhbGwiOiIwIiwicGhvbmUiOiIyMSJ9","ajax_pagination":"next_prev","custom_title":"Investment Info","header_color":"#e42719","category_id":"3","td_ajax_filter_ids":"","td_ajax_filter_type":"","image_size2":"","image_alignment2":"6","f_header_font_transform":"uppercase","sort":"random_posts","category_ids":"","f_ex1_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex1_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","modules_space2":"eyJhbGwiOiIyNiIsInBvcnRyYWl0IjoiMjAifQ==","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","image_size":"td_485x360","block_type":"td_flex_block_3","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc3_tl":"","mc3_title_tag":"","post_ids":"","taxonomies":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","limit":"5","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider1":"","modules_divider_color1":"#eaeaea","image_alignment1":"50","image_height1":"","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align1":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_padding1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","show_cat1":"inline-block","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_com1":"block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","show_excerpt1":"block","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","modules_divider_color2":"#eaeaea","image_height2":"","image_radius2":"","hide_image2":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup2":"yes","video_rec2":"","video_rec_title2":"","video_rec_color2":"","autoplay_vid2":"yes","show_vid_t2":"block","vid_t_margin2":"","vid_t_padding2":"","meta_info_align2":"initial","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category2":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo2":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","show_review2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","show_audio2":"block","hide_audio2":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_size":"","f_title1_font_line_height":"","f_title1_font_style":"","f_title1_font_weight":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_size":"","f_title2_font_line_height":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","title_txt":"","title_txt_hover":"","all_underline_height1":"","all_underline_height2":"","all_underline_color":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"color_preset":"","border_top":"","class":"tdi_34","tdc_css_class":"tdi_34","tdc_css_class_style":"tdi_34_rand_style"}';
-block_tdi_34.td_column_number = "2";
-block_tdi_34.block_type = "td_flex_block_3";
-block_tdi_34.post_count = "5";
-block_tdi_34.found_posts = "21";
-block_tdi_34.header_color = "#e42719";
-block_tdi_34.ajax_pagination_infinite_stop = "";
-block_tdi_34.max_num_pages = "5";
-tdBlocksArray.push(block_tdi_34);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Investment Info</span></h4></div><div id=tdi_34 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/investment-posts/" class="td-post-category">Investment posts</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/objectives-and-constraints-of-institutional-investors/"  rel="bookmark" class="td-image-wrap " title="Objectives and Constraints of Institutional Investors" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/objectives-and-constraints-of-institutional-investors_111.jpg?resize=485%2C360&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/objectives-and-constraints-of-institutional-investors/"  rel="bookmark" title="Objectives and Constraints of Institutional Investors">Objectives and Constraints of Institutional Investors</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/Nims/">Nims</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-07-11T18:26:49+03:00" >July 11, 2016</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/objectives-and-constraints-of-institutional-investors/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">Tha various Objectives and Constraints of Institutional Investors. Who are institutional investors? It is worth mentioning that the institutional investors include mutual funds, pension funds,...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        <div class="td_module_column">
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/investment-policy-step-investment-process/"  rel="bookmark" class="td-image-wrap " title="Investment Policy step of the Investment Process" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/investment-policy-step-of-the-investment-process_354.jpg?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/investment-policy-step-investment-process/"  rel="bookmark" title="Investment Policy step of the Investment Process">Investment Policy step of the Investment Process</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-10T00:18:08+03:00" >June 9, 2016</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/choosing-a-broker-and-the-broker-customer-relationships/"  rel="bookmark" class="td-image-wrap " title="Choosing a Broker and the Broker Customer Relationships" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/choosing-a-broker-and-the-broker-customer-relationships_119.jpg?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/choosing-a-broker-and-the-broker-customer-relationships/"  rel="bookmark" title="Choosing a Broker and the Broker Customer Relationships">Choosing a Broker and the Broker Customer Relationships</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-07-11T19:34:57+03:00" >July 11, 2016</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/investing-decisions-over-investor-life-cycle/"  rel="bookmark" class="td-image-wrap " title="Investing Decisions Over Investor Life Cycle" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url=""  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/investing-decisions-over-investor-life-cycle/"  rel="bookmark" title="Investing Decisions Over Investor Life Cycle">Investing Decisions Over Investor Life Cycle</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-06-10T01:27:40+03:00" >June 9, 2016</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_3 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/what-are-short-sales-in-the-financial-markets/"  rel="bookmark" class="td-image-wrap " title="What are Short Sales in the Financial markets?" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/what-are-short-sales-in-the-financial-markets_150.jpg?resize=218%2C150&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/what-are-short-sales-in-the-financial-markets/"  rel="bookmark" title="What are Short Sales in the Financial markets?">What are Short Sales in the Financial markets?</a></h3>
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-09-02T17:33:31+03:00" >September 2, 2016</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_34" data-td_block_id="tdi_34"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_34" data-td_block_id="tdi_34"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div></div></div><div class="vc_column tdi_36  wpb_column vc_column_container tdc-column td-pb-span4 td-is-sticky">
-<style scoped>.tdi_36{vertical-align:baseline}.tdi_36>.wpb_wrapper,.tdi_36>.wpb_wrapper>.tdc-elements{display:block}.tdi_36>.wpb_wrapper>.tdc-elements{width:100%}.tdi_36>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_36>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" data-sticky-enabled-on="W3RydWUsdHJ1ZSx0cnVlLHRydWVd" data-sticky-offset="20" data-sticky-is-width-auto="W2ZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlXQ==">[td_block_social_counter custom_title=&#8221;Stay Connected&#8221; facebook=&#8221;#&#8221; twitter=&#8221;#&#8221; youtube=&#8221;#&#8221; style=&#8221;style4 td-social-colored&#8221; f_header_font_transform=&#8221;uppercase&#8221; manual_count_facebook=&#8221;16985&#8243; manual_count_twitter=&#8221;2458&#8243; manual_count_youtube=&#8221;61453&#8243;]
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_37 td_block_template_1 ">
-
-<style>.tdi_37{margin-bottom:48px!important}</style>
-<style>.tdi_37.td-a-rec{text-align:center}.tdi_37.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_37 .td-element-style{z-index:-1}@media (max-width:767px){.tdi_37.td-a-rec-img img{max-width:300px;width:100%}}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<span class="td-adspot-title">- Advertisement -</span><noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-<div class="td_block_wrap td_flex_block_1 tdi_38 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_38" >
-<style>.tdi_38 .td-image-wrap{padding-bottom:70%}.tdi_38 .entry-thumb{background-position:center 50%}.tdi_38 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_38 .td-image-container{display:block;order:0}.ie10 .tdi_38 .td-module-meta-info,.ie11 .tdi_38 .td-module-meta-info{flex:auto}body .tdi_38 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_38 .td-module-meta-info{padding:7px 0 0;border-color:#eaeaea}.tdi_38 .td_module_wrap{width:50%;float:left;padding-left:10px;padding-right:10px;padding-bottom:11px;margin-bottom:11px}.rtl .tdi_38 .td_module_wrap{float:right}.tdi_38 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_38 .td-module-container:before{bottom:-11px;border-color:#eaeaea}.tdi_38 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_38 .td-post-vid-time{display:block}.tdi_38 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_38 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_38 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_38 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_38 .td-read-more{display:none}.tdi_38 .td-author-date{display:inline}.tdi_38 .td-post-author-name{display:none}.tdi_38 .td-post-date,.tdi_38 .td-post-author-name span{display:none}.tdi_38 .entry-review-stars{display:inline-block}.tdi_38 .td-icon-star,.tdi_38 .td-icon-star-empty,.tdi_38 .td-icon-star-half{font-size:15px}.tdi_38 .td-module-comments{display:none}.tdi_38 .td_module_wrap:nth-child(2n+1){clear:both}.tdi_38 .td_module_wrap:nth-last-child(-n+2){margin-bottom:0;padding-bottom:0}.tdi_38 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none}.tdi_38 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_38 .td-block-title a,.tdi_38 .td-block-title span{text-transform:uppercase!important}.tdi_38 .entry-title{font-size:13px!important;line-height:1.3!important;font-weight:500!important}html:not([class*='ie']) .tdi_38 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_38 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_38 .td_module_wrap{padding-bottom:10px;margin-bottom:10px;clear:none!important;padding-bottom:10px!important;margin-bottom:10px!important}.tdi_38 .td-module-container:before{bottom:-10px}.tdi_38 .td_module_wrap:nth-child(2n+1){clear:both!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2){margin-bottom:0!important;padding-bottom:0!important}.tdi_38 .td_module_wrap .td-module-container:before{display:block!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none!important}.tdi_38 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_38 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_38 .td-module-meta-info{padding:8px 0 0 0}.tdi_38 .td_module_wrap{padding-left:7.5px;padding-right:7.5px;padding-bottom:7.5px;margin-bottom:7.5px;clear:none!important;padding-bottom:7.5px!important;margin-bottom:7.5px!important}.tdi_38 .td_block_inner{margin-left:-7.5px;margin-right:-7.5px}.tdi_38 .td-module-container:before{bottom:-7.5px}.tdi_38 .td-video-play-ico{width:20px;height:20px;font-size:20px}.tdi_38 .td_module_wrap:nth-child(2n+1){clear:both!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2){margin-bottom:0!important;padding-bottom:0!important}.tdi_38 .td_module_wrap .td-module-container:before{display:block!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none!important}.tdi_38 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_38 .entry-title{font-size:12px!important}@media (min-width:768px){.tdi_38 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_38 .entry-thumb{background-position:center 11%}.tdi_38 .td_module_wrap{padding-bottom:7.5px;margin-bottom:7.5px;clear:none!important;padding-bottom:7.5px!important;margin-bottom:7.5px!important}.tdi_38 .td-module-container:before{bottom:-7.5px}.tdi_38 .td_module_wrap:nth-child(2n+1){clear:both!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2){margin-bottom:0!important;padding-bottom:0!important}.tdi_38 .td_module_wrap .td-module-container:before{display:block!important}.tdi_38 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none!important}.tdi_38 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_38 .entry-title{font-size:14px!important}@media (min-width:768px){.tdi_38 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_38 = new tdBlock();
-block_tdi_38.id = "tdi_38";
-block_tdi_38.atts = '{"modules_on_row":"50%","modules_category":"image","show_btn":"none","show_excerpt":"none","ajax_pagination":"next_prev","sort":"","category_id":"","f_title_font_size":"eyJwb3J0cmFpdCI6IjEyIiwiYWxsIjoiMTMiLCJwaG9uZSI6IjE0In0=","f_title_font_line_height":"1.3","modules_gap":"eyJhbGwiOiIyMCIsInBvcnRyYWl0IjoiMTUiLCJwaG9uZSI6IjIwIn0=","show_com":"none","show_date":"none","show_author":"none","image_height":"70","f_title_font_weight":"500","all_modules_space":"eyJhbGwiOiIyMiIsImxhbmRzY2FwZSI6IjIwIiwicG9ydHJhaXQiOiIxNSIsInBob25lIjoiMTUifQ==","limit":"2","meta_padding":"eyJwb3J0cmFpdCI6IjhweCAwIDAgMCIsImFsbCI6IjdweCAwIDAifQ==","custom_title":"Make it modern","image_size":"td_218x150","image_alignment":"eyJhbGwiOjUwLCJwaG9uZSI6IjExIn0=","f_header_font_transform":"uppercase","video_icon":"eyJhbGwiOiIyNCIsInBvcnRyYWl0IjoiMjAifQ==","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_width":"","image_floated":"no_float","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","show_cat":"inline-block","modules_extra_cat":"","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","hide_audio":"","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_38","tdc_css_class":"tdi_38","tdc_css_class_style":"tdi_38_rand_style"}';
-block_tdi_38.td_column_number = "1";
-block_tdi_38.block_type = "td_flex_block_1";
-block_tdi_38.post_count = "2";
-block_tdi_38.found_posts = "117";
-block_tdi_38.header_color = "";
-block_tdi_38.ajax_pagination_infinite_stop = "";
-block_tdi_38.max_num_pages = "59";
-tdBlocksArray.push(block_tdi_38);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Make it modern</span></h4></div><div id=tdi_38 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_38" data-td_block_id="tdi_38"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_38" data-td_block_id="tdi_38"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div>
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_39 td_block_template_1 ">
-
-<style>.tdi_39.td-a-rec{text-align:center}.tdi_39.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_39 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-<div class="td_block_wrap td_flex_block_4 tdi_40 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_40" >
-<style>.tdi_40 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_40 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_40 .td_module_flex_1{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_40 .td_module_flex_1 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_40 .td_module_flex_4{padding-bottom:13px;margin-bottom:13px}.tdi_40 .td_module_flex_4 .td-module-container:before{bottom:-13px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea;border-color:#eaeaea}.tdi_40 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_40 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_40 .td_module_flex_1 .td-module-container{border-color:#eaeaea;flex-direction:column}.tdi_40 .td_module_flex_4 .td-module-container{border-color:#eaeaea}.tdi_40 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_40 .td_module_flex_4 .entry-thumb{background-position:center 50%}.tdi_40 .td_module_flex_4 .td-image-container{flex:0 0 30%;width:30%;display:block;order:0}.tdi_40 .td_module_flex_1 .td-image-wrap{padding-bottom:72%}.ie10 .tdi_40 .td_module_flex_1 .td-image-container,.ie11 .tdi_40 .td_module_flex_1 .td-image-container{flex:0 0 auto}.ie10 .tdi_40 .td_module_flex_4 .td-module-meta-info,.ie11 .tdi_40 .td_module_flex_4 .td-module-meta-info{flex:1}body .tdi_40 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_40 .td_module_flex_4 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_40 .td_module_flex_4 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_40 .td_module_flex_1 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}.tdi_40 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_40 .td_module_flex_4 .td-post-vid-time{display:block}.tdi_40 .td_module_flex_1 .td-module-meta-info{position:relative}.tdi_40 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_40 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_40 .td_module_flex_4 .td-audio-player{font-size:12px;opacity:1;visibility:visible;height:auto}.tdi_40 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_40 .td_module_flex_4 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_40 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_40 .td_module_flex_4 .td-post-category:not(.td-post-extra-category){display:none}.tdi_40 .td_module_flex_4 .td-excerpt{display:none}.tdi_40 .td_module_flex_1 .td-author-date{display:inline}.tdi_40 .td_module_flex_4 .td-author-date{display:inline}.tdi_40 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_40 .td_module_flex_4 .td-post-author-name{display:none}.tdi_40 .td_module_flex_1 .td-post-date,.tdi_40 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_40 .td_module_flex_4 .td-post-date,.tdi_40 .td_module_flex_4 .td-post-author-name span{display:inline-block}.tdi_40 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_40 .td_module_flex_1 .td-icon-star,.tdi_40 .td_module_flex_1 .td-icon-star-empty,.tdi_40 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_40 .td_module_flex_4 .entry-review-stars{display:inline-block}.tdi_40 .td_module_flex_4 .td-icon-star,.tdi_40 .td_module_flex_4 .td-icon-star-empty,.tdi_40 .td_module_flex_4 .td-icon-star-half{font-size:15px}.tdi_40 .td_module_flex_1 .td-module-comments{display:block}.tdi_40 .td_module_flex_4 .td-module-comments{display:none}.tdi_40 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td-block-title a,.tdi_40 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_40 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:767px){.tdi_40 .td_module_wrap{width:100%;float:left}.rtl .tdi_40 .td_module_wrap{float:right}}@media (min-width:1019px) and (max-width:1140px){.tdi_40 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_40 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_40 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (min-width:768px) and (max-width:1018px){.tdi_40 .td_module_wrap{padding-left:14px;padding-right:14px}.tdi_40 .td_block_inner{margin-left:-14px;margin-right:-14px}.tdi_40 .td_module_flex_4 .td-image-container{flex:0 0 35%;width:35%}.tdi_40 .td_module_flex_4 .td-module-meta-info{padding:0 0 0 13px}.tdi_40 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td_module_flex_1 .td-excerpt{font-size:11px!important;line-height:1.6!important}}@media (max-width:767px){.tdi_40 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_40 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}</style><script>var block_tdi_40 = new tdBlock();
-block_tdi_40.id = "tdi_40";
-block_tdi_40.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"100%","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjgifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1In0=","modules_space1":"eyJwaG9uZSI6IjIxIiwiYWxsIjoiMjEifQ==","limit":"3","show_excerpt1":"","show_excerpt2":"none","custom_title":"Latest Reviews","image_height1":"72","category_id":"","image_size3":"","f_header_font_transform":"uppercase","f_ex1_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex1_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","image_size":"td_485x360","block_type":"td_flex_block_4","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc4_tl":"","mc4_title_tag":"","mc4_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider1":"","modules_divider_color1":"#eaeaea","image_alignment1":"50","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_icon_pos1":"center","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align1":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_padding1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","show_cat1":"inline-block","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_com1":"block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","m_padding2":"","modules_space2":"26","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","modules_divider_color2":"#eaeaea","image_alignment2":"50","image_height2":"","image_floated2":"float_left","image_radius2":"","hide_image3":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup3":"yes","video_rec3":"","video_rec_title3":"","video_rec_color3":"","autoplay_vid3":"yes","show_vid_t3":"block","vid_t_margin3":"","vid_t_padding3":"","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category3":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo3":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","show_review2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","art_excerpt2":"","excerpt_middle3":"","show_audio2":"block","hide_audio3":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_size":"","f_title1_font_line_height":"","f_title1_font_style":"","f_title1_font_weight":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_size":"","f_title2_font_line_height":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","f_ex2_font_title":"Article excerpt 2","f_ex2_font_settings":"","f_ex2_font_family":"","f_ex2_font_size":"","f_ex2_font_line_height":"","f_ex2_font_style":"","f_ex2_font_weight":"","f_ex2_font_transform":"","f_ex2_font_spacing":"","f_ex2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","color_overlay":"","meta_bg":"","title_txt":"","title_txt_hover":"","all_underline_height1":"","all_underline_color1":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border1":"","cat_border_hover1":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","meta_bg2":"","title_txt2":"","title_txt_hover2":"","all_underline_height2":"","all_underline_color2":"#000","cat_bg2":"","cat_bg_hover2":"","cat_txt2":"","cat_txt_hover2":"","cat_border2":"","cat_border_hover2":"","author_txt2":"","author_txt_hover2":"","date_txt2":"","ex_txt2":"","com_bg2":"","com_txt2":"","rev_txt2":"","audio_btn_color2":"","audio_time_color2":"","audio_bar_color2":"","audio_bar_curr_color2":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_40","tdc_css_class":"tdi_40","tdc_css_class_style":"tdi_40_rand_style"}';
-block_tdi_40.td_column_number = "1";
-block_tdi_40.block_type = "td_flex_block_4";
-block_tdi_40.post_count = "3";
-block_tdi_40.found_posts = "117";
-block_tdi_40.header_color = "";
-block_tdi_40.ajax_pagination_infinite_stop = "";
-block_tdi_40.max_num_pages = "39";
-tdBlocksArray.push(block_tdi_40);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Latest Reviews</span></h4></div><div id=tdi_40 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>                        <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">Ha szereted a szerencsejátékokat és az online kaszinók világát, akkor biztosan hallottál már a Spinanga online kaszinóról. Ebben a cikkben megosztom veled a legfontosabb...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div></div></div></div></div><div id="tdi_41" class="tdc-row"><div class="vc_row tdi_42  wpb_row td-pb-row" >
-<style scoped>.tdi_42,.tdi_42 .tdc-columns{min-height:0}.tdi_42,.tdi_42 .tdc-columns{display:block}.tdi_42 .tdc-columns{width:100%}.tdi_42:before,.tdi_42:after{display:table}</style><div class="vc_column tdi_44  wpb_column vc_column_container tdc-column td-pb-span5">
-<style scoped>.tdi_44{vertical-align:baseline}.tdi_44>.wpb_wrapper,.tdi_44>.wpb_wrapper>.tdc-elements{display:block}.tdi_44>.wpb_wrapper>.tdc-elements{width:100%}.tdi_44>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_44>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 tdi_45 td_block_template_1 ">
-
-<style>.tdi_45.td-a-rec{text-align:center}.tdi_45.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_45 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div><div class="vc_column tdi_47  wpb_column vc_column_container tdc-column td-pb-span7">
-<style scoped>.tdi_47{vertical-align:baseline}.tdi_47>.wpb_wrapper,.tdi_47>.wpb_wrapper>.tdc-elements{display:block}.tdi_47>.wpb_wrapper>.tdc-elements{width:100%}.tdi_47>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_47>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_text_with_title tdi_48 tagdiv-type td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_48" ><div class="td-block-title-wrap"></div><div class="td_mod_wrap td-fix-index"><p><a href="https://nims.co.ke/niims-national-integrated-identity-management-system/">NIIMS Services</a> &#8211; National Integrated Identity Management System (NIIMS)</p>
-<p>Huduma Number, Huduma Card, NIIMs: The Government initiated the National Integrated Identity Management System (NIIMS) program through Executive Order No. 1 (2018). The purpose of this initiative is to create and manage a central master population database which will be the ‘single source of truth’ on a person’s identity. The database will contain information of all Kenyan citizens and foreign nationals residing in Kenya and will serve as a reference point for ease of service delivery to the people of Kenya. (<em>Huduma Namba kwa Huduma Bora</em>).</p>
-</div></div></div></div></div></div><div id="tdi_49" class="tdc-row"><div class="vc_row tdi_50  wpb_row td-pb-row" >
-<style scoped>.tdi_50,.tdi_50 .tdc-columns{min-height:0}.tdi_50,.tdi_50 .tdc-columns{display:block}.tdi_50 .tdc-columns{width:100%}.tdi_50:before,.tdi_50:after{display:table}</style><div class="vc_column tdi_52  wpb_column vc_column_container tdc-column td-pb-span8">
-<style scoped>.tdi_52{vertical-align:baseline}.tdi_52>.wpb_wrapper,.tdi_52>.wpb_wrapper>.tdc-elements{display:block}.tdi_52>.wpb_wrapper>.tdc-elements{width:100%}.tdi_52>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_52>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_text_with_title tdi_53 tagdiv-type td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_53" ><div class="td-block-title-wrap"></div><div class="td_mod_wrap td-fix-index"><h4>Whats is Huduma Card?</h4>
-<p>A Huduma Card is a digital multipurpose identity card issued to an individual upon registration. The Huduma Card will enable individuals to access various government services as well as use it as a travel document within the East African region.</p>
-<h4>How to Check Huduma Card Status.</h4>
-<p>You can check the status of your Huduma Card by visiting niims.co.ke . Check where your <em>Huduma </em>Card has been delivered for collection, the status of <em>Huduma</em>Card and Whether further details of a person will be required before a card is printed.</p>
-</div></div></div></div><div class="vc_column tdi_55  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_55{vertical-align:baseline}.tdi_55>.wpb_wrapper,.tdi_55>.wpb_wrapper>.tdc-elements{display:block}.tdi_55>.wpb_wrapper>.tdc-elements{width:100%}.tdi_55>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_55>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_56 td_block_template_1 ">
-
-<style>.tdi_56.td-a-rec{text-align:center}.tdi_56.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_56 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div></div></div><div id="tdi_57" class="tdc-row"><div class="vc_row tdi_58  wpb_row td-pb-row" >
-<style scoped>.tdi_58,.tdi_58 .tdc-columns{min-height:0}.tdi_58,.tdi_58 .tdc-columns{display:block}.tdi_58 .tdc-columns{width:100%}.tdi_58:before,.tdi_58:after{display:table}@media (max-width:767px){.tdi_58{padding-top:0px!important}}</style><div class="vc_column tdi_60  wpb_column vc_column_container tdc-column td-pb-span8">
-<style scoped>.tdi_60{vertical-align:baseline}.tdi_60>.wpb_wrapper,.tdi_60>.wpb_wrapper>.tdc-elements{display:block}.tdi_60>.wpb_wrapper>.tdc-elements{width:100%}.tdi_60>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_60>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_61 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_61" >
-<style>.tdi_61 .td-image-wrap{padding-bottom:70%}.tdi_61 .entry-thumb{background-position:center 50%}.tdi_61 .td-image-container{flex:0 0 32%;width:32%;display:block;order:0}.ie10 .tdi_61 .td-image-container,.ie11 .tdi_61 .td-image-container{flex:0 0 auto}.tdi_61 .td-module-container{flex-direction:row;border-color:#eaeaea!important}.ie10 .tdi_61 .td-module-meta-info,.ie11 .tdi_61 .td-module-meta-info{flex:1}body .tdi_61 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_61 .td-module-meta-info{padding:0 0 0 26px;border-color:#eaeaea}.tdi_61 .td_module_wrap{padding-left:20px;padding-right:20px;padding-bottom:18px;margin-bottom:18px}.tdi_61 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_61 .td-module-container:before{bottom:-18px;border-color:#eaeaea}.tdi_61 .td-post-vid-time{display:block}.tdi_61 .td-post-category:not(.td-post-extra-category){display:none}.tdi_61 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_61 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_61 .td-read-more{display:none}.tdi_61 .td-author-date{display:inline}.tdi_61 .td-post-date,.tdi_61 .td-post-author-name span{display:inline-block}.tdi_61 .entry-review-stars{display:inline-block}.tdi_61 .td-icon-star,.tdi_61 .td-icon-star-empty,.tdi_61 .td-icon-star-half{font-size:15px}.tdi_61 .td-module-comments{display:block}.tdi_61 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_61 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_61 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_61 .td-excerpt{column-count:1;column-gap:48px}.tdi_61 .td-block-title a,.tdi_61 .td-block-title span{text-transform:uppercase!important}.tdi_61 .entry-title{font-size:22px!important;line-height:1.3!important}html:not([class*='ie']) .tdi_61 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_61 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_61 .td_module_wrap{padding-bottom:18px;margin-bottom:18px;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_61 .td-module-container:before{bottom:-18px}.tdi_61 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_61 .td_module_wrap .td-module-container:before{display:block!important}.tdi_61 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_61 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_61 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_61 .td-image-wrap{padding-bottom:90%}.tdi_61 .td-module-meta-info{padding:0 0 0 20px}.tdi_61 .td_module_wrap{padding-bottom:15px;margin-bottom:15px;padding-bottom:15px!important;margin-bottom:15px!important}.tdi_61 .td-module-container:before{bottom:-15px}.tdi_61 .td-post-author-name{display:none}.tdi_61 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_61 .td_module_wrap .td-module-container:before{display:block!important}.tdi_61 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_61 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_61 .td-excerpt{margin:16px 0 0 0;font-size:11px!important;line-height:1.6!important}.tdi_61 .entry-title{font-size:17px!important;font-weight:400!important}@media (min-width:768px){.tdi_61 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_61 .td-image-container{flex:0 0 30%;width:30%}.ie10 .tdi_61 .td-image-container,.ie11 .tdi_61 .td-image-container{flex:0 0 auto}.tdi_61 .td-module-meta-info{padding:0 0 0 16px}.tdi_61 .td_module_wrap{padding-bottom:13px;margin-bottom:13px;padding-bottom:13px!important;margin-bottom:13px!important}.tdi_61 .td-module-container:before{bottom:-13px}.tdi_61 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_61 .td-excerpt{display:none}.tdi_61 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_61 .td_module_wrap .td-module-container:before{display:block!important}.tdi_61 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_61 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_61 .entry-title{font-size:14px!important;line-height:1.4!important;font-weight:500!important}@media (min-width:768px){.tdi_61 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_61 = new tdBlock();
-block_tdi_61.id = "tdi_61";
-block_tdi_61.atts = '{"modules_on_row":"","custom_title":"Host Now","image_floated":"float_left","image_width":"eyJhbGwiOiIzMiIsInBob25lIjoiMzAifQ==","image_height":"eyJhbGwiOiI3MCIsInBvcnRyYWl0IjoiOTAifQ==","meta_padding":"eyJhbGwiOiIwIDAgMCAyNnB4IiwicGhvbmUiOiIwIDAgMCAxNnB4IiwicG9ydHJhaXQiOiIwIDAgMCAyMHB4In0=","show_btn":"none","show_cat":"none","f_title_font_size":"eyJhbGwiOiIyMiIsInBvcnRyYWl0IjoiMTciLCJwaG9uZSI6IjE0In0=","f_title_font_line_height":"eyJhbGwiOiIxLjMiLCJwaG9uZSI6IjEuNCJ9","show_excerpt":"eyJwaG9uZSI6Im5vbmUifQ==","f_title_font_weight":"eyJwb3J0cmFpdCI6IjQwMCIsInBob25lIjoiNTAwIn0=","show_author":"eyJwb3J0cmFpdCI6Im5vbmUifQ==","f_ex_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","art_excerpt":"eyJwb3J0cmFpdCI6IjE2cHggMCAwIDAifQ==","category_id":"","f_header_font_transform":"uppercase","category_ids":"","all_modules_space":"eyJhbGwiOiIzNiIsInBvcnRyYWl0IjoiMzAiLCJwaG9uZSI6IjI2In0=","video_icon":"eyJwaG9uZSI6IjI0In0=","image_size":"td_485x360","sort":"random_posts","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","limit":"5","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_alignment":"50","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","modules_extra_cat":"","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","show_com":"block","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","hide_audio":"","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":2,"header_color":"","color_preset":"","border_top":"","class":"tdi_61","tdc_css_class":"tdi_61","tdc_css_class_style":"tdi_61_rand_style"}';
-block_tdi_61.td_column_number = "2";
-block_tdi_61.block_type = "td_flex_block_1";
-block_tdi_61.post_count = "5";
-block_tdi_61.found_posts = "117";
-block_tdi_61.header_color = "";
-block_tdi_61.ajax_pagination_infinite_stop = "";
-block_tdi_61.max_num_pages = "24";
-tdBlocksArray.push(block_tdi_61);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Host Now</span></h4></div><div id=tdi_61 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/margin-accounts-calculations-and-solutions/"  rel="bookmark" class="td-image-wrap " title="Margin Accounts Calculations and Solutions" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2021/05/margin-accounts-calculations-and-solutions_127.jpg?resize=485%2C360&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/margin-accounts-calculations-and-solutions/"  rel="bookmark" title="Margin Accounts Calculations and Solutions">Margin Accounts Calculations and Solutions</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/Nims/">Nims</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2016-07-11T20:44:48+03:00" >July 11, 2016</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/margin-accounts-calculations-and-solutions/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">We have discussed before what a margin account is. In a margin purchase, the portion of the value of an investment that is not...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/foreign-affairs-ministry-scandle/"  rel="bookmark" class="td-image-wrap " title="Foreign Affairs ministry Scandle" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://i0.wp.com/nims.co.ke/wp-content/uploads/2020/03/Foreign-Affairs-ministry-Scandle.jpg?resize=485%2C350&ssl=1"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/foreign-affairs-ministry-scandle/"  rel="bookmark" title="Foreign Affairs ministry Scandle">Foreign Affairs ministry Scandle</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/Nims/">Nims</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2020-03-10T21:27:04+03:00" >March 10, 2020</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/foreign-affairs-ministry-scandle/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">
-
-
-
-
-Allegations surfaced in October 2012 that top Foreign Affairs ministry officials had ignored land offered by Japan that could have saved the country loss...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">Ha szereted a szerencsejátékokat és az online kaszinók világát, akkor biztosan hallottál már a Spinanga online kaszinóról. Ebben a cikkben megosztom veled a legfontosabb...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/the-eurobond-scandal-ksh-215-billion/"  rel="bookmark" class="td-image-wrap " title="The Eurobond scandal (KSh 215 billion)" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/the-eurobond-scandal-ksh-215-billion/"  rel="bookmark" title="The Eurobond scandal (KSh 215 billion)">The Eurobond scandal (KSh 215 billion)</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/Nims/">Nims</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2021-01-19T20:26:32+03:00" >January 19, 2021</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/the-eurobond-scandal-ksh-215-billion/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">
-The Eurobond scandal was exposed by the former prime minister Raila Odinga and later confirmed by the then Auditor General, Edward Ouko, who in...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/az-energycasino-bnuszainak-teljes-tmutatja-fogadsi-kvetelmnyek-s-promcik/"  rel="bookmark" class="td-image-wrap " title="Az Energycasino b&oacute;nuszainak teljes &uacute;tmutat&oacute;ja: Fogad&aacute;si k&ouml;vetelm&eacute;nyek &eacute;s prom&oacute;ci&oacute;k" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/az-energycasino-bnuszainak-teljes-tmutatja-fogadsi-kvetelmnyek-s-promcik/"  rel="bookmark" title="Az Energycasino b&oacute;nuszainak teljes &uacute;tmutat&oacute;ja: Fogad&aacute;si k&ouml;vetelm&eacute;nyek &eacute;s prom&oacute;ci&oacute;k">Az Energycasino b&oacute;nuszainak teljes &uacute;tmutat&oacute;ja: Fogad&aacute;si k&ouml;vetelm&eacute;nyek &eacute;s prom&oacute;ci&oacute;k</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-07-05T00:00:00+03:00" >July 5, 2018</time></span>                                                                        <span class="td-module-comments"><a href="https://nims.co.ke/az-energycasino-bnuszainak-teljes-tmutatja-fogadsi-kvetelmnyek-s-promcik/#respond">0</a></span>                                </span>
-                                                    </div>
-                    
-                    <div class="td-excerpt">Az Energycasino számos bónuszt kínál új és visszatérő játékosoknak. Ez az útmutató részletesen bemutatja a promóciókat, promóciós kódokat és fogadási feltételeket. Célunk, hogy segítsünk...</div>
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div></div></div><div class="vc_column tdi_63  wpb_column vc_column_container tdc-column td-pb-span4 td-is-sticky">
-<style scoped>.tdi_63{vertical-align:baseline}.tdi_63>.wpb_wrapper,.tdi_63>.wpb_wrapper>.tdc-elements{display:block}.tdi_63>.wpb_wrapper>.tdc-elements{width:100%}.tdi_63>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_63>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" data-sticky-enabled-on="W3RydWUsdHJ1ZSx0cnVlLHRydWVd" data-sticky-offset="20" data-sticky-is-width-auto="W2ZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlXQ==">
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_64 td_block_template_1 ">
-
-<style>.tdi_64{margin-bottom:48px!important}</style>
-<style>.tdi_64.td-a-rec{text-align:center}.tdi_64.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_64 .td-element-style{z-index:-1}@media (max-width:767px){.tdi_64.td-a-rec-img img{max-width:300px;width:100%}}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<span class="td-adspot-title">- Advertisement -</span><noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-<div class="td_block_wrap td_flex_block_5 tdi_65 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_65" >
-<style>
-.td-theme-wrap .tdi_65 .td-pulldown-filter-link:hover,
-            .td-theme-wrap .tdi_65 .td-subcat-item a:hover,
-            .td-theme-wrap .tdi_65 .td-subcat-item .td-cur-simple-item {
-                color: #8954c1;
-            }
-
-            .td-theme-wrap .tdi_65 .block-title > *,
-            .td-theme-wrap .tdi_65 .td-subcat-dropdown:hover .td-subcat-more {
-                background-color: #8954c1;
-            }
-            .td-theme-wrap .td-footer-wrapper .tdi_65 .block-title > * {
-                padding: 6px 7px 5px;
-                line-height: 1;
-            }
-
-            .td-theme-wrap .tdi_65 .block-title {
-                border-color: #8954c1;
-            }
-
-            
-            .td-theme-wrap .tdi_65 .td_module_wrap:hover .entry-title a,
-            .td-theme-wrap .tdi_65 .td_quote_on_blocks,
-            .td-theme-wrap .tdi_65 .td-opacity-cat .td-post-category:hover,
-            .td-theme-wrap .tdi_65 .td-opacity-read .td-read-more a:hover,
-            .td-theme-wrap .tdi_65 .td-opacity-author .td-post-author-name a:hover,
-            .td-theme-wrap .tdi_65 .td-instagram-user a {
-                color: #8954c1;
-            }
-
-            .td-theme-wrap .tdi_65 .td-next-prev-wrap a:hover,
-            .td-theme-wrap .tdi_65 .td-load-more-wrap a:hover {
-                background-color: #8954c1;
-                border-color: #8954c1;
-            }
-
-            .td-theme-wrap .tdi_65 .td-read-more a,
-            .td-theme-wrap .tdi_65 .td-weather-information:before,
-            .td-theme-wrap .tdi_65 .td-weather-week:before,
-            .td-theme-wrap .tdi_65 .td-exchange-header:before,
-            .td-theme-wrap .td-footer-wrapper .tdi_65 .td-post-category,
-            .td-theme-wrap .tdi_65 .td-post-category:hover {
-                background-color: #8954c1;
-            }
-</style>
-<style>.tdi_65 .td_module_wrap{width:100%;float:left;padding-left:20px;padding-right:20px;padding-bottom:18px;margin-bottom:18px;display:flex}.tdi_65 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_65 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_65 .td_block_inner{margin-left:-20px;margin-right:-20px;display:flex;flex-wrap:wrap}.tdi_65 .td-module-container:before{bottom:-18px;border-color:#eaeaea}.tdi_65 .td-module-container{border-color:#eaeaea;flex-grow:1}.tdi_65 .entry-thumb{background-position:center 50%}body .tdi_65 .td-favorite{box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2);font-size:36px}.tdi_65 .td-post-vid-time{display:block}.tdi_65 .td-module-meta-info-top{padding:0 0 17px}.tdi_65 .td-module-meta-info-bottom{padding:0px}.tdi_65 .td-module-meta-info{border-color:#eaeaea}.tdi_65 .td-excerpt{display:block;margin:14px 0 0}.tdi_65 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_65 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_65 .td-author-date{display:inline}.tdi_65 .td-post-author-name{display:inline-block}.tdi_65 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_65 .td-post-date,.tdi_65 .td-post-author-name span{display:inline-block}.tdi_65 .entry-review-stars{display:inline-block}.tdi_65 .td-icon-star,.tdi_65 .td-icon-star-empty,.tdi_65 .td-icon-star-half{font-size:15px}.tdi_65 .td-module-comments{display:block}.tdi_65 .td-read-more{display:none}.tdi_65 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_65 .td-block-title a,.tdi_65 .td-block-title span{text-transform:uppercase!important}.tdi_65 .td-image-container{flex:0 0 0}html:not([class*='ie']) .tdi_65 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_65 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_65 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important;padding-bottom:18px;margin-bottom:18px}.tdi_65 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_65 .td_module_wrap .td-module-container:before{display:block!important}.tdi_65 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_65 .td-module-container:before{bottom:-18px}.tdi_65 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_65 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_65 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important;padding-bottom:18px;margin-bottom:18px}.tdi_65 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_65 .td_module_wrap .td-module-container:before{display:block!important}.tdi_65 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_65 .td-module-container:before{bottom:-18px}.tdi_65 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_65 .entry-title{font-size:17px!important;line-height:1.3!important}.tdi_65 .td-excerpt{font-size:11px!important;line-height:1.6!important}@media (min-width:768px){.tdi_65 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_65 .td_module_wrap{padding-bottom:18px!important;margin-bottom:18px!important;padding-bottom:18px;margin-bottom:18px}.tdi_65 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_65 .td_module_wrap .td-module-container:before{display:block!important}.tdi_65 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_65 .td-module-container:before{bottom:-18px}.tdi_65 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_65 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_65 = new tdBlock();
-block_tdi_65.id = "tdi_65";
-block_tdi_65.atts = '{"art_title_pos":"top","info_pos":"top","art_excerpt_pos":"bottom","modules_category":"image","btn_pos":"bottom","limit":"1","custom_title":"Holiday Recipes","header_color":"#8954c1","show_btn":"none","meta_padding":"0 0 17px","art_excerpt":"14px 0 0","meta_padding2":"0","f_title_font_size":"eyJwb3J0cmFpdCI6IjE3In0=","f_title_font_line_height":"eyJwb3J0cmFpdCI6IjEuMyJ9","category_id":"","image_size":"td_485x360","f_header_font_transform":"uppercase","ajax_pagination":"next_prev","f_ex_font_size":"eyJwb3J0cmFpdCI6IjExIn0=","f_ex_font_line_height":"eyJwb3J0cmFpdCI6IjEuNiJ9","block_type":"td_flex_block_5","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc5_tl":"","mc5_title_tag":"","mc5_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","modules_on_row":"100%","modules_gap":"","m_padding":"","all_modules_space":"36","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","divider_on":"","modules_divider_color":"#eaeaea","h_effect":"","image_alignment":"50","image_height":"","image_radius":"","image_margin":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_horiz":"content-horiz-left","meta_width":"","meta_margin":"","meta_margin2":"","meta_info_border_size":"","meta_info_border_size2":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","meta_info_border_radius2":"","info_space":"","art_title":"","show_excerpt":"block","excerpt_inline":"","meta_space":"","show_audio":"block","hide_audio":"","art_audio_pos":"top","art_audio":"","art_audio_size":"1.5","show_cat":"inline-block","modules_category_margin":"","modules_category_padding":"","modules_category_border":"","modules_category_radius":"0","modules_extra_cat":"","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","show_com":"block","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","meta_bg2":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"color_preset":"","border_top":"","class":"tdi_65","tdc_css_class":"tdi_65","tdc_css_class_style":"tdi_65_rand_style"}';
-block_tdi_65.td_column_number = "1";
-block_tdi_65.block_type = "td_flex_block_5";
-block_tdi_65.post_count = "1";
-block_tdi_65.found_posts = "117";
-block_tdi_65.header_color = "#8954c1";
-block_tdi_65.ajax_pagination_infinite_stop = "";
-block_tdi_65.max_num_pages = "117";
-tdBlocksArray.push(block_tdi_65);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Holiday Recipes</span></h4></div><div id=tdi_65 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_5 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-module-meta-info td-module-meta-info-top">
-                            <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span><span class="td-module-comments"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/#respond">0</a></span></span></div>                        </div>
-                                            <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <div class="td-excerpt">Ha szereted a szerencsejátékokat és az online kaszinók világát, akkor biztosan hallottál már a Spinanga online kaszinóról. Ebben a cikkben megosztom veled a legfontosabb...</div>                    </div>
-                            </div>
-        </div>
-
-        </div><div class="td-next-prev-wrap"><a href="#" class="td-ajax-prev-page ajax-page-disabled" aria-label="prev-page" id="prev-page-tdi_65" data-td_block_id="tdi_65"><i class="td-next-prev-icon td-icon-font td-icon-menu-left"></i></a><a href="#"  class="td-ajax-next-page" aria-label="next-page" id="next-page-tdi_65" data-td_block_id="tdi_65"><i class="td-next-prev-icon td-icon-font td-icon-menu-right"></i></a></div></div></div></div></div></div><div id="tdi_66" class="tdc-row"><div class="vc_row tdi_67  wpb_row td-pb-row" >
-<style scoped>.tdi_67,.tdi_67 .tdc-columns{min-height:0}.tdi_67,.tdi_67 .tdc-columns{display:block}.tdi_67 .tdc-columns{width:100%}.tdi_67:before,.tdi_67:after{display:table}</style><div class="vc_column tdi_69  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_69{vertical-align:baseline}.tdi_69>.wpb_wrapper,.tdi_69>.wpb_wrapper>.tdc-elements{display:block}.tdi_69>.wpb_wrapper>.tdc-elements{width:100%}.tdi_69>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_69>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_block_text_with_title tdi_70 tagdiv-type td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_70" ><div class="td-block-title-wrap"></div><div class="td_mod_wrap td-fix-index"><h4>What is Huduma Number?</h4>
-<p>The Huduma Namba is a unique and permanent personal identification number randomly assigned to every resident individual at birth or upon registration/enrolment and only expires or is retired upon the death of the individual. How do you Check Huduma Card Status.?</p>
-</div></div></div></div><div class="vc_column tdi_72  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_72{vertical-align:baseline}.tdi_72>.wpb_wrapper,.tdi_72>.wpb_wrapper>.tdc-elements{display:block}.tdi_72>.wpb_wrapper>.tdc-elements{width:100%}.tdi_72>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_72>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-custom_ad_1 tdi_73 td_block_template_1 ">
-
-<style>.tdi_73{margin-bottom:48px!important}</style>
-<style>.tdi_73.td-a-rec{text-align:center}.tdi_73.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_73 .td-element-style{z-index:-1}@media (max-width:767px){.tdi_73.td-a-rec-img img{max-width:300px;width:100%}}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "2755813556");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<span class="td-adspot-title">Advertisment</span><noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div><div class="vc_column tdi_75  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_75{vertical-align:baseline}.tdi_75>.wpb_wrapper,.tdi_75>.wpb_wrapper>.tdc-elements{display:block}.tdi_75>.wpb_wrapper>.tdc-elements{width:100%}.tdi_75>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_75>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" >
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_76 td_block_template_1 ">
-
-<style>.tdi_76.td-a-rec{text-align:center}.tdi_76.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_76 .td-element-style{z-index:-1}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div></div></div><div id="tdi_77" class="tdc-row"><div class="vc_row tdi_78  wpb_row td-pb-row" >
-<style scoped>.tdi_78,.tdi_78 .tdc-columns{min-height:0}.tdi_78,.tdi_78 .tdc-columns{display:block}.tdi_78 .tdc-columns{width:100%}.tdi_78:before,.tdi_78:after{display:table}@media (min-width:768px) and (max-width:1018px){@media (min-width:768px){.tdi_78{margin-left:-10px;margin-right:-10px}.tdi_78 .tdc-row-video-background-error,.tdi_78>.vc_column,.tdi_78>.tdc-columns>.vc_column{padding-left:10px;padding-right:10px}}}@media (max-width:767px){.tdi_78{padding-top:0px!important}}</style><div class="vc_column tdi_80  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_80{vertical-align:baseline}.tdi_80>.wpb_wrapper,.tdi_80>.wpb_wrapper>.tdc-elements{display:block}.tdi_80>.wpb_wrapper>.tdc-elements{width:100%}.tdi_80>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_80>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_4 tdi_81 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_81" >
-<style>
-.td-theme-wrap .tdi_81 .td-pulldown-filter-link:hover,
-            .td-theme-wrap .tdi_81 .td-subcat-item a:hover,
-            .td-theme-wrap .tdi_81 .td-subcat-item .td-cur-simple-item {
-                color: #0b7cc0;
-            }
-
-            .td-theme-wrap .tdi_81 .block-title > *,
-            .td-theme-wrap .tdi_81 .td-subcat-dropdown:hover .td-subcat-more {
-                background-color: #0b7cc0;
-            }
-            .td-theme-wrap .td-footer-wrapper .tdi_81 .block-title > * {
-                padding: 6px 7px 5px;
-                line-height: 1;
-            }
-
-            .td-theme-wrap .tdi_81 .block-title {
-                border-color: #0b7cc0;
-            }
-
-            
-            .td-theme-wrap .tdi_81 .td_module_wrap:hover .entry-title a,
-            .td-theme-wrap .tdi_81 .td_quote_on_blocks,
-            .td-theme-wrap .tdi_81 .td-opacity-cat .td-post-category:hover,
-            .td-theme-wrap .tdi_81 .td-opacity-read .td-read-more a:hover,
-            .td-theme-wrap .tdi_81 .td-opacity-author .td-post-author-name a:hover,
-            .td-theme-wrap .tdi_81 .td-instagram-user a {
-                color: #0b7cc0;
-            }
-
-            .td-theme-wrap .tdi_81 .td-next-prev-wrap a:hover,
-            .td-theme-wrap .tdi_81 .td-load-more-wrap a:hover {
-                background-color: #0b7cc0;
-                border-color: #0b7cc0;
-            }
-
-            .td-theme-wrap .tdi_81 .td-read-more a,
-            .td-theme-wrap .tdi_81 .td-weather-information:before,
-            .td-theme-wrap .tdi_81 .td-weather-week:before,
-            .td-theme-wrap .tdi_81 .td-exchange-header:before,
-            .td-theme-wrap .td-footer-wrapper .tdi_81 .td-post-category,
-            .td-theme-wrap .tdi_81 .td-post-category:hover {
-                background-color: #0b7cc0;
-            }
-</style>
-<style>.tdi_81 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_81 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_81 .td_module_flex_1{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_81 .td_module_flex_1 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea}.tdi_81 .td_module_flex_4{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_81 .td_module_flex_4 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea}.tdi_81 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_81 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_81 .td_module_flex_1 .td-module-container{border-color:#eaeaea}.tdi_81 .td_module_flex_4 .td-module-container{border-color:#eaeaea}.tdi_81 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_81 .td_module_flex_4 .entry-thumb{background-position:center 50%}.tdi_81 .td_module_flex_4 .td-image-container{flex:0 0 25%;width:25%;display:block;order:0}.tdi_81 .td_module_flex_1 .td-image-wrap{padding-bottom:68%}.ie10 .tdi_81 .td_module_flex_1 .td-image-container,.ie11 .tdi_81 .td_module_flex_1 .td-image-container{flex:0 0 auto}.tdi_81 .td_module_flex_4 .td-image-wrap{padding-bottom:75%}.ie10 .tdi_81 .td_module_flex_4 .td-image-container,.ie11 .tdi_81 .td_module_flex_4 .td-image-container{flex:0 0 auto}.ie10 .tdi_81 .td_module_flex_4 .td-module-meta-info,.ie11 .tdi_81 .td_module_flex_4 .td-module-meta-info{flex:1}body .tdi_81 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_81 .td_module_flex_4 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_81 .td_module_flex_4 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_81 .td_module_flex_1 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}.tdi_81 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_81 .td_module_flex_4 .td-post-vid-time{display:block}.tdi_81 .td_module_flex_1 .td-module-meta-info{position:absolute;bottom:0;left:0;width:100%;padding:0 17px 17px}.tdi_81 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_81 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_81 .td_module_flex_4 .td-audio-player{font-size:12px;opacity:1;visibility:visible;height:auto}.tdi_81 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_81 .td_module_flex_4 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_81 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:none}.tdi_81 .td_module_flex_4 .td-post-category:not(.td-post-extra-category){display:none}.tdi_81 .td_module_flex_1 .td-excerpt{display:none}.tdi_81 .td_module_flex_4 .td-excerpt{display:none}.tdi_81 .td_module_flex_1 .td-author-date{display:inline}.tdi_81 .td_module_flex_4 .td-author-date{display:inline}.tdi_81 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_81 .td_module_flex_4 .td-post-author-name{display:none}.tdi_81 .td_module_flex_1 .td-post-date,.tdi_81 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_81 .td_module_flex_4 .td-post-date,.tdi_81 .td_module_flex_4 .td-post-author-name span{display:inline-block}.tdi_81 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_81 .td_module_flex_1 .td-icon-star,.tdi_81 .td_module_flex_1 .td-icon-star-empty,.tdi_81 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_81 .td_module_flex_4 .entry-review-stars{display:inline-block}.tdi_81 .td_module_flex_4 .td-icon-star,.tdi_81 .td_module_flex_4 .td-icon-star-empty,.tdi_81 .td_module_flex_4 .td-icon-star-half{font-size:15px}.tdi_81 .td_module_flex_1 .td-module-comments{display:none}.tdi_81 .td_module_flex_4 .td-module-comments{display:none}.tdi_81 .td_module_flex_1 .td-module-thumb a:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:-webkit-linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0));background:linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0))}.tdi_81 .td_module_flex_1 .td-module-title a{color:#ffffff}.tdi_81 .td_module_flex_1:hover .td-module-title a{color:#ffffff!important}.tdi_81 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_1 .td-post-author-name a{color:#ffffff}.tdi_81 .td-block-title a,.tdi_81 .td-block-title span{text-transform:uppercase!important}.tdi_81 .td_module_flex_1 .entry-title{font-size:17px!important;line-height:1.1!important;font-weight:700!important}.tdi_81 .td_module_flex_4 .entry-title{font-size:13px!important;line-height:1.4!important}html:not([class*='ie']) .tdi_81 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:767px){.tdi_81 .td_module_wrap{width:100%;float:left}.rtl .tdi_81 .td_module_wrap{float:right}}@media (min-width:1019px) and (max-width:1140px){.tdi_81 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_81 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_81 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (min-width:768px) and (max-width:1018px){.tdi_81 .td_module_wrap{padding-left:14px;padding-right:14px}.tdi_81 .td_block_inner{margin-left:-14px;margin-right:-14px}.tdi_81 .td_module_flex_4{padding-bottom:10px;margin-bottom:10px}.tdi_81 .td_module_flex_4 .td-module-container:before{bottom:-10px}.tdi_81 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_81 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_81 .td_module_flex_4 .td-image-container{flex:0 0 35%;width:35%}.tdi_81 .td_module_flex_4 .td-module-meta-info{padding:0 0 0 13px}.tdi_81 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (max-width:767px){.tdi_81 .td_module_flex_1{padding-bottom:13px;margin-bottom:13px}.tdi_81 .td_module_flex_1 .td-module-container:before{bottom:-13px}.tdi_81 .td_module_flex_4{padding-bottom:13px;margin-bottom:13px}.tdi_81 .td_module_flex_4 .td-module-container:before{bottom:-13px}.tdi_81 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_81 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_81 .td_module_flex_4 .td-image-container{flex:0 0 30%;width:30%}.tdi_81 .td_module_flex_4 .td-image-wrap{padding-bottom:70%}.ie10 .tdi_81 .td_module_flex_4 .td-image-container,.ie11 .tdi_81 .td_module_flex_4 .td-image-container{flex:0 0 auto}.tdi_81 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_81 .td_module_flex_4 .entry-title{font-size:14px!important}}</style><script>var block_tdi_81 = new tdBlock();
-block_tdi_81.id = "tdi_81";
-block_tdi_81.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"100%","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjgifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1IiwiYWxsIjoiMjUiLCJwaG9uZSI6IjMwIn0=","modules_space1":"eyJwaG9uZSI6IjI2IiwiYWxsIjoiMjEifQ==","limit":"4","show_excerpt1":"none","show_excerpt2":"none","show_com1":"none","show_cat1":"none","meta_info_align1":"image","meta_padding1":"0 17px 17px","f_title1_font_size":"eyJhbGwiOiIxNyIsInBob25lIjoiMTcifQ==","f_title1_font_weight":"700","title_txt":"#ffffff","author_txt":"#ffffff","color_overlay":"eyJ0eXBlIjoiZ3JhZGllbnQiLCJjb2xvcjEiOiJyZ2JhKDAsMCwwLDApIiwiY29sb3IyIjoicmdiYSgwLDAsMCwwLjcpIiwibWl4ZWRDb2xvcnMiOltdLCJjc3MiOiJiYWNrZ3JvdW5kOiAtd2Via2l0LWxpbmVhci1ncmFkaWVudCgwZGVnLHJnYmEoMCwwLDAsMC43KSxyZ2JhKDAsMCwwLDApKTtiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQoMGRlZyxyZ2JhKDAsMCwwLDAuNykscmdiYSgwLDAsMCwwKSk7IiwiY3NzUGFyYW1zIjoiMGRlZyxyZ2JhKDAsMCwwLDAuNykscmdiYSgwLDAsMCwwKSJ9","image_height2":"eyJhbGwiOiI3NSIsInBob25lIjoiNzAifQ==","f_title2_font_line_height":"1.4","f_title2_font_size":"eyJhbGwiOiIxMyIsInBob25lIjoiMTQifQ==","custom_title":"WRC Racing","header_color":"#0b7cc0","image_height1":"68","category_id":"","f_title1_font_line_height":"1.1","image_size":"td_485x360","modules_divider_color1":"","modules_divider_color2":"","modules_space2":"eyJhbGwiOiIyMSIsInBvcnRyYWl0IjoiMjAiLCJwaG9uZSI6IjI2In0=","f_header_font_transform":"uppercase","title_txt_hover":"#ffffff","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","block_type":"td_flex_block_4","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc4_tl":"","mc4_title_tag":"","mc4_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider1":"","image_alignment1":"50","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_icon_pos1":"center","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","m_padding2":"","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","image_size3":"","image_alignment2":"50","image_floated2":"float_left","image_radius2":"","hide_image3":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup3":"yes","video_rec3":"","video_rec_title3":"","video_rec_color3":"","autoplay_vid3":"yes","show_vid_t3":"block","vid_t_margin3":"","vid_t_padding3":"","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category3":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo3":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","show_review2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","art_excerpt2":"","excerpt_middle3":"","show_audio2":"block","hide_audio3":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_style":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_size":"","f_ex1_font_line_height":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","f_ex2_font_title":"Article excerpt 2","f_ex2_font_settings":"","f_ex2_font_family":"","f_ex2_font_size":"","f_ex2_font_line_height":"","f_ex2_font_style":"","f_ex2_font_weight":"","f_ex2_font_transform":"","f_ex2_font_spacing":"","f_ex2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","all_underline_height1":"","all_underline_color1":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border1":"","cat_border_hover1":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","meta_bg2":"","title_txt2":"","title_txt_hover2":"","all_underline_height2":"","all_underline_color2":"#000","cat_bg2":"","cat_bg_hover2":"","cat_txt2":"","cat_txt_hover2":"","cat_border2":"","cat_border_hover2":"","author_txt2":"","author_txt_hover2":"","date_txt2":"","ex_txt2":"","com_bg2":"","com_txt2":"","rev_txt2":"","audio_btn_color2":"","audio_time_color2":"","audio_bar_color2":"","audio_bar_curr_color2":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"color_preset":"","border_top":"","class":"tdi_81","tdc_css_class":"tdi_81","tdc_css_class_style":"tdi_81_rand_style"}';
-block_tdi_81.td_column_number = "1";
-block_tdi_81.block_type = "td_flex_block_4";
-block_tdi_81.post_count = "4";
-block_tdi_81.found_posts = "117";
-block_tdi_81.header_color = "#0b7cc0";
-block_tdi_81.ajax_pagination_infinite_stop = "";
-block_tdi_81.max_num_pages = "30";
-tdBlocksArray.push(block_tdi_81);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">WRC Racing</span></h4></div><div id=tdi_81 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" class="td-image-wrap " title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain">Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-25T03:00:00+03:00" >August 25, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div></div></div><div class="vc_column tdi_83  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_83{vertical-align:baseline}.tdi_83>.wpb_wrapper,.tdi_83>.wpb_wrapper>.tdc-elements{display:block}.tdi_83>.wpb_wrapper>.tdc-elements{width:100%}.tdi_83>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_83>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_4 tdi_84 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_84" >
-<style>.tdi_84 .td_module_wrap{padding-left:24px;padding-right:24px}.tdi_84 .td_block_inner{margin-left:-24px;margin-right:-24px}.tdi_84 .td_module_flex_1{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_84 .td_module_flex_1 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea}.tdi_84 .td_module_flex_4{padding-bottom:10.5px;margin-bottom:10.5px}.tdi_84 .td_module_flex_4 .td-module-container:before{bottom:-10.5px;border-width:0 0 1px 0;border-style:none;border-color:#eaeaea}.tdi_84 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_84 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_84 .td_module_flex_1 .td-module-container{border-color:#eaeaea}.tdi_84 .td_module_flex_4 .td-module-container{border-color:#eaeaea}.tdi_84 .td_module_flex_1 .entry-thumb{background-position:center 50%}.tdi_84 .td_module_flex_4 .entry-thumb{background-position:center 50%}.tdi_84 .td_module_flex_4 .td-image-container{flex:0 0 25%;width:25%;display:block;order:0}.tdi_84 .td_module_flex_1 .td-image-wrap{padding-bottom:68%}.ie10 .tdi_84 .td_module_flex_1 .td-image-container,.ie11 .tdi_84 .td_module_flex_1 .td-image-container{flex:0 0 auto}.tdi_84 .td_module_flex_4 .td-image-wrap{padding-bottom:75%}.ie10 .tdi_84 .td_module_flex_4 .td-image-container,.ie11 .tdi_84 .td_module_flex_4 .td-image-container{flex:0 0 auto}.ie10 .tdi_84 .td_module_flex_4 .td-module-meta-info,.ie11 .tdi_84 .td_module_flex_4 .td-module-meta-info{flex:1}body .tdi_84 .td_module_flex_1 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}body .tdi_84 .td_module_flex_4 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_84 .td_module_flex_4 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_84 .td_module_flex_1 .td-video-play-ico{top:50%;left:50%;transform:translate(-50%,-50%)}.tdi_84 .td_module_flex_1 .td-post-vid-time{display:block}.tdi_84 .td_module_flex_4 .td-post-vid-time{display:block}.tdi_84 .td_module_flex_1 .td-module-meta-info{position:absolute;bottom:0;left:0;width:100%;padding:0 17px 17px}.tdi_84 .td_module_flex_1 .td-category-pos-image .td-post-category:not(.td-post-extra-category){top:auto;bottom:0}.tdi_84 .td_module_flex_1 .td-audio-player{font-size:13px;opacity:1;visibility:visible;height:auto}.tdi_84 .td_module_flex_4 .td-audio-player{font-size:12px;opacity:1;visibility:visible;height:auto}.tdi_84 .td_module_flex_1 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_84 .td_module_flex_4 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_84 .td_module_flex_1 .td-post-category:not(.td-post-extra-category){display:none}.tdi_84 .td_module_flex_4 .td-post-category:not(.td-post-extra-category){display:none}.tdi_84 .td_module_flex_1 .td-excerpt{display:none}.tdi_84 .td_module_flex_4 .td-excerpt{display:none}.tdi_84 .td_module_flex_1 .td-author-date{display:inline}.tdi_84 .td_module_flex_4 .td-author-date{display:inline}.tdi_84 .td_module_flex_1 .td-post-author-name{display:inline-block}.tdi_84 .td_module_flex_4 .td-post-author-name{display:none}.tdi_84 .td_module_flex_1 .td-post-date,.tdi_84 .td_module_flex_1 .td-post-author-name span{display:inline-block}.tdi_84 .td_module_flex_4 .td-post-date,.tdi_84 .td_module_flex_4 .td-post-author-name span{display:inline-block}.tdi_84 .td_module_flex_1 .entry-review-stars{display:inline-block}.tdi_84 .td_module_flex_1 .td-icon-star,.tdi_84 .td_module_flex_1 .td-icon-star-empty,.tdi_84 .td_module_flex_1 .td-icon-star-half{font-size:15px}.tdi_84 .td_module_flex_4 .entry-review-stars{display:inline-block}.tdi_84 .td_module_flex_4 .td-icon-star,.tdi_84 .td_module_flex_4 .td-icon-star-empty,.tdi_84 .td_module_flex_4 .td-icon-star-half{font-size:15px}.tdi_84 .td_module_flex_1 .td-module-comments{display:none}.tdi_84 .td_module_flex_4 .td-module-comments{display:none}.tdi_84 .td_module_flex_1 .td-module-thumb a:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:-webkit-linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0));background:linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0))}.tdi_84 .td_module_flex_1 .td-module-title a{color:#ffffff}.tdi_84 .td_module_flex_1:hover .td-module-title a{color:#ffffff!important}.tdi_84 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_1 .td-post-author-name a{color:#ffffff}.tdi_84 .td-block-title a,.tdi_84 .td-block-title span{text-transform:uppercase!important}.tdi_84 .td_module_flex_1 .entry-title{font-size:17px!important;line-height:1.1!important;font-weight:700!important}.tdi_84 .td_module_flex_4 .entry-title{font-size:13px!important;line-height:1.4!important}html:not([class*='ie']) .tdi_84 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:767px){.tdi_84 .td_module_wrap{width:100%;float:left}.rtl .tdi_84 .td_module_wrap{float:right}}@media (min-width:1019px) and (max-width:1140px){.tdi_84 .td_module_wrap{padding-left:20px;padding-right:20px}.tdi_84 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_84 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (min-width:768px) and (max-width:1018px){.tdi_84 .td_module_wrap{padding-left:14px;padding-right:14px}.tdi_84 .td_block_inner{margin-left:-14px;margin-right:-14px}.tdi_84 .td_module_flex_4{padding-bottom:10px;margin-bottom:10px}.tdi_84 .td_module_flex_4 .td-module-container:before{bottom:-10px}.tdi_84 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_84 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_84 .td_module_flex_4 .td-image-container{flex:0 0 35%;width:35%}.tdi_84 .td_module_flex_4 .td-module-meta-info{padding:0 0 0 13px}.tdi_84 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}}@media (max-width:767px){.tdi_84 .td_module_flex_1{padding-bottom:13px;margin-bottom:13px}.tdi_84 .td_module_flex_1 .td-module-container:before{bottom:-13px}.tdi_84 .td_module_flex_4{padding-bottom:13px;margin-bottom:13px}.tdi_84 .td_module_flex_4 .td-module-container:before{bottom:-13px}.tdi_84 .td_module_wrap:last-child{margin-bottom:0!important;padding-bottom:0!important}.tdi_84 .td_module_wrap:last-child .td-module-container:before{display:none}.tdi_84 .td_module_flex_4 .td-image-container{flex:0 0 30%;width:30%}.tdi_84 .td_module_flex_4 .td-image-wrap{padding-bottom:70%}.ie10 .tdi_84 .td_module_flex_4 .td-image-container,.ie11 .tdi_84 .td_module_flex_4 .td-image-container{flex:0 0 auto}.tdi_84 .td_module_flex_1 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_4 a{transition:all 0.1s ease;-webkit-transition:all 0.1s ease;box-shadow:inset 0 0 0 0 #000}.tdi_84 .td_module_flex_4 .entry-title{font-size:14px!important}}</style><script>var block_tdi_84 = new tdBlock();
-block_tdi_84.id = "tdi_84";
-block_tdi_84.atts = '{"modules_category":"image","modules_on_row":"eyJhbGwiOiI1MCUiLCJsYW5kc2NhcGUiOiIxMDAlIn0=","modules_category1":"image","show_cat2":"none","show_com2":"none","show_author2":"none","columns":"100%","columns_gap":"eyJsYW5kc2NhcGUiOiI0MCIsInBvcnRyYWl0IjoiMjgifQ==","image_width2":"eyJwb3J0cmFpdCI6IjM1IiwiYWxsIjoiMjUiLCJwaG9uZSI6IjMwIn0=","modules_space1":"eyJwaG9uZSI6IjI2IiwiYWxsIjoiMjEifQ==","limit":"4","show_excerpt1":"none","show_excerpt2":"none","show_com1":"none","show_cat1":"none","meta_info_align1":"image","meta_padding1":"0 17px 17px","f_title1_font_size":"17","f_title1_font_line_height":"1.1","f_title1_font_weight":"700","title_txt":"#ffffff","author_txt":"#ffffff","color_overlay":"eyJ0eXBlIjoiZ3JhZGllbnQiLCJjb2xvcjEiOiJyZ2JhKDAsMCwwLDApIiwiY29sb3IyIjoicmdiYSgwLDAsMCwwLjcpIiwibWl4ZWRDb2xvcnMiOltdLCJjc3MiOiJiYWNrZ3JvdW5kOiAtd2Via2l0LWxpbmVhci1ncmFkaWVudCgwZGVnLHJnYmEoMCwwLDAsMC43KSxyZ2JhKDAsMCwwLDApKTtiYWNrZ3JvdW5kOiBsaW5lYXItZ3JhZGllbnQoMGRlZyxyZ2JhKDAsMCwwLDAuNykscmdiYSgwLDAsMCwwKSk7IiwiY3NzUGFyYW1zIjoiMGRlZyxyZ2JhKDAsMCwwLDAuNykscmdiYSgwLDAsMCwwKSJ9","image_height2":"eyJhbGwiOiI3NSIsInBob25lIjoiNzAifQ==","f_title2_font_line_height":"1.4","f_title2_font_size":"eyJhbGwiOiIxMyIsInBob25lIjoiMTQifQ==","custom_title":"Health &amp; Fitness","category_id":"","image_height1":"68","modules_divider_color1":"","modules_divider_color2":"","modules_space2":"eyJhbGwiOiIyMSIsInBvcnRyYWl0IjoiMjAiLCJwaG9uZSI6IjI2In0=","f_header_font_transform":"uppercase","title_txt_hover":"#ffffff","meta_padding2":"eyJwb3J0cmFpdCI6IjAgMCAwIDEzcHgifQ==","video_icon2":"24","image_size":"td_485x360","block_type":"td_flex_block_4","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","mc4_tl":"","mc4_title_tag":"","mc4_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","h_effect":"","modules_border_size1":"","modules_border_style1":"","modules_border_color1":"#eaeaea","modules_divider1":"","image_alignment1":"50","image_radius1":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon1":"","video_icon_pos1":"center","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_horiz1":"content-horiz-left","meta_width1":"","meta_margin1":"","meta_info_border_radius1":"","art_title1":"","modules_category_margin1":"","modules_category_padding1":"","modules_cat_border1":"","modules_category_radius1":"0","modules_extra_cat1":"","show_author1":"inline-block","author_photo":"","author_photo_size1":"","author_photo_space1":"","author_photo_radius1":"","show_date1":"inline-block","show_review1":"inline-block","review_space1":"","review_size1":"2.5","review_distance1":"","art_excerpt1":"","excerpt_middle":"","show_audio1":"block","hide_audio":"","art_audio1":"","art_audio_size1":"1.5","m_padding2":"","modules_border_size2":"","modules_border_style2":"","modules_border_color2":"#eaeaea","modules_divider2":"","image_size3":"","image_alignment2":"50","image_floated2":"float_left","image_radius2":"","hide_image3":"","show_favourites2":"","fav_size2":"2","fav_space2":"","fav_ico_color2":"","fav_ico_color_h2":"","fav_bg2":"","fav_bg_h2":"","fav_shadow2_shadow_header":"","fav_shadow2_shadow_title":"Shadow","fav_shadow2_shadow_size":"","fav_shadow2_shadow_offset_horizontal":"","fav_shadow2_shadow_offset_vertical":"","fav_shadow2_shadow_spread":"","fav_shadow2_shadow_color":"","video_popup3":"yes","video_rec3":"","video_rec_title3":"","video_rec_color3":"","autoplay_vid3":"yes","show_vid_t3":"block","vid_t_margin3":"","vid_t_padding3":"","meta_info_horiz2":"content-horiz-left","meta_width2":"","meta_margin2":"","meta_info_border_radius2":"","art_title2":"","modules_category3":"","modules_category_margin2":"","modules_category_padding2":"","modules_cat_border2":"","modules_category_radius2":"0","modules_extra_cat2":"","author_photo3":"","author_photo_size2":"","author_photo_space2":"","author_photo_radius2":"","show_date2":"inline-block","show_review2":"inline-block","review_space2":"","review_size2":"2.5","review_distance2":"","art_excerpt2":"","excerpt_middle3":"","show_audio2":"block","hide_audio3":"","art_audio2":"","art_audio_size2":"1","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title1_font_header":"","f_title1_font_title":"Article title 1","f_title1_font_settings":"","f_title1_font_family":"","f_title1_font_style":"","f_title1_font_transform":"","f_title1_font_spacing":"","f_title1_":"","f_cat1_font_title":"Article category tag 1","f_cat1_font_settings":"","f_cat1_font_family":"","f_cat1_font_size":"","f_cat1_font_line_height":"","f_cat1_font_style":"","f_cat1_font_weight":"","f_cat1_font_transform":"","f_cat1_font_spacing":"","f_cat1_":"","f_meta1_font_title":"Article meta info 1","f_meta1_font_settings":"","f_meta1_font_family":"","f_meta1_font_size":"","f_meta1_font_line_height":"","f_meta1_font_style":"","f_meta1_font_weight":"","f_meta1_font_transform":"","f_meta1_font_spacing":"","f_meta1_":"","f_ex1_font_title":"Article excerpt 1","f_ex1_font_settings":"","f_ex1_font_family":"","f_ex1_font_size":"","f_ex1_font_line_height":"","f_ex1_font_style":"","f_ex1_font_weight":"","f_ex1_font_transform":"","f_ex1_font_spacing":"","f_ex1_":"","f_title2_font_title":"Article title 2","f_title2_font_settings":"","f_title2_font_family":"","f_title2_font_style":"","f_title2_font_weight":"","f_title2_font_transform":"","f_title2_font_spacing":"","f_title2_":"","f_cat2_font_title":"Article category tag 2","f_cat2_font_settings":"","f_cat2_font_family":"","f_cat2_font_size":"","f_cat2_font_line_height":"","f_cat2_font_style":"","f_cat2_font_weight":"","f_cat2_font_transform":"","f_cat2_font_spacing":"","f_cat2_":"","f_meta2_font_title":"Article meta info 2","f_meta2_font_settings":"","f_meta2_font_family":"","f_meta2_font_size":"","f_meta2_font_line_height":"","f_meta2_font_style":"","f_meta2_font_weight":"","f_meta2_font_transform":"","f_meta2_font_spacing":"","f_meta2_":"","f_ex2_font_title":"Article excerpt 2","f_ex2_font_settings":"","f_ex2_font_family":"","f_ex2_font_size":"","f_ex2_font_line_height":"","f_ex2_font_style":"","f_ex2_font_weight":"","f_ex2_font_transform":"","f_ex2_font_spacing":"","f_ex2_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","all_underline_height1":"","all_underline_color1":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border1":"","cat_border_hover1":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","meta_bg2":"","title_txt2":"","title_txt_hover2":"","all_underline_height2":"","all_underline_color2":"#000","cat_bg2":"","cat_bg_hover2":"","cat_txt2":"","cat_txt_hover2":"","cat_border2":"","cat_border_hover2":"","author_txt2":"","author_txt_hover2":"","date_txt2":"","ex_txt2":"","com_bg2":"","com_txt2":"","rev_txt2":"","audio_btn_color2":"","audio_time_color2":"","audio_bar_color2":"","audio_bar_curr_color2":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","btn_title":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_84","tdc_css_class":"tdi_84","tdc_css_class_style":"tdi_84_rand_style"}';
-block_tdi_84.td_column_number = "1";
-block_tdi_84.block_type = "td_flex_block_4";
-block_tdi_84.post_count = "4";
-block_tdi_84.found_posts = "117";
-block_tdi_84.header_color = "";
-block_tdi_84.ajax_pagination_infinite_stop = "";
-block_tdi_84.max_num_pages = "30";
-tdBlocksArray.push(block_tdi_84);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Health &amp; Fitness</span></h4></div><div id=tdi_84 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_4 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" class="td-image-wrap " title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain">Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-25T03:00:00+03:00" >August 25, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div></div></div><div class="vc_column tdi_86  wpb_column vc_column_container tdc-column td-pb-span4">
-<style scoped>.tdi_86{vertical-align:baseline}.tdi_86>.wpb_wrapper,.tdi_86>.wpb_wrapper>.tdc-elements{display:block}.tdi_86>.wpb_wrapper>.tdc-elements{width:100%}.tdi_86>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_86>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap td_flex_block_1 tdi_87 td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_87" >
-<style>.tdi_87 .entry-thumb{background-position:center 50%}.tdi_87 .td-module-container{flex-direction:column;border-color:#eaeaea!important}.tdi_87 .td-image-container{display:block;order:0;margin-left:auto;margin-right:auto}.ie10 .tdi_87 .td-module-meta-info,.ie11 .tdi_87 .td-module-meta-info{flex:auto}body .tdi_87 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_87 .td-module-meta-info{padding:0 0 20px 0;border-color:#eaeaea}.tdi_87 .td_module_wrap{padding-left:20px;padding-right:20px;padding-bottom:18px;margin-bottom:18px}.tdi_87 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_87 .td-module-container:before{bottom:-18px;border-width:0 0 1px 0;border-style:dashed;border-color:#eaeaea;border-color:#f4f4f4}.tdi_87 .td-post-vid-time{display:block}.tdi_87 .td-post-category:not(.td-post-extra-category){display:none}.tdi_87 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_87 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_87 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_87 .td-read-more{display:none}.tdi_87 .td-author-date{display:inline}.tdi_87 .entry-review-stars{display:inline-block}.tdi_87 .td-icon-star,.tdi_87 .td-icon-star-empty,.tdi_87 .td-icon-star-half{font-size:15px}.tdi_87 .td-module-comments{display:none}.tdi_87 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_87 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_87 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_87 .td-module-meta-info,.tdi_87 .td-next-prev-wrap{text-align:center}.tdi_87 .td-category-pos-above .td-post-category{align-self:center!important}.tdi_87 .td-category-pos-image .td-post-category:not(.td-post-extra-category){left:50%;right:auto;transform:translateX(-50%);-webkit-transform:translateX(-50%)}.tdi_87.td-h-effect-up-shadow .td_module_wrap:hover .td-category-pos-image .td-post-category:not(.td-post-extra-category){transform:translate(-50%,-2px);-webkit-transform:translate(-50%,-2px)}.tdi_87 .entry-title{margin:8px 0 5px 0;font-size:17px!important;line-height:1.4!important;font-weight:500!important}.tdi_87 .td-block-title a,.tdi_87 .td-block-title span{text-transform:uppercase!important}html:not([class*='ie']) .tdi_87 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_87 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_87 .td_module_wrap{padding-bottom:18px;margin-bottom:18px;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_87 .td-module-container:before{bottom:-18px}.tdi_87 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_87 .td_module_wrap .td-module-container:before{display:block!important}.tdi_87 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_87 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_87 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_87 .td_module_wrap{padding-bottom:18px;margin-bottom:18px;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_87 .td-module-container:before{bottom:-18px}.tdi_87 .td-post-author-name{display:inline-block}.tdi_87 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_87 .td_module_wrap .td-module-container:before{display:block!important}.tdi_87 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_87 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_87 .entry-title{font-size:14px!important;font-weight:700!important}@media (min-width:768px){.tdi_87 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_87 .td_module_wrap{padding-bottom:18px;margin-bottom:18px;padding-bottom:18px!important;margin-bottom:18px!important}.tdi_87 .td-module-container:before{bottom:-18px}.tdi_87 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_87 .td_module_wrap .td-module-container:before{display:block!important}.tdi_87 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_87 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_87 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_87 = new tdBlock();
-block_tdi_87.id = "tdi_87";
-block_tdi_87.atts = '{"modules_on_row":"","image_size":"","image_floated":"","show_btn":"none","show_excerpt":"none","show_com":"none","show_author":"eyJwb3J0cmFpdCI6ImlubGluZS1ibG9jayJ9","show_cat":"none","limit":"3","f_title_font_size":"eyJhbGwiOiIxNyIsInBvcnRyYWl0IjoiMTQifQ==","f_title_font_line_height":"1.4","f_title_font_weight":"eyJhbGwiOiI1MDAiLCJwb3J0cmFpdCI6IjcwMCJ9","all_modules_space":"","category_id":"","show_date":"","modules_divider":"dashed","modules_divider_color":"#f4f4f4","meta_info_align":"","tdc_css":"eyJhbGwiOnsiZGlzcGxheSI6IiJ9fQ==","modules_category":"above","meta_info_horiz":"content-horiz-center","art_title":"8px 0 5px 0","custom_title":"Architecture","f_header_font_transform":"uppercase","meta_padding":"0 0 20px 0","hide_image":"yes","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","modules_gap":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","h_effect":"","image_alignment":"50","image_height":"","image_width":"","image_radius":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_width":"","meta_margin":"","meta_space":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","modules_extra_cat":"","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","hide_audio":"","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_87","tdc_css_class":"tdi_87","tdc_css_class_style":"tdi_87_rand_style"}';
-block_tdi_87.td_column_number = "1";
-block_tdi_87.block_type = "td_flex_block_1";
-block_tdi_87.post_count = "3";
-block_tdi_87.found_posts = "117";
-block_tdi_87.header_color = "";
-block_tdi_87.ajax_pagination_infinite_stop = "";
-block_tdi_87.max_num_pages = "39";
-tdBlocksArray.push(block_tdi_87);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Architecture</span></h4></div><div id=tdi_87 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                        <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                                    <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div></div></div></div></div></div><div id="tdi_88" class="tdc-row"><div class="vc_row tdi_89  wpb_row td-pb-row" >
-<style scoped>.tdi_89,.tdi_89 .tdc-columns{min-height:0}.tdi_89,.tdi_89 .tdc-columns{display:block}.tdi_89 .tdc-columns{width:100%}.tdi_89:before,.tdi_89:after{display:table}</style><div class="vc_column tdi_91  wpb_column vc_column_container tdc-column td-pb-span12">
-<style scoped>.tdi_91{vertical-align:baseline}.tdi_91>.wpb_wrapper,.tdi_91>.wpb_wrapper>.tdc-elements{display:block}.tdi_91>.wpb_wrapper>.tdc-elements{width:100%}.tdi_91>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_91>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td-big-grid-flex td_block_wrap td_block_big_grid_flex_1 tdi_93 td-big-grid-flex-lightsky td-pb-border-top td_block_template_1 td-big-grid-flex-posts" data-td-block-uid="tdi_93" >
-<style>@media (min-width:1019px) and (max-width:1140px){.tdi_93{margin-right:-22px!important;margin-left:-22px!important;width:auto!important;display:block!important}}@media (min-width:768px) and (max-width:1018px){.tdi_93{margin-right:-14px!important;margin-left:-14px!important;width:auto!important;display:block!important}}</style>
-<style>.td_block_big_grid_flex_1 .td-module-container{position:relative}.td_block_big_grid_flex_1 .td-image-wrap{padding-bottom:75%}.td_block_big_grid_flex_1 .td-module-meta-info{padding:22px 20px}.td_block_big_grid_flex_1 .td-module-title{font-family:var(--td_default_google_font_2,'Roboto',sans-serif);font-size:27px;font-weight:500;line-height:34px;margin:0 0 9px 0}.td_block_big_grid_flex_1 .td-editor-date{display:inline-block}body .tdi_93 .entry-thumb{background-position:center 50%}body .tdi_93 .td-image-wrap{padding-bottom:70%}body .tdi_93 .td-video-play-ico{width:30px;height:30px;font-size:30px;top:20px;left:auto;right:20px;transform:none}body .tdi_93 .td-module-meta-info{text-align:center;right:0;margin:0 auto;top:50%;transform:translateY(-50%);padding:10px 20px 22px}body .tdi_93 .td-post-category{margin:0 0 5px;background-color:#222222;color:#ffffff}body .tdi_93 .td-post-category:not(.td-post-extra-category){display:inline-block}body .tdi_93 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_93 .td-editor-date{display:inline}body .tdi_93 .td-post-author-name{display:inline-block}body .tdi_93 .td-post-date,body .tdi_93 .td-post-author-name span{display:inline-block}body .tdi_93 .entry-review-stars{display:inline-block;color:#fff}body .tdi_93 .td-icon-star,body .tdi_93 .td-icon-star-empty,body .tdi_93 .td-icon-star-half{font-size:15px}body .tdi_93 .td-big-grid-flex-post:nth-child(3n+1){clear:both}body .tdi_93 .td-module-thumb:after{content:'';position:absolute;bottom:0;left:0;width:100%;height:100%;background-color:rgba(77,178,236,0.2);opacity:0;z-index:1;-webkit-transition:opacity 0.4s ease 0.2s;-moz-transition:opacity 0.4s ease 0.2s;-o-transition:opacity 0.4s ease 0.2s;transition:opacity 0.4s ease 0.2s;pointer-events:none}body .tdi_93 .td-module-container:hover .td-module-thumb:after{opacity:1}body .tdi_93 .td-image-wrap:before{content:'';background:-webkit-linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7) 100%,rgba(0,0,0,0));background:linear-gradient(0deg,rgba(0,0,0,0.7),rgba(0,0,0,0.7) 100%,rgba(0,0,0,0))}body .tdi_93 .td-module-container:hover .td-post-category{background-color:#ffffff;color:#222222}body .tdi_93 .entry-title{margin:8px 0;font-size:18px!important;line-height:1.3!important;font-weight:300!important;text-transform:uppercase!important}html:not([class*='ie']) body .tdi_93 .td-module-container:hover .entry-thumb:before{opacity:0}@media (max-width:767px){.td_block_big_grid_flex_1 .td-big-grid-flex-post{width:100%}}@media (min-width:767px){body .tdi_93 .td-module-container:hover .td-thumb-css{transform:scale3d(1.1,1.1,1);-webkit-transform:scale3d(1.1,1.1,1)}}@media (min-width:767px){body .tdi_93 .td-big-grid-flex-post{width:33.33333333%}}@media (min-width:767px){body .tdi_93 .td-big-grid-flex-post{padding-left:2px;padding-right:2px}body .tdi_93 .td_block_inner{margin-left:-2px;margin-right:-2px}}@media (max-width:767px){body .tdi_93 .td-big-grid-flex-post{margin-bottom:4px}body .tdi_93 .td-big-grid-flex-post:last-child{margin-bottom:0}}@media (min-width:768px){body .tdi_93 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:767px){body .tdi_93 .td-big-grid-flex-post:nth-last-child(-n+3){margin-bottom:0!important;padding-bottom:0!important}body .tdi_93 .td-big-grid-flex-post .td-module-container:before{display:block!important}body .tdi_93 .td-big-grid-flex-post:nth-last-child(-n+3) .td-module-container:before{display:none!important}}@media (min-width:1019px) and (max-width:1140px){body .tdi_93 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_93 .td-big-grid-flex-post{clear:none!important}body .tdi_93 .td-big-grid-flex-post:nth-child(3n+1){clear:both!important}@media (min-width:768px){body .tdi_93 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){body .tdi_93 .td-image-wrap{padding-bottom:80%}body .tdi_93 .td-module-meta-info{padding:2px 10px 16px}body .tdi_93 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_93 .td-big-grid-flex-post{clear:none!important}body .tdi_93 .td-big-grid-flex-post:nth-child(3n+1){clear:both!important}body .tdi_93 .entry-title{margin:4px 0;font-size:14px!important}@media (min-width:767px){body .tdi_93 .td-big-grid-flex-post{padding-left:1px;padding-right:1px}body .tdi_93 .td_block_inner{margin-left:-1px;margin-right:-1px}}@media (max-width:767px){body .tdi_93 .td-big-grid-flex-post{margin-bottom:2px}body .tdi_93 .td-big-grid-flex-post:last-child{margin-bottom:0}}@media (min-width:768px){body .tdi_93 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){body .tdi_93 .td-image-wrap{padding-bottom:50%}body .tdi_93 .td-module-title a{box-shadow:inset 0 0 0 0 #000}body .tdi_93 .td-big-grid-flex-post{clear:none!important}body .tdi_93 .td-big-grid-flex-post:nth-child(3n+1){clear:both!important}body .tdi_93 .entry-title{font-size:20px!important;line-height:24px!important}@media (min-width:768px){body .tdi_93 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><div id=tdi_93 class="td_block_inner">
-        <div class="td_module_flex_6 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-0 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_696x0.png"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>                    </div>
-
-                                        
-                                            <div class="td-editor-date">
-                            <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                    </div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex_6 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-1 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_696x0.png"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>                    </div>
-
-                                        
-                                            <div class="td-editor-date">
-                            <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                    </div>
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex_6 td-animation-stack td-big-grid-flex-post td-big-grid-flex-post-2 td-cpt-post">
-            <div class="td-module-container td-category-pos-above">
-                <div class="td-image-container">
-                    <div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_696x0.png"  ></span></a></div>                </div>
-
-                <div class="td-module-meta-info">
-                                        <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a>
-                    <div class="tdb-module-title-wrap">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>                    </div>
-
-                                        
-                                            <div class="td-editor-date">
-                            <span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span>                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                    </div>
-                                    </div>
-            </div>
-        </div>
-
-        </div></div>
- <!-- A generated by theme --> 
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div class="td-g-rec td-g-rec-id-sidebar tdi_94 td_block_template_1 ">
-
-<style>.tdi_94.td-a-rec{text-align:center}.tdi_94.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_94 .td-element-style{z-index:-1}@media (max-width:767px){.tdi_94.td-a-rec-img img{max-width:300px;width:100%}}</style><script type="text/javascript">
-var td_screen_width = window.innerWidth;
-window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1140 ) {
-              
-              /* large monitors */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 1019  && td_screen_width < 1140 ) {
-          
-              /* landscape tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width >= 768  && td_screen_width < 1019 ) {
-          
-              /* portrait tablets */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:200px;height:200px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });window.addEventListener("load", function(){            
-              var placeAdEl = document.getElementById("td-ad-placeholder");
-          if ( null !== placeAdEl && td_screen_width < 768 ) {
-          
-              /* Phones */
-              var adEl = document.createElement("ins");
-                placeAdEl.replaceWith(adEl);  
-                adEl.setAttribute("class", "adsbygoogle");
-                adEl.setAttribute("style", "display:inline-block;width:300px;height:250px");                                  
-                adEl.setAttribute("data-ad-client", "ca-pub-2948289160159403");
-                adEl.setAttribute("data-ad-slot", "3069896520");              
-              (adsbygoogle = window.adsbygoogle || []).push({});
-          }
-      });</script>
-<span class="td-adspot-title">Advertisment</span><noscript id="td-ad-placeholder"></noscript></div>
-
- <!-- end A --> 
-
-</div></div></div></div><div id="tdi_95" class="tdc-row"><div class="vc_row tdi_96  wpb_row td-pb-row" >
-<style scoped>.tdi_96,.tdi_96 .tdc-columns{min-height:0}.tdi_96,.tdi_96 .tdc-columns{display:block}.tdi_96 .tdc-columns{width:100%}.tdi_96:before,.tdi_96:after{display:table}.tdi_96{margin-top:48px!important}.tdi_96 .td_block_wrap{text-align:left}</style><div class="vc_column tdi_98  wpb_column vc_column_container tdc-column td-pb-span8">
-<style scoped>.tdi_98{vertical-align:baseline}.tdi_98>.wpb_wrapper,.tdi_98>.wpb_wrapper>.tdc-elements{display:block}.tdi_98>.wpb_wrapper>.tdc-elements{width:100%}.tdi_98>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_98>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" ><div class="td_block_wrap tdb_loop_2 tdi_99 tdb-numbered-pagination td_with_ajax_pagination td-pb-border-top td_block_template_1 tdb-category-loop-posts"  data-td-block-uid="tdi_99" >
-<style>[class*="tdb_module_loop"] .td-module-container{display:flex;flex-direction:column;position:relative}[class*="tdb_module_loop"] .td-module-container:before{content:'';position:absolute;bottom:0;left:0;width:100%;height:1px}[class*="tdb_module_loop"] .td-image-wrap{display:block;position:relative;padding-bottom:50%}[class*="tdb_module_loop"] .td-image-container{position:relative;flex:0 0 auto;width:100%;height:100%}[class*="tdb_module_loop"] .td-module-thumb{margin-bottom:0}[class*="tdb_module_loop"] .td-module-meta-info{width:100%;padding:13px 0 0 0;margin-bottom:0;z-index:1;border:0 solid #eaeaea}[class*="tdb_module_loop"] .td-thumb-css{width:100%;height:100%;position:absolute;background-size:cover;background-position:center center}[class*="tdb_module_loop"] .td-category-pos-image .td-post-category:not(.td-post-extra-category),[class*="tdb_module_loop"] .td-post-vid-time{position:absolute;z-index:2;bottom:0}[class*="tdb_module_loop"] .td-category-pos-image .td-post-category:not(.td-post-extra-category){left:0}[class*="tdb_module_loop"] .td-post-vid-time{right:0;background-color:#000;padding:3px 6px 4px;font-family:var(--td_default_google_font_1,'Open Sans','Open Sans Regular',sans-serif);font-size:10px;font-weight:600;line-height:1;color:#fff}[class*="tdb_module_loop"] .td-excerpt{margin:20px 0 0;line-height:21px}.tdb_loop_2 .tdb-block-inner{display:flex;flex-wrap:wrap}.tdb_loop_2 .td_module_wrap{padding-bottom:0}.tdb_loop_2 .tdb_module_rec{text-align:center}.tdb_loop_2 .tdb-author-photo{display:inline-block}.tdb_loop_2 .tdb-author-photo,.tdb_loop_2 .tdb-author-photo img{vertical-align:middle}.tdb_loop_2 .td-post-author-name,.tdb_loop_2 .td-post-date,.tdb_loop_2 .td-module-comments{vertical-align:text-top}.tdb_loop_2 .entry-review-stars{margin-left:6px;vertical-align:text-bottom}.tdb_loop_2 .td-load-more-wrap,.tdb_loop_2 .td-next-prev-wrap{margin:20px 0 0}.tdb_loop_2 .page-nav{position:relative;margin:54px 0 0}.tdb_loop_2 .page-nav a,.tdb_loop_2 .page-nav span{margin-top:8px;margin-bottom:0}.tdb_loop_2 .td-next-prev-wrap a{width:auto;height:auto;min-width:25px;min-height:25px}.tdb_loop_2{display:inline-block;width:100%;margin-bottom:78px;padding-bottom:0;overflow:visible!important}.tdb_module_loop_2{display:inline-block;width:100%;padding-bottom:0}.tdb_module_loop_2 .td-module-meta-info{min-height:0}.tdb_module_loop_2 .td-author-photo{display:inline-block;vertical-align:middle}.tdb_module_loop_2 .td-read-more{margin:20px 0 0}.tdb_loop_2 .td-spot-id-loop .tdc-placeholder-title:before{content:'Posts Loop Ad'!important}.tdb_loop_2.tdc-no-posts .td_block_inner{margin-left:0!important;margin-right:0!important}.tdb_loop_2.tdc-no-posts .td_block_inner .no-results h2{font-size:13px;font-weight:normal;text-align:left;padding:20px;border:1px solid rgba(190,190,190,0.35);color:rgba(125,125,125,0.8)}.tdi_99 .td_module_wrap{width:50%;padding-left:20px;padding-right:20px}.tdi_99 .tdb_module_rec{width:100%}.tdi_99 .td_module_wrap:nth-last-child(-n+2) .td-module-container:before{display:none}.tdi_99 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_99 .tdb-block-inner{row-gap:calc(18px * 2)}.tdi_99 .td-module-container:before{bottom:-18px;border-color:#eaeaea}.tdi_99 .td-module-container{border-color:#eaeaea}.tdi_99 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_99 .entry-thumb{background-position:center 0%}body .tdi_99 .td-favorite{box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2);font-size:36px}.tdi_99 .td-post-vid-time{display:block}.tdi_99 .td-module-meta-info{border-color:#eaeaea}.tdi_99 .td-excerpt{display:none}.tdi_99 .td-audio-player{opacity:0;visibility:hidden;height:0;font-size:10px}.tdi_99 .td-post-category:not(.td-post-extra-category){display:inline-block}.tdi_99 .td-author-date{display:inline}.tdi_99 .td-post-author-name{display:inline-block}.tdi_99 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_99 .td-post-date,.tdi_99 .td-post-author-name span{display:inline-block}.tdi_99 .entry-review-stars{display:inline-block}.tdi_99 .td-icon-star,.tdi_99 .td-icon-star-empty,.tdi_99 .td-icon-star-half{font-size:15px}.tdi_99 .td-module-comments{display:block}.tdi_99 .td-read-more{display:none}html:not([class*='ie']) .tdi_99 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_99 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_99 .tdb-block-inner{row-gap:calc(18px * 2)}.tdi_99 .td-module-container:before{bottom:-18px}.tdi_99 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_99 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_99 .td_module_wrap{padding-left:10px;padding-right:10px}.tdi_99 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_99 .tdb-block-inner{row-gap:calc(15px * 2)}.tdi_99 .td-module-container:before{bottom:-15px}.tdi_99 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_99 .entry-title{font-size:17px!important;line-height:22px!important}@media (min-width:768px){.tdi_99 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_99 .td_module_wrap{width:100%}.tdi_99 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_99 .tdb-block-inner{row-gap:calc(18px * 2)}.tdi_99 .td-module-container:before{bottom:-18px}.tdi_99 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_99.td_with_ajax_pagination .td-next-prev-wrap,.tdi_99 .page-nav,.tdi_99 .td-load-more-wrap{margin-top:20px}@media (min-width:768px){.tdi_99 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_99 = new tdBlock();
-block_tdi_99.id = "tdi_99";
-block_tdi_99.atts = '{"art_title_pos":"bottom","info_pos":"bottom","art_excerpt_pos":"bottom","modules_category":"image","btn_pos":"bottom","modules_on_row":"eyJhbGwiOiI1MCUiLCJwaG9uZSI6IjEwMCUifQ==","image_alignment":"0","show_excerpt":"none","show_btn":"none","custom_title":"LATEST ARTICLES","ajax_pagination":"numbered","f_header_font_transform":"","show_audio":"none","art_audio_pos":"bottom","art_audio_size":"0","f_title_font_size":"eyJwb3J0cmFpdCI6IjE3In0=","f_title_font_line_height":"eyJwb3J0cmFpdCI6IjIycHgifQ==","modules_gap":"eyJwb3J0cmFpdCI6IjIwIn0=","all_modules_space":"eyJhbGwiOiIzNiIsInBvcnRyYWl0IjoiMzAifQ==","pag_space":"eyJwaG9uZSI6IjIwIn0=","image_size":"td_485x360","block_type":"tdb_loop_2","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","limit":"","offset":"","open_in_new_window":"","post_ids":"","include_cf_posts":"","exclude_cf_posts":"","sort":"","installed_post_types":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","review_source":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_height":"","image_radius":"","image_margin":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_icon":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"- Advertisement -","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_horiz":"content-horiz-left","meta_width":"","meta_padding":"","meta_padding2":"","meta_info_border_size":"","meta_info_border_size2":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","meta_info_border_radius2":"","info_space":"","art_title":"","art_excerpt":"","hide_audio":"","art_audio":"","show_cat":"inline-block","modules_extra_cat":"","modules_category_margin":"","modules_category_padding":"","modules_category_border":"","modules_category_radius":"0","show_author":"inline-block","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_date":"inline-block","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","show_com":"block","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_pag_font_title":"Pagination text","f_pag_font_settings":"","f_pag_font_family":"","f_pag_font_size":"","f_pag_font_line_height":"","f_pag_font_style":"","f_pag_font_weight":"","f_pag_font_transform":"","f_pag_font_spacing":"","f_pag_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_weight":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","meta_bg":"","meta_bg2":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"#000","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_a_text":"","pag_bg":"","pag_h_bg":"","pag_a_bg":"","pag_border":"","pag_h_border":"","pag_a_border":"","ad_loop":"","ad_loop_title":"- Advertisement -","ad_loop_repeat":"","ad_loop_color":"","ad_loop_full":"yes","f_ad_font_header":"","f_ad_font_title":"Ad title text","f_ad_font_settings":"","f_ad_font_family":"","f_ad_font_size":"","f_ad_font_line_height":"","f_ad_font_style":"","f_ad_font_weight":"","f_ad_font_transform":"","f_ad_font_spacing":"","f_ad_":"","ad_loop_disable":"","el_class":"","tdc_css":"","td_column_number":2,"header_color":"","td_ajax_preloading":"","td_ajax_filter_type":"","td_filter_default_txt":"","td_ajax_filter_ids":"","color_preset":"","border_top":"","css":"","class":"tdi_99","tdc_css_class":"tdi_99","tdc_css_class_style":"tdi_99_rand_style"}';
-block_tdi_99.td_column_number = "2";
-block_tdi_99.block_type = "tdb_loop_2";
-block_tdi_99.post_count = "10";
-block_tdi_99.found_posts = "117";
-block_tdi_99.header_color = "";
-block_tdi_99.ajax_pagination_infinite_stop = "";
-block_tdi_99.max_num_pages = "12";
-tdBlocksArray.push(block_tdi_99);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">LATEST ARTICLES</span></h4></div><div id=tdi_99 class="td_block_inner tdb-block-inner td-fix-index">
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span><span class="td-module-comments"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" class="td-image-wrap " title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain">Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-25T03:00:00+03:00" >August 25, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/erfahrungsbericht-so-verlief-meine-erste-auszahlung-im-robocat-casino/"  rel="bookmark" class="td-image-wrap " title="Erfahrungsbericht: So verlief meine erste Auszahlung im Robocat Casino" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/erfahrungsbericht-so-verlief-meine-erste-auszahlung-im-robocat-casino/"  rel="bookmark" title="Erfahrungsbericht: So verlief meine erste Auszahlung im Robocat Casino">Erfahrungsbericht: So verlief meine erste Auszahlung im Robocat Casino</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-21T03:00:00+03:00" >August 21, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/erfahrungsbericht-so-verlief-meine-erste-auszahlung-im-robocat-casino/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/lemon-casino-wyplaty-ile-czeka-si-na-swoje-wygrane-i-jak-przyspieszy-proces/"  rel="bookmark" class="td-image-wrap " title="Lemon casino wyplaty: Ile czeka się na swoje wygrane i jak przyspieszyć proces" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/lemon-casino-wyplaty-ile-czeka-si-na-swoje-wygrane-i-jak-przyspieszy-proces/"  rel="bookmark" title="Lemon casino wyplaty: Ile czeka się na swoje wygrane i jak przyspieszyć proces">Lemon casino wyplaty: Ile czeka się na swoje wygrane i jak przyspieszyć proces</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-19T03:00:00+03:00" >August 19, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/lemon-casino-wyplaty-ile-czeka-si-na-swoje-wygrane-i-jak-przyspieszy-proces/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/verde-casino-50-free-spins-k-tos-izmantot-sav-lab/"  rel="bookmark" class="td-image-wrap " title="Verde casino 50 free spins: kā tos izmantot savā labā" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/verde-casino-50-free-spins-k-tos-izmantot-sav-lab/"  rel="bookmark" title="Verde casino 50 free spins: kā tos izmantot savā labā">Verde casino 50 free spins: kā tos izmantot savā labā</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-19T03:00:00+03:00" >August 19, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/verde-casino-50-free-spins-k-tos-izmantot-sav-lab/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/neue-dolfwin-casino-no-deposit-bonus-codes-f-r-noch-mehr-spielspa/"  rel="bookmark" class="td-image-wrap " title="Neue Dolfwin Casino No Deposit Bonus Codes für noch mehr Spielspaß" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/neue-dolfwin-casino-no-deposit-bonus-codes-f-r-noch-mehr-spielspa/"  rel="bookmark" title="Neue Dolfwin Casino No Deposit Bonus Codes für noch mehr Spielspaß">Neue Dolfwin Casino No Deposit Bonus Codes für noch mehr Spielspaß</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-13T03:00:00+03:00" >August 13, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/neue-dolfwin-casino-no-deposit-bonus-codes-f-r-noch-mehr-spielspa/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/payment-and-withdrawal-methods-at-instant-casino-a-uk-overview/"  rel="bookmark" class="td-image-wrap " title="Payment and Withdrawal Methods at Instant Casino: A UK Overview" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/payment-and-withdrawal-methods-at-instant-casino-a-uk-overview/"  rel="bookmark" title="Payment and Withdrawal Methods at Instant Casino: A UK Overview">Payment and Withdrawal Methods at Instant Casino: A UK Overview</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-11T03:00:00+03:00" >August 11, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/payment-and-withdrawal-methods-at-instant-casino-a-uk-overview/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        
-        <div class="tdb_module_loop_2 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-image">
-                                        <div class="td-image-container">
-                            <a href="https://nims.co.ke/category/corruption-scandals/" class="td-post-category">Corruption Scandals</a><div class="td-module-thumb"><a href="https://nims.co.ke/hogyan-m-k-dik-a-robocat-casino-promo-code-s-milyen-el-ny-kkel-j-r/"  rel="bookmark" class="td-image-wrap " title="Hogyan Működik a Robocat Casino Promo Code és Milyen Előnyökkel Jár?" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_485x360.png" ></span></a></div>                        </div>
-                
-                                    <div class="td-module-meta-info td-module-meta-info-bottom">
-                        <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/hogyan-m-k-dik-a-robocat-casino-promo-code-s-milyen-el-ny-kkel-j-r/"  rel="bookmark" title="Hogyan Működik a Robocat Casino Promo Code és Milyen Előnyökkel Jár?">Hogyan Működik a Robocat Casino Promo Code és Milyen Előnyökkel Jár?</a></h3><div class="td-editor-date"><span class="td-author-date"><span class="td-post-author-name"><a href="https://nims.co.ke/author/wpapitest/">wpapitest</a> <span>-</span> </span><span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-07-31T03:00:00+03:00" >July 31, 2025</time></span><span class="td-module-comments"><a href="https://nims.co.ke/hogyan-m-k-dik-a-robocat-casino-promo-code-s-milyen-el-ny-kkel-j-r/#respond">0</a></span></span></div>                    </div>
-                            </div>
-        </div>
-
-        </div><div class="page-nav td-pb-padding-side"><span class="current">1</span><a href="https://nims.co.ke/page/2/" class="page" title="2">2</a><a href="https://nims.co.ke/page/3/" class="page" title="3">3</a><span class="extend">...</span><a href="https://nims.co.ke/page/12/" class="last" title="12">12</a><a href="https://nims.co.ke/page/2/"  aria-label="next-page" ><i class="page-nav-icon td-icon-menu-right"></i></a><span class="pages">Page 1 of 12</span><div class="clearfix"></div></div></div></div></div><div class="vc_column tdi_101  wpb_column vc_column_container tdc-column td-pb-span4 td-is-sticky">
-<style scoped>.tdi_101{vertical-align:baseline}.tdi_101>.wpb_wrapper,.tdi_101>.wpb_wrapper>.tdc-elements{display:block}.tdi_101>.wpb_wrapper>.tdc-elements{width:100%}.tdi_101>.wpb_wrapper>.vc_row_inner{width:auto}.tdi_101>.wpb_wrapper{width:auto;height:auto}</style><div class="wpb_wrapper" data-sticky-enabled-on="W3RydWUsdHJ1ZSx0cnVlLHRydWVd" data-sticky-offset="20" data-sticky-is-width-auto="W2ZhbHNlLGZhbHNlLGZhbHNlLGZhbHNlXQ=="><div class="td_block_wrap td_flex_block_1 tdi_102 td_with_ajax_pagination td-pb-border-top td_block_template_1 td_flex_block"  data-td-block-uid="tdi_102" >
-<style>.tdi_102 .td-image-wrap{padding-bottom:70%}.tdi_102 .entry-thumb{background-position:center 50%}.tdi_102 .td-image-container{flex:0 0 30%;width:30%;display:block;order:0}.ie10 .tdi_102 .td-image-container,.ie11 .tdi_102 .td-image-container{flex:0 0 auto}.tdi_102 .td-module-container{flex-direction:row;border-color:#eaeaea!important}.ie10 .tdi_102 .td-module-meta-info,.ie11 .tdi_102 .td-module-meta-info{flex:1}body .tdi_102 .td-favorite{font-size:36px;box-shadow:1px 1px 4px 0px rgba(0,0,0,0.2)}.tdi_102 .td-module-meta-info{padding:0 0 0 16px;border-color:#eaeaea}.tdi_102 .td_module_wrap{padding-left:20px;padding-right:20px;padding-bottom:13px;margin-bottom:13px}.tdi_102 .td_block_inner{margin-left:-20px;margin-right:-20px}.tdi_102 .td-module-container:before{bottom:-13px;border-color:#eaeaea}.tdi_102 .td-video-play-ico{width:24px;height:24px;font-size:24px}.tdi_102 .td-post-vid-time{display:block}.tdi_102 .td-post-category:not(.td-post-extra-category){display:none}.tdi_102 .td-author-photo .avatar{width:20px;height:20px;margin-right:6px;border-radius:50%}.tdi_102 .td-excerpt{display:none;column-count:1;column-gap:48px}.tdi_102 .td-audio-player{opacity:1;visibility:visible;height:auto;font-size:13px}.tdi_102 .td-read-more{display:none}.tdi_102 .td-author-date{display:inline}.tdi_102 .td-post-author-name{display:none}.tdi_102 .entry-review-stars{display:inline-block}.tdi_102 .td-icon-star,.tdi_102 .td-icon-star-empty,.tdi_102 .td-icon-star-half{font-size:15px}.tdi_102 .td-module-comments{display:none}.tdi_102 .td_module_wrap:nth-last-child(1){margin-bottom:0;padding-bottom:0}.tdi_102 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none}.tdi_102 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_102 .td-block-title a,.tdi_102 .td-block-title span{text-transform:uppercase!important}.tdi_102 .entry-title{font-size:14px!important;line-height:1.4!important;font-weight:500!important}html:not([class*='ie']) .tdi_102 .td-module-container:hover .entry-thumb:before{opacity:0}@media (min-width:768px){.tdi_102 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}@media (min-width:1019px) and (max-width:1140px){.tdi_102 .td_module_wrap{padding-bottom:13px;margin-bottom:13px;padding-bottom:13px!important;margin-bottom:13px!important}.tdi_102 .td-module-container:before{bottom:-13px}.tdi_102 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_102 .td_module_wrap .td-module-container:before{display:block!important}.tdi_102 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_102 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_102 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (min-width:768px) and (max-width:1018px){.tdi_102 .td-module-meta-info{padding:0 0 0 13px}.tdi_102 .td_module_wrap{width:100%;float:left;padding-left:10px;padding-right:10px;padding-bottom:10px;margin-bottom:10px;padding-bottom:10px!important;margin-bottom:10px!important}.rtl .tdi_102 .td_module_wrap{float:right}.tdi_102 .td_block_inner{margin-left:-10px;margin-right:-10px}.tdi_102 .td-module-container:before{bottom:-10px}.tdi_102 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_102 .td_module_wrap .td-module-container:before{display:block!important}.tdi_102 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_102 .td-module-title a{box-shadow:inset 0 0 0 0 #000}.tdi_102 .entry-title{font-size:12px!important}@media (min-width:768px){.tdi_102 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}@media (max-width:767px){.tdi_102 .td_module_wrap{width:100%;float:left;padding-bottom:13px;margin-bottom:13px;padding-bottom:13px!important;margin-bottom:13px!important}.rtl .tdi_102 .td_module_wrap{float:right}.tdi_102 .td-module-container:before{bottom:-13px}.tdi_102 .td_module_wrap:nth-last-child(1){margin-bottom:0!important;padding-bottom:0!important}.tdi_102 .td_module_wrap .td-module-container:before{display:block!important}.tdi_102 .td_module_wrap:nth-last-child(1) .td-module-container:before{display:none!important}.tdi_102 .td-module-title a{box-shadow:inset 0 0 0 0 #000}@media (min-width:768px){.tdi_102 .td-module-title a{transition:all 0.2s ease;-webkit-transition:all 0.2s ease}}}</style><script>var block_tdi_102 = new tdBlock();
-block_tdi_102.id = "tdi_102";
-block_tdi_102.atts = '{"modules_on_row":"eyJwb3J0cmFpdCI6IjEwMCUiLCJwaG9uZSI6IjEwMCUifQ==","image_size":"td_218x150","image_floated":"float_left","image_width":"30","image_height":"70","show_btn":"none","show_excerpt":"none","show_com":"none","show_author":"none","show_cat":"none","limit":"4","meta_padding":"eyJhbGwiOiIwIDAgMCAxNnB4IiwicG9ydHJhaXQiOiIwIDAgMCAxM3B4In0=","f_title_font_size":"eyJhbGwiOiIxNCIsInBvcnRyYWl0IjoiMTIifQ==","f_title_font_line_height":"1.4","f_title_font_weight":"500","all_modules_space":"eyJwb3J0cmFpdCI6IjIwIiwicGhvbmUiOiIyNiIsImFsbCI6IjI2In0=","category_id":"","modules_gap":"eyJwb3J0cmFpdCI6IjIwIn0=","show_date":"","custom_title":"Most Popular","ajax_pagination":"load_more","sort":"","f_header_font_transform":"uppercase","video_icon":"24","block_type":"td_flex_block_1","separator":"","custom_url":"","block_template_id":"","title_tag":"","mc1_tl":"","mc1_title_tag":"","mc1_el":"","post_ids":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_query_cache":"","td_query_cache_expiration":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","container_width":"","m_padding":"","modules_border_size":"","modules_border_style":"","modules_border_color":"#eaeaea","modules_border_radius":"","modules_divider":"","modules_divider_color":"#eaeaea","h_effect":"","image_alignment":"50","image_radius":"","hide_image":"","show_favourites":"","fav_size":"2","fav_space":"","fav_ico_color":"","fav_ico_color_h":"","fav_bg":"","fav_bg_h":"","fav_shadow_shadow_header":"","fav_shadow_shadow_title":"Shadow","fav_shadow_shadow_size":"","fav_shadow_shadow_offset_horizontal":"","fav_shadow_shadow_offset_vertical":"","fav_shadow_shadow_spread":"","fav_shadow_shadow_color":"","video_popup":"yes","video_rec":"","spot_header":"","video_rec_title":"","video_rec_color":"","video_rec_disable":"","autoplay_vid":"yes","show_vid_t":"block","vid_t_margin":"","vid_t_padding":"","video_title_color":"","video_title_color_h":"","video_bg":"","video_overlay":"","vid_t_color":"","vid_t_bg_color":"","f_vid_title_font_header":"","f_vid_title_font_title":"Video pop-up article title","f_vid_title_font_settings":"","f_vid_title_font_family":"","f_vid_title_font_size":"","f_vid_title_font_line_height":"","f_vid_title_font_style":"","f_vid_title_font_weight":"","f_vid_title_font_transform":"","f_vid_title_font_spacing":"","f_vid_title_":"","f_vid_time_font_title":"Video duration text","f_vid_time_font_settings":"","f_vid_time_font_family":"","f_vid_time_font_size":"","f_vid_time_font_line_height":"","f_vid_time_font_style":"","f_vid_time_font_weight":"","f_vid_time_font_transform":"","f_vid_time_font_spacing":"","f_vid_time_":"","meta_info_align":"","meta_info_horiz":"layout-default","meta_width":"","meta_margin":"","meta_space":"","art_title":"","art_btn":"","meta_info_border_size":"","meta_info_border_style":"","meta_info_border_color":"#eaeaea","meta_info_border_radius":"","modules_category":"","modules_category_margin":"","modules_category_padding":"","modules_cat_border":"","modules_category_radius":"0","modules_extra_cat":"","author_photo":"","author_photo_size":"","author_photo_space":"","author_photo_radius":"","show_review":"inline-block","review_space":"","review_size":"2.5","review_distance":"","art_excerpt":"","excerpt_col":"1","excerpt_gap":"","excerpt_middle":"","excerpt_inline":"","show_audio":"block","hide_audio":"","art_audio":"","art_audio_size":"1.5","btn_title":"","btn_margin":"","btn_padding":"","btn_border_width":"","btn_radius":"","pag_space":"","pag_padding":"","pag_border_width":"","pag_border_radius":"","prev_tdicon":"","next_tdicon":"","pag_icons_size":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","f_title_font_header":"","f_title_font_title":"Article title","f_title_font_settings":"","f_title_font_family":"","f_title_font_style":"","f_title_font_transform":"","f_title_font_spacing":"","f_title_":"","f_cat_font_title":"Article category tag","f_cat_font_settings":"","f_cat_font_family":"","f_cat_font_size":"","f_cat_font_line_height":"","f_cat_font_style":"","f_cat_font_weight":"","f_cat_font_transform":"","f_cat_font_spacing":"","f_cat_":"","f_meta_font_title":"Article meta info","f_meta_font_settings":"","f_meta_font_family":"","f_meta_font_size":"","f_meta_font_line_height":"","f_meta_font_style":"","f_meta_font_weight":"","f_meta_font_transform":"","f_meta_font_spacing":"","f_meta_":"","f_ex_font_title":"Article excerpt","f_ex_font_settings":"","f_ex_font_family":"","f_ex_font_size":"","f_ex_font_line_height":"","f_ex_font_style":"","f_ex_font_weight":"","f_ex_font_transform":"","f_ex_font_spacing":"","f_ex_":"","f_btn_font_title":"Article read more button","f_btn_font_settings":"","f_btn_font_family":"","f_btn_font_size":"","f_btn_font_line_height":"","f_btn_font_style":"","f_btn_font_weight":"","f_btn_font_transform":"","f_btn_font_spacing":"","f_btn_":"","mix_color":"","mix_type":"","fe_brightness":"1","fe_contrast":"1","fe_saturate":"1","mix_color_h":"","mix_type_h":"","fe_brightness_h":"1","fe_contrast_h":"1","fe_saturate_h":"1","m_bg":"","color_overlay":"","shadow_shadow_header":"","shadow_shadow_title":"Module Shadow","shadow_shadow_size":"","shadow_shadow_offset_horizontal":"","shadow_shadow_offset_vertical":"","shadow_shadow_spread":"","shadow_shadow_color":"","title_txt":"","title_txt_hover":"","all_underline_height":"","all_underline_color":"","cat_bg":"","cat_bg_hover":"","cat_txt":"","cat_txt_hover":"","cat_border":"","cat_border_hover":"","meta_bg":"","author_txt":"","author_txt_hover":"","date_txt":"","ex_txt":"","com_bg":"","com_txt":"","rev_txt":"","audio_btn_color":"","audio_time_color":"","audio_bar_color":"","audio_bar_curr_color":"","shadow_m_shadow_header":"","shadow_m_shadow_title":"Meta info shadow","shadow_m_shadow_size":"","shadow_m_shadow_offset_horizontal":"","shadow_m_shadow_offset_vertical":"","shadow_m_shadow_spread":"","shadow_m_shadow_color":"","btn_bg":"","btn_bg_hover":"","btn_txt":"","btn_txt_hover":"","btn_border":"","btn_border_hover":"","pag_text":"","pag_h_text":"","pag_bg":"","pag_h_bg":"","pag_border":"","pag_h_border":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_102","tdc_css_class":"tdi_102","tdc_css_class_style":"tdi_102_rand_style"}';
-block_tdi_102.td_column_number = "1";
-block_tdi_102.block_type = "td_flex_block_1";
-block_tdi_102.post_count = "4";
-block_tdi_102.found_posts = "117";
-block_tdi_102.header_color = "";
-block_tdi_102.ajax_pagination_infinite_stop = "";
-block_tdi_102.max_num_pages = "30";
-tdBlocksArray.push(block_tdi_102);
-</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Most Popular</span></h4></div><div id=tdi_102 class="td_block_inner td-mc1-wrap">
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" class="td-image-wrap " title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/spinanga-online-casino-a-legfontosabb-t-nyez-k-a-sikeres-j-t-khoz/"  rel="bookmark" title="Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz">Spinanga online casino: A legfontosabb tényezők a sikeres játékhoz</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-07T03:00:00+03:00" >January 7, 2026</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" class="td-image-wrap " title="Pourquoi Instant Casino est une référence pour les joueurs français" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/pourquoi-instant-casino-est-une-r-f-rence-pour-les-joueurs-fran-ais/"  rel="bookmark" title="Pourquoi Instant Casino est une référence pour les joueurs français">Pourquoi Instant Casino est une référence pour les joueurs français</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-28T03:00:00+03:00" >August 28, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" class="td-image-wrap " title="De voordelen van spelen bij een regionaal vertrouwd instant casino be" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/de-voordelen-van-spelen-bij-een-regionaal-vertrouwd-instant-casino-be/"  rel="bookmark" title="De voordelen van spelen bij een regionaal vertrouwd instant casino be">De voordelen van spelen bij een regionaal vertrouwd instant casino be</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-27T03:00:00+03:00" >August 27, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        
-        <div class="td_module_flex td_module_flex_1 td_module_wrap td-animation-stack td-cpt-post">
-            <div class="td-module-container td-category-pos-">
-                                    <div class="td-image-container">
-                                                <div class="td-module-thumb"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" class="td-image-wrap " title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain" ><span class="entry-thumb td-thumb-css" data-type="css_image" data-img-url="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/assets/images/no-thumb/td_218x150.png"  ></span></a></div>                                                                    </div>
-                
-                <div class="td-module-meta-info">
-                                        
-                    <h3 class="entry-title td-module-title"><a href="https://nims.co.ke/kemudahan-transaksi-dengan-istana-casino-deposit-pulsa-untuk-pemain/"  rel="bookmark" title="Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain">Kemudahan Transaksi dengan Istana Casino Deposit Pulsa untuk Pemain</a></h3>
-                    
-                                            <div class="td-editor-date">
-                                                        
-                                                            <span class="td-author-date">
-                                                                                                            <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2025-08-25T03:00:00+03:00" >August 25, 2025</time></span>                                                                                                        </span>
-                                                    </div>
-                    
-                    
-                    
-                                    </div>
-            </div>
-        </div>
-
-        </div><div class="td-load-more-wrap"><a href="#" class="td_ajax_load_more td_ajax_load_more_js" aria-label="Load more" id="next-page-tdi_102" data-td_block_id="tdi_102">Load more<i class="td-load-more-icon td-icon-font td-icon-menu-right"></i></a></div></div><div class="td_block_wrap vc_wp_recentcomments tdi_103 td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_103" >
-<style>.tdi_103 .recentcomments{margin:0px!important;padding:0 0 15px!important;border-bottom-color:#eaeaea}.tdi_103 .td-block-title a,.tdi_103 .td-block-title span{text-transform:uppercase!important}@media (min-width:768px) and (max-width:1018px){.tdi_103 .recentcomments{font-size:12px!important}.tdi_103 .comment-author-link span,.tdi_103 .comment-author-link a{font-size:11px!important}.tdi_103 .recentcomments>a:last-child{font-size:12px!important}}</style><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">Recent Comments</span></h4></div><div id=tdi_103 class="td_wp_recentcomments td_block_inner td-column-1 "></div></div> <!-- ./block --></div></div></div></div></div></div>                </div>
-                            </div> <!-- /.td-main-content-wrap -->
-
-
-                    <div class="td-footer-page td-footer-container td-container-wrap ">
-            <div class="td-sub-footer-container td-container-wrap">
-                <div class="td-container">
-                    <div class="td-pb-row">
-                        <div class="td-pb-span td-sub-footer-menu">
-                                      </div>
-
-                        <div class="td-pb-span td-sub-footer-copy">
-                            &copy; Newspaper WordPress Theme by TagDiv
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-  
-
-
-<style>.tdc-footer-template .td-main-content-wrap{padding-bottom:0}</style>
-
-</div><!--close td-outer-wrap-->
-
+    </div>
 <script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Newspaper/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/hello-elementor/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
+<div class="woocommerce htmove-quick-view-modal" id="htmovequick-viewmodal" style="visibility: hidden;opacity: 0;display:none;"><div class="htmove-modal-dialog product"><div class="htmove-modal-content"><button type="button" class="htmove-modal-close">&times;</button><div class="htmove-modal-body"></div></div></div></div>   <div data-elementor-type="popup" data-elementor-id="2905" class="elementor elementor-2905 elementor-location-popup" data-elementor-settings="{&quot;open_selector&quot;:&quot;a[href=\&quot;#popup-menu-anchor\&quot;]&quot;,&quot;a11y_navigation&quot;:&quot;yes&quot;,&quot;triggers&quot;:[],&quot;timing&quot;:[]}" data-elementor-post-type="elementor_library">
+      <div class="elementor-element elementor-element-c309096 e-flex e-con-boxed e-con e-parent" data-id="c309096" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+          <div class="e-con-inner">
+        <div class="elementor-element elementor-element-f85d498 elementor-widget elementor-widget-image" data-id="f85d498" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+        <div class="elementor-widget-container">
+                              <img width="181" height="58" src="https://tangereapp.com/wp-content/uploads/2024/12/LOGO-1.png" class="attachment-large size-large wp-image-741" alt="" />                              </div>
+        </div>
+        <div class="elementor-element elementor-element-511e788 elementor-widget__width-initial elementor-widget elementor-widget-heading" data-id="511e788" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h2 class="elementor-heading-title elementor-size-default">Launching Soon</h2>        </div>
+        </div>
+        <div class="elementor-element elementor-element-90461de elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="90461de" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+                  <p>We’re currently creating on a new page. We’ll be launching soon.</p>               </div>
+        </div>
+          </div>
+        </div>
+        </div>
+          <script>
+        const lazyloadRunObserver = () => {
+          const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+          const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+            entries.forEach( ( entry ) => {
+              if ( entry.isIntersecting ) {
+                let lazyloadBackground = entry.target;
+                if( lazyloadBackground ) {
+                  lazyloadBackground.classList.add( 'e-lazyloaded' );
+                }
+                lazyloadBackgroundObserver.unobserve( entry.target );
+              }
+            });
+          }, { rootMargin: '200px 0px 200px 0px' } );
+          lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+            lazyloadBackgroundObserver.observe( lazyloadBackground );
+          } );
+        };
+        const events = [
+          'DOMContentLoaded',
+          'elementor/lazyload/observe',
+        ];
+        events.forEach( ( event ) => {
+          document.addEventListener( event, lazyloadRunObserver );
+        } );
+      </script>
+      <link rel='stylesheet' id='widget-icon-list-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='widget-post-info-css' href='https://tangereapp.com/wp-content/plugins/elementor-pro/assets/css/widget-post-info.min.css?ver=3.35.1' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://tangereapp.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.35.5' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://tangereapp.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.9' media='all' />
+<script src="https://tangereapp.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script src="https://tangereapp.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/tangereapp.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js"></script>
+<script src="https://tangereapp.com/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.6" id="hello-theme-frontend-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.5" id="elementor-webpack-runtime-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.35.5" id="elementor-frontend-modules-js"></script>
+<script src="https://tangereapp.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.35.5","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_editor_one":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/tangereapp.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/tangereapp.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"491387f2c7"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"body_background_background":"classic","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","hello_header_logo_type":"title","hello_header_menu_layout":"horizontal","hello_footer_logo_type":"logo"},"post":{"id":10,"title":"Market%20Research%20Philippines%20%7C%20Consumer%20Insights%20by%20Tangere","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.5" id="elementor-frontend-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://tangereapp.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.9" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+    var elementskit = {
+      resturl: 'https://tangereapp.com/wp-json/elementskit/v1/',
+    }
 
+    
+//# sourceURL=elementskit-framework-js-frontend-js-after
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.9" id="ekit-widget-scripts-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.35.1" id="elementor-pro-webpack-runtime-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/tangereapp.com\/wp-admin\/admin-ajax.php","nonce":"7479f54886","urls":{"assets":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/tangereapp.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/tangereapp.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+//# sourceURL=elementor-pro-frontend-js-before
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.35.1" id="elementor-pro-frontend-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.35.1" id="pro-elements-handlers-js"></script>
+<script src="https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.9" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https://tangereapp.com/wp-admin/admin-ajax.php","nonce":"4c6ceb4061"};
+//# sourceURL=elementskit-elementor-js-extra
+</script>
+<script src="https://tangereapp.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.9" id="elementskit-elementor-js"></script>
+    <style>
+      .unlimited-elements-background-overlay{
+        position:absolute;
+        top:0px;
+        left:0px;
+        width:100%;
+        height:100%;
+        z-index:0;
+      }
 
-    <!--
+      .unlimited-elements-background-overlay.uc-bg-front{
+        z-index:999;
+      }
+    </style>
 
-        Theme: Newspaper by tagDiv.com 2024
-        Version: 12.6.6 (rara)
-        Deploy mode: deploy
+    <script type='text/javascript'>
+
+      jQuery(document).ready(function(){
+          
+        function ucBackgroundOverlayPutStart(){
         
-        uid: 698c4b9abf4cf
-    -->
+          var objBG = jQuery(".unlimited-elements-background-overlay").not(".uc-bg-attached");
 
-    <script type="text/javascript" id="toc-front-js-extra">
-/* <![CDATA[ */
-var tocplus = {"visibility_show":"show","visibility_hide":"hide","width":"Auto"};
-//# sourceURL=toc-front-js-extra
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2408" id="toc-front-js"></script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.6" id="td-site-min-js"></script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdPostImages.js?ver=12.6.6" id="tdPostImages-js"></script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdSocialSharing.js?ver=12.6.6" id="tdSocialSharing-js"></script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdModalPostImages.js?ver=12.6.6" id="tdModalPostImages-js"></script>
-<script type="text/javascript" src="https://c0.wp.com/c/6.9/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async" fetchpriority="low"></script>
-<script type="text/javascript" src="https://stats.wp.com/e-202607.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
-<script type="text/javascript" id="jetpack-stats-js-after">
-/* <![CDATA[ */
-_stq = window._stq || [];
-_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"193732070\",\"post\":\"490\",\"tz\":\"3\",\"srv\":\"nims.co.ke\",\"j\":\"1:13.8.2\"}") ]);
-_stq.push([ "clickTrackerInit", "193732070", "490" ]);
-//# sourceURL=jetpack-stats-js-after
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=b379c96c54343541fd8742379a419361" id="tdb_js_files_for_front-js"></script>
-<script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://nims.co.ke/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+          if(objBG.length == 0)
+            return(false);
+
+          objBG.each(function(index, bgElement){
+
+            var objBgElement = jQuery(bgElement);
+
+            var targetID = objBgElement.data("forid");
+
+            var location = objBgElement.data("location");
+
+            switch(location){
+              case "body":
+              case "body_front":
+                var objTarget = jQuery("body");
+              break;
+              case "layout":
+              case "layout_front":
+                var objLayout = jQuery("*[data-id=\""+targetID+"\"]");
+                var objTarget = objLayout.parents(".elementor");
+                if(objTarget.length > 1)
+                  objTarget = jQuery(objTarget[0]);
+              break;
+              default:
+                var objTarget = jQuery("*[data-id=\""+targetID+"\"]");
+              break;
+            }
+
+
+            if(objTarget.length == 0)
+              return(true);
+
+            var objVideoContainer = objTarget.children(".elementor-background-video-container");
+
+            if(objVideoContainer.length == 1)
+              objBgElement.detach().insertAfter(objVideoContainer).show();
+            else
+              objBgElement.detach().prependTo(objTarget).show();
+
+
+            var objTemplate = objBgElement.children("template");
+
+            if(objTemplate.length){
+              
+                  var clonedContent = objTemplate[0].content.cloneNode(true);
+
+                var objScripts = jQuery(clonedContent).find("script");
+                if(objScripts.length)
+                  objScripts.attr("type","text/javascript");
+                  
+                  objBgElement.append(clonedContent);
+              
+              objTemplate.remove();
+            }
+
+            objBgElement.trigger("bg_attached");
+            objBgElement.addClass("uc-bg-attached");
+
+          });
+        }
+
+        ucBackgroundOverlayPutStart();
+
+        jQuery( document ).on( 'elementor/popup/show', ucBackgroundOverlayPutStart);
+        jQuery( "body" ).on( 'uc_dom_updated', ucBackgroundOverlayPutStart);
+
+      });
+
+
+    </script>
+    <script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://tangereapp.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
 </script>
 <script type="module">
-/* <![CDATA[ */
 /*! This file is auto-generated */
 const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
-//# sourceURL=https://nims.co.ke/wp-includes/js/wp-emoji-loader.min.js
-/* ]]> */
+//# sourceURL=https://tangereapp.com/wp-includes/js/wp-emoji-loader.min.js
 </script>
-
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdToTop.js?ver=12.6.6" id="tdToTop-js"></script>
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdMenu.js?ver=12.6.6" id="tdMenu-js"></script>
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxSearch.js?ver=12.6.6" id="tdAjaxSearch-js"></script>
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdTrendingNow.js?ver=12.6.6" id="tdTrendingNow-js"></script>
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLoadingBox.js?ver=12.6.6" id="tdLoadingBox-js"></script>
-
-<script type="text/javascript" src="https://nims.co.ke/wp-content/plugins/td-composer/legacy/Newspaper/js/tdSmartSidebar.js?ver=12.6.6" id="tdSmartSidebar-js"></script>
-<!-- JS generated by theme -->
-
-<script type="text/javascript" id="td-generated-footer-js">
-    
-</script>
-
-
-<script>var td_res_context_registered_atts=["style_general_trending_now","style_general_bgf","style_general_bgf_5_specific","style_general_text_with_title","style_general_bgf_1_specific","style_general_loop_2","style_general_module_loop"];</script>
 
 </body>
+
+<div class="sponsor-area" style="position:absolute; left:-9999px;">
+<a href="https://restaurantelacovatalla.com/" rel="dofollow">mpo1221</a><br>
+<a href="https://raphanocturne.com/" rel="dofollow">https://raphanocturne.com/</a><br>
+<a href="https://hakamultisport.com/" rel="dofollow">https://hakamultisport.com/</a><br>
+<a href="https://20minutemom.com/" rel="dofollow">https://20minutemom.com/</a><br>
+<a href="https://kambolawellbeing.com/" rel="dofollow">https://kambolawellbeing.com/</a><br>
+<a href="https://clubsport-bienetre.com/faq/" rel="dofollow">https://clubsport-bienetre.com/faq/</a><br>
+<a href="https://meyrarguescvous.fr/contact-us/" rel="dofollow">bacan4d</a><br>
+<a href="https://greenclinic.kz/ru/vacancies/" rel="dofollow">gacha168</a><br>
+<a href="https://www.callcomplete.com.br/contacto/" rel="dofollow">wdbos</a><br>
+<a href="https://idcuan.site/" rel="dofollow">idcuan</a><br>
+<a href="https://alkemieicecream.com/" rel="dofollow">https://alkemieicecream.com/</a><br>
+<a href="https://georgessausageanddeli.com/" rel="dofollow">https://georgessausageanddeli.com/</a><br>
+<a href="https://saddleworthlive.com/" rel="dofollow">https://saddleworthlive.com/</a><br>
+<a href="https://sgm.edu.in/sgmkplibrary/pdf/" rel="dofollow">https://sgm.edu.in/sgmkplibrary/pdf/</a><br>
+<a href="https://blogrecuperado.haskellcosmeticos.com.br/alisamento/" rel="dofollow">slot pulsa axis</a><br>
+<a href="https://italycambodia.com/" rel="dofollow">https://italycambodia.com/</a><br>
+<a href="https://www.callcomplete.com.br/" rel="dofollow">madu303</a><br>
+<a href="https://www.sanemaltayli.com/basinda/" rel="dofollow">https://www.sanemaltayli.com/basinda/</a><br>
+<a href="https://www.prismati.net.br/servicos/" rel="dofollow">idcuan</a><br>
+<a href="https://www.maxschiavetta.com/la-mascotte-un-utile-ausilio-per-una-comunicazione-completa/
+" rel="dofollow">lunatogel</a><br>
+<a href="https://clubsport-bienetre.com/tarifs/" rel="dofollow">https://clubsport-bienetre.com/tarifs/</a><br>
+<a href="https://panjurtamir.com/haberler/" rel="dofollow">https://panjurtamir.com/haberler/</a><br>
+<a href="https://vodina.com.tr/egitim/" rel="dofollow">https://vodina.com.tr/egitim/</a><br>
+
+
+<a href="https://sophiaoutdoor.com/contact/" rel="dofollow">SLOT GACOR</a><br>
+<a href="https://alnashospital.com/gallery/" rel="dofollow">J200M</a><br>
+<a href="https://panjurtamir.com/hizmetlerimiz/" rel="dofollow">toto22</a><br>
+<a href="https://tangereapp.com/about/" rel="dofollow">BP9</a><br>
+<a href="https://clubsport-bienetre.com/planning/" rel="dofollow">https://clubsport-bienetre.com/planning/</a><br>
+<a href="https://clubsport-bienetre.com/faq/" rel="dofollow">JONITOGEL</a><br>
+<a href="https://clubsport-bienetre.com/diet-guide/" rel="dofollow">LASKARTOGEL</a><br>
+<a href="https://clubsport-bienetre.com/contact/" rel="dofollow">https://clubsport-bienetre.com/contact/</a><br>
+<a href="https://www.frenchdigitalbusiness.fr/contact-us/" rel="dofollow">https://www.frenchdigitalbusiness.fr/contact-us/</a><br>
+<a href="https://kelepcerezistans.com.tr/iletisim/" rel="dofollow">toto22</a><br>
+<a href="https://wdbos-88.com" rel="dofollow">wdbos88</a><br>
+<a href="https://spm.du.ac.in/" rel="dofollow">SLOT GACOR</a><br>
+<a href="https://ndkrezistans.com/kvkk/" rel="dofollow">https://ndkrezistans.com/kvkk/</a><br>
+<a href="https://staholiday.com/faqs/" rel="dofollow">https://staholiday.com/faqs/</a><br>
+<a href="https://nehirfisekrezistans.com.tr/urunlerimiz/" rel="dofollow">https://nehirfisekrezistans.com.tr/urunlerimiz/</a><br>
+<a href="https://diyetisyenkubrayazici.com/hakkimda/" rel="dofollow">wdbos88</a><br>
+<a href="https://vuralyapidizayn.com/iletisim/" rel="dofollow">jnt777</a><br>
+<a href="https://www.rbnoxmoveishospitalares.com.br/contato/" rel="dofollow">raja01</a><br>
+<a href="https://kurbsidekitchen.co.uk/booking-enquiry/" rel="dofollow">https://kurbsidekitchen.co.uk/booking-enquiry/</a><br>
+<a href="https://punjabhsrp.in/" rel="dofollow">toto33</a><br>
+<a href="https://stmplastic.com/" rel="dofollow">F200M</a><br>
+<a href="https://citydoner.com.tr/contact-us/" rel="dofollow">toto1000</a><br>
+<a href="https://clubsport-bienetre.com/training-plans/" rel="dofollow">virtusplay</a><br>
+
+</div>
+
 </html>
